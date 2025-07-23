@@ -1,0 +1,269 @@
+"","SNP","exposure","id.exposure","effect_allele.exposure","other_allele.exposure","eaf.exposure","beta.exposure","se.exposure","pval.exposure"
+"1","rs1012167","Birthweight_21NG","K6sXb6","C","T",NA,0.025,0.00250413141434306,1.8e-23
+"2","rs10181515","Birthweight_21NG","K6sXb6","T","C",NA,0.023,0.00290990322845438,2.7e-15
+"3","rs10221267","Birthweight_21NG","K6sXb6","T","C",NA,0.017,0.00249434999697773,9.4e-12
+"4","rs10265057","Birthweight_21NG","K6sXb6","G","A",NA,0.03,0.0042765691683176,2.3e-12
+"5","rs10283100","Birthweight_21NG","K6sXb6","A","G",NA,-0.042,0.00557029762798619,4.7e-14
+"6","rs10767933","Birthweight_21NG","K6sXb6","G","A",NA,-0.017,0.00273487935542152,5.1e-10
+"7","rs10830963","Birthweight_21NG","K6sXb6","G","C",NA,0.022,0.00279849973315237,3.8e-15
+"8","rs10863200","Birthweight_21NG","K6sXb6","G","A",NA,0.017,0.00262229941399969,9e-11
+"9","rs10872678","Birthweight_21NG","K6sXb6","C","T",NA,-0.035,0.00271989088873553,6.8e-38
+"10","rs10883846","Birthweight_21NG","K6sXb6","T","C",NA,-0.019,0.00253869122774247,7.2e-14
+"11","rs10935733","Birthweight_21NG","K6sXb6","T","C",NA,0.019,0.00251289703834116,4e-14
+"12","rs11042596","Birthweight_21NG","K6sXb6","T","G",NA,0.026,0.00265700276246791,1.3e-22
+"13","rs11082304","Birthweight_21NG","K6sXb6","G","T",NA,-0.016,0.00239544171760807,2.4e-11
+"14","rs11187141","Birthweight_21NG","K6sXb6","T","A",NA,0.027,0.00254946662761636,3.3e-26
+"15","rs114670539","Birthweight_21NG","K6sXb6","T","C",NA,-0.004,0.0056632953219308,0.48
+"16","rs11676272","Birthweight_21NG","K6sXb6","G","A",NA,0,NA,0.95
+"17","rs116807401","Birthweight_21NG","K6sXb6","C","T",NA,0.079,0.010083359737208,4.7e-15
+"18","rs11698914","Birthweight_21NG","K6sXb6","C","G",NA,0.033,0.00296756122833681,1e-28
+"19","rs11708067","Birthweight_21NG","K6sXb6","G","A",NA,0.044,0.00286851642025455,4.2e-53
+"20","rs11853312","Birthweight_21NG","K6sXb6","C","A",NA,0.024,0.00385711069707897,4.9e-10
+"21","rs11867479","Birthweight_21NG","K6sXb6","T","C",NA,0.018,0.00255061885245901,1.7e-12
+"22","rs11983722","Birthweight_21NG","K6sXb6","T","A",NA,-0.034,0.00512625543956307,3.3e-11
+"23","rs12042908","Birthweight_21NG","K6sXb6","A","G",NA,0.007,0.00237461800489028,0.0032
+"24","rs12401656","Birthweight_21NG","K6sXb6","A","G",NA,-0.028,0.00367109594534045,2.4e-14
+"25","rs12641981","Birthweight_21NG","K6sXb6","T","C",NA,0.004,0.00277868187028403,0.15
+"26","rs12656216","Birthweight_21NG","K6sXb6","G","A",NA,-0.02,0.00307110324456339,7.4e-11
+"27","rs13018621","Birthweight_21NG","K6sXb6","T","A",NA,-0.045,0.0073300868045394,8.3e-10
+"28","rs13257363","Birthweight_21NG","K6sXb6","A","G",NA,-0.019,0.00249910991822897,2.9e-14
+"29","rs13266210","Birthweight_21NG","K6sXb6","G","A",NA,-0.028,0.00298076219841958,5.8e-21
+"30","rs13322435","Birthweight_21NG","K6sXb6","G","A",NA,-0.054,0.00255572153424105,4.3e-99
+"31","rs134594","Birthweight_21NG","K6sXb6","C","T",NA,0.017,0.00254278325234877,2.3e-11
+"32","rs1374204","Birthweight_21NG","K6sXb6","C","T",NA,-0.047,0.00278084906172888,4.4e-64
+"33","rs1415701","Birthweight_21NG","K6sXb6","A","G",NA,-0.019,0.00273144381229655,3.5e-12
+"34","rs147110934","Birthweight_21NG","K6sXb6","T","G",0.9,-0.053,0.00853468433543651,5.3e-10
+"35","rs17817449","Birthweight_21NG","K6sXb6","G","T",NA,0.006,0.00228348846285537,0.0086
+"36","rs1819436","Birthweight_21NG","K6sXb6","T","C",NA,-0.028,0.00382846267200956,2.6e-13
+"37","rs1981627","Birthweight_21NG","K6sXb6","A","G",NA,-0.018,0.00253724523134131,1.3e-12
+"38","rs2131354","Birthweight_21NG","K6sXb6","G","A",NA,-0.027,0.00247609940931821,1.1e-27
+"39","rs2168443","Birthweight_21NG","K6sXb6","T","A",NA,0.017,0.0025835309739035,4.7e-11
+"40","rs220193","Birthweight_21NG","K6sXb6","A","G",NA,0.021,0.0029684120969073,1.5e-12
+"41","rs222857","Birthweight_21NG","K6sXb6","C","T",NA,-0.028,0.00244418319696164,2.2e-30
+"42","rs2229742","Birthweight_21NG","K6sXb6","C","G",NA,-0.027,0.00394504859157304,7.7e-12
+"43","rs2280235","Birthweight_21NG","K6sXb6","G","A",NA,0.019,0.00285861692016227,3e-11
+"44","rs2282978","Birthweight_21NG","K6sXb6","C","T",NA,0.019,0.00256175783219097,1.2e-13
+"45","rs2293031","Birthweight_21NG","K6sXb6","T","C",NA,-0.018,0.00278206916317453,9.8e-11
+"46","rs2306547","Birthweight_21NG","K6sXb6","C","T",NA,0.019,0.00247419410465026,1.6e-14
+"47","rs2306700","Birthweight_21NG","K6sXb6","T","C",NA,0.024,0.00368532389347607,7.4e-11
+"48","rs2418135","Birthweight_21NG","K6sXb6","G","A",NA,-0.02,0.00242459664326634,1.6e-16
+"49","rs2529415","Birthweight_21NG","K6sXb6","C","T",NA,0.017,0.00262364125996347,9.2e-11
+"50","rs255055","Birthweight_21NG","K6sXb6","G","A",NA,-0.015,0.0024974470678329,1.9e-09
+"51","rs2608029","Birthweight_21NG","K6sXb6","G","C",NA,0.017,0.00256810358998937,3.6e-11
+"52","rs2779165","Birthweight_21NG","K6sXb6","G","C",NA,0.02,0.00323481381070344,6.3e-10
+"53","rs28365970","Birthweight_21NG","K6sXb6","A","C",NA,-0.021,0.00286713562729685,2.4e-13
+"54","rs28378473","Birthweight_21NG","K6sXb6","T","C",NA,0.025,0.00289054231292683,5.2e-18
+"55","rs28407694","Birthweight_21NG","K6sXb6","T","C",NA,-0.016,0.00259944346890794,7.5e-10
+"56","rs28457693","Birthweight_21NG","K6sXb6","G","A",NA,0.047,0.00396811275632564,2.3e-32
+"57","rs28544888","Birthweight_21NG","K6sXb6","T","C",NA,-0.026,0.0043349177349226,2e-09
+"58","rs28681372","Birthweight_21NG","K6sXb6","G","A",NA,-0.017,0.00264002515712413,1.2e-10
+"59","rs2930973","Birthweight_21NG","K6sXb6","A","G",NA,-0.017,0.0024767217961783,6.7e-12
+"60","rs2934844","Birthweight_21NG","K6sXb6","A","T",NA,-0.023,0.00272040642862219,2.8e-17
+"61","rs3184504","Birthweight_21NG","K6sXb6","T","C",NA,-0.023,0.00240161184774126,1e-21
+"62","rs339969","Birthweight_21NG","K6sXb6","C","A",NA,-0.018,0.00254435322592054,1.5e-12
+"63","rs34776209","Birthweight_21NG","K6sXb6","T","C",NA,-0.024,0.0028746882118768,6.9e-17
+"64","rs35261542","Birthweight_21NG","K6sXb6","A","C",NA,-0.041,0.00275683517458735,5e-50
+"65","rs3751921","Birthweight_21NG","K6sXb6","G","A",NA,0.018,0.00255349543259131,1.8e-12
+"66","rs3806315","Birthweight_21NG","K6sXb6","G","A",NA,-0.018,0.00258616492222202,3.4e-12
+"67","rs3933326","Birthweight_21NG","K6sXb6","A","G",NA,-0.022,0.00267161955096004,1.8e-16
+"68","rs41311445","Birthweight_21NG","K6sXb6","C","A",NA,-0.03,0.00429030132333522,2.7e-12
+"69","rs41355649","Birthweight_21NG","K6sXb6","A","G",NA,-0.037,0.00512089524650622,5e-13
+"70","rs4144829","Birthweight_21NG","K6sXb6","C","T",NA,0.034,0.00277572813186055,1.7e-34
+"71","rs4277441","Birthweight_21NG","K6sXb6","G","A",NA,0.017,0.0026581099248495,1.6e-10
+"72","rs4350272","Birthweight_21NG","K6sXb6","A","G",NA,0.017,0.00269196375267344,2.7e-10
+"73","rs4444073","Birthweight_21NG","K6sXb6","C","A",NA,-0.022,0.00245089577801841,2.8e-19
+"74","rs4477562","Birthweight_21NG","K6sXb6","T","C",NA,-0.003,0.00380135799700256,0.43
+"75","rs4719648","Birthweight_21NG","K6sXb6","T","C",NA,-0.02,0.00247761615098031,6.9e-16
+"76","rs4925109","Birthweight_21NG","K6sXb6","A","G",NA,-0.017,0.00265402093729205,1.5e-10
+"77","rs4932373","Birthweight_21NG","K6sXb6","C","A",NA,-0.022,0.00264112954931609,8.1e-17
+"78","rs4953353","Birthweight_21NG","K6sXb6","T","G",NA,-0.019,0.00255207429253446,9.7e-14
+"79","rs516246","Birthweight_21NG","K6sXb6","C","T",NA,0.018,0.00238727041199408,4.7e-14
+"80","rs543874","Birthweight_21NG","K6sXb6","G","A",NA,-0.003,0.00283521284307956,0.29
+"81","rs544241","Birthweight_21NG","K6sXb6","T","C",NA,-0.015,0.00282518970526478,1.1e-07
+"82","rs55836809","Birthweight_21NG","K6sXb6","G","A",NA,-0.02,0.00297906840245836,1.9e-11
+"83","rs56133711","Birthweight_21NG","K6sXb6","A","G",NA,0.006,0.00281414897151152,0.033
+"84","rs56711588","Birthweight_21NG","K6sXb6","T","C",NA,-0.015,0.00242205841487314,5.9e-10
+"85","rs571312","Birthweight_21NG","K6sXb6","A","C",NA,-0.001,0.00358013553203844,0.78
+"86","rs5742915","Birthweight_21NG","K6sXb6","C","T",NA,0.015,0.00239050021316835,3.5e-10
+"87","rs6040076","Birthweight_21NG","K6sXb6","G","C",NA,-0.019,0.00245378857684888,9.7e-15
+"88","rs6104763","Birthweight_21NG","K6sXb6","G","A",NA,-0.013,0.00266784350784356,1.1e-06
+"89","rs61765651","Birthweight_21NG","K6sXb6","T","C",NA,-0.004,0.00291501887239238,0.17
+"90","rs61830764","Birthweight_21NG","K6sXb6","A","G",NA,0.016,0.00259388049272169,6.9e-10
+"91","rs62496903","Birthweight_21NG","K6sXb6","T","C",NA,0.033,0.00452119191352723,2.9e-13
+"92","rs62500888","Birthweight_21NG","K6sXb6","G","A",NA,-0.004,0.00242465231732517,0.099
+"93","rs6467157","Birthweight_21NG","K6sXb6","C","T",NA,-0.019,0.00272984075123435,3.4e-12
+"94","rs6533183","Birthweight_21NG","K6sXb6","C","T",NA,0.023,0.00257194894035311,3.8e-19
+"95","rs6575803","Birthweight_21NG","K6sXb6","T","C",NA,-0.034,0.00414624352077051,2.4e-16
+"96","rs6582623","Birthweight_21NG","K6sXb6","T","C",NA,-0.025,0.00369937060785282,1.4e-11
+"97","rs6706968","Birthweight_21NG","K6sXb6","A","C",NA,-0.015,0.00244024494361289,7.9e-10
+"98","rs6930558","Birthweight_21NG","K6sXb6","G","T",NA,-0.023,0.00282909795550093,4.3e-16
+"99","rs7075355","Birthweight_21NG","K6sXb6","G","A",NA,-0.015,0.00237306990588898,2.6e-10
+"100","rs7076938","Birthweight_21NG","K6sXb6","C","T",NA,-0.034,0.00277871989876201,2e-34
+"101","rs71365431","Birthweight_21NG","K6sXb6","C","T",NA,-0.018,0.00245363855734288,2.2e-13
+"102","rs7138803","Birthweight_21NG","K6sXb6","A","G",NA,0.004,0.00233721371110162,0.087
+"103","rs7199285","Birthweight_21NG","K6sXb6","T","C",NA,-0.002,0.00318468287567463,0.53
+"104","rs7223535","Birthweight_21NG","K6sXb6","A","G",NA,-0.022,0.00278498255622837,2.8e-15
+"105","rs72656010","Birthweight_21NG","K6sXb6","C","T",NA,-0.028,0.00362359726437027,1.1e-14
+"106","rs72737240","Birthweight_21NG","K6sXb6","C","T",NA,0.016,0.00295268261479375,6e-08
+"107","rs72813918","Birthweight_21NG","K6sXb6","T","C",NA,-0.025,0.00361407338446851,4.6e-12
+"108","rs72909084","Birthweight_21NG","K6sXb6","T","C",NA,-0.037,0.00572139784279521,1e-10
+"109","rs732563","Birthweight_21NG","K6sXb6","T","C",NA,-0.018,0.00247599401630191,3.6e-13
+"110","rs73354194","Birthweight_21NG","K6sXb6","C","T",NA,0.052,0.00844527302027229,7.4e-10
+"111","rs7354849","Birthweight_21NG","K6sXb6","G","A",NA,0.016,0.00253127456628158,2.6e-10
+"112","rs7402983","Birthweight_21NG","K6sXb6","A","C",NA,0.026,0.0025629250809978,3.5e-24
+"113","rs74465052","Birthweight_21NG","K6sXb6","A","T",NA,-0.034,0.00529004075981979,1.3e-10
+"114","rs75104038","Birthweight_21NG","K6sXb6","A","G",NA,0.046,0.00527807662373159,2.9e-18
+"115","rs753381","Birthweight_21NG","K6sXb6","T","C",NA,0.015,0.00237738030035387,2.8e-10
+"116","rs7563664","Birthweight_21NG","K6sXb6","T","G",NA,0.028,0.00408891095006946,7.5e-12
+"117","rs76094073","Birthweight_21NG","K6sXb6","G","C",NA,0.025,0.00369937060785282,1.4e-11
+"118","rs76895963","Birthweight_21NG","K6sXb6","G","T",NA,0.073,0.00989351744352361,1.6e-13
+"119","rs7744700","Birthweight_21NG","K6sXb6","A","T",NA,-0.02,0.00276258242111238,4.5e-13
+"120","rs7843131","Birthweight_21NG","K6sXb6","C","T",NA,0.015,0.00268443259414178,2.3e-08
+"121","rs7854962","Birthweight_21NG","K6sXb6","G","C",NA,-0.022,0.00299089807892439,1.9e-13
+"122","rs7968682","Birthweight_21NG","K6sXb6","T","G",NA,-0.042,0.00245363733162741,1.1e-65
+"123","rs80089232","Birthweight_21NG","K6sXb6","C","T",NA,0.048,0.00491579859256889,1.6e-22
+"124","rs80278614","Birthweight_21NG","K6sXb6","A","G",NA,0.041,0.00562415774212791,3.1e-13
+"125","rs8038207","Birthweight_21NG","K6sXb6","T","G",NA,-0.015,0.0023984543565144,4e-10
+"126","rs8106042","Birthweight_21NG","K6sXb6","G","C",NA,0.02,0.00278796341704319,7.3e-13
+"127","rs817362","Birthweight_21NG","K6sXb6","G","A",NA,0.028,0.00404408100242045,4.4e-12
+"128","rs854037","Birthweight_21NG","K6sXb6","G","A",NA,-0.026,0.00317255590752805,2.5e-16
+"129","rs905938","Birthweight_21NG","K6sXb6","C","T",NA,0.027,0.00280072623987022,5.4e-22
+"130","rs9379084","Birthweight_21NG","K6sXb6","A","G",NA,-0.026,0.00391739677568605,3.2e-11
+"131","rs939584","Birthweight_21NG","K6sXb6","C","T",NA,-0.002,0.00270692092983216,0.46
+"132","rs9549046","Birthweight_21NG","K6sXb6","A","G",NA,0.028,0.00392678958118957,1e-12
+"133","rs9645500","Birthweight_21NG","K6sXb6","T","G",NA,-0.025,0.00264728027985286,3.6e-21
+"134","rs9886562","Birthweight_21NG","K6sXb6","A","G",NA,0.024,0.00320906772790941,7.5e-14
+"135","rs1012167","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","C","T",NA,0.007,0.0078,0.3694
+"136","rs10181515","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","T","C",NA,0.0148,0.0089,0.09621
+"137","rs10221267","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","T","C",NA,0.0104,0.0076,0.1732
+"138","rs10265057","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","G","A",NA,0.0209,0.0133,0.1147
+"139","rs10283100","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","A","G",NA,-0.0388,0.0197,0.0494698
+"140","rs10767933","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","G","A",NA,-0.0064,0.0084,0.446
+"141","rs10830963","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","G","C",NA,0.0211,0.0092,0.0214501
+"142","rs10863200","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","G","A",NA,0.0079,0.009,0.3773
+"143","rs10872678","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","C","T",NA,-0.0221,0.0087,0.01133
+"144","rs10883846","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","T","C",NA,0.007,0.008,0.38
+"145","rs10935733","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","T","C",NA,0.0133,0.008,0.0961789
+"146","rs11042596","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","T","G",NA,0.013,0.0085,0.1284
+"147","rs11082304","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","G","T",NA,-0.0203,0.0079,0.01064
+"148","rs11187141","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","T","A",NA,-0.005,0.0078,0.521601
+"149","rs114670539","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","T","C",NA,0.0991,0.0179,3.15697e-08
+"150","rs11676272","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","G","A",NA,0.075,0.0079,2.37301e-21
+"151","rs116807401","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","C","T",NA,0.0673,0.0408,0.098951
+"152","rs11698914","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","C","G",NA,-0.0086,0.0091,0.3439
+"153","rs11708067","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","G","A",NA,-0.0061,0.0096,0.5274
+"154","rs11853312","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","C","A",NA,-0.0114,0.0123,0.3533
+"155","rs11867479","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","T","C",NA,0.0134,0.0085,0.1125
+"156","rs11983722","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","T","A",NA,0.0075,0.017,0.6584
+"157","rs12042908","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","A","G",NA,0.0586,0.0077,2.76503e-14
+"158","rs12401656","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","A","G",NA,0.0027,0.0115,0.8111
+"159","rs12641981","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","T","C",NA,0.044,0.008,4.18697e-08
+"160","rs12656216","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","G","A",NA,-0.0301,0.0094,0.001299
+"161","rs13018621","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","T","A",NA,-0.0199,0.0248,0.4236
+"162","rs13257363","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","A","G",NA,-0.0071,0.0079,0.3677
+"163","rs13266210","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","G","A",NA,0.001,0.009,0.9085
+"164","rs13322435","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","G","A",NA,-0.0188,0.008,0.01925
+"165","rs134594","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","C","T",NA,0.0173,0.008,0.0302503
+"166","rs1374204","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","C","T",NA,-0.0162,0.0087,0.0627105
+"167","rs1415701","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","A","G",NA,-0.0102,0.0091,0.2615
+"168","rs147110934","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","T","G",NA,-6e-04,0.0275,0.9812
+"169","rs17817449","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","G","T",NA,0.0683,0.008,1.69005e-17
+"170","rs1819436","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","T","C",NA,-0.0074,0.0112,0.5058
+"171","rs1981627","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","A","G",NA,-0.0094,0.0078,0.2279
+"172","rs2131354","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","G","A",NA,-0.0076,0.0076,0.3208
+"173","rs2168443","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","T","A",NA,-0.0132,0.0081,0.1016
+"174","rs220193","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","A","G",NA,0.0083,0.0089,0.3543
+"175","rs222857","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","C","T",NA,-0.0087,0.0078,0.2623
+"176","rs2229742","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","C","G",NA,-0.0242,0.0127,0.0574302
+"177","rs2280235","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","G","A",NA,0.0209,0.0088,0.0178599
+"178","rs2282978","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","C","T",NA,0.0025,0.0084,0.766699
+"179","rs2293031","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","T","C",NA,-0.0105,0.0085,0.2137
+"180","rs2306547","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","C","T",NA,0.0073,0.0076,0.3341
+"181","rs2306700","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","T","C",NA,0.0109,0.0111,0.3252
+"182","rs2418135","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","G","A",NA,-0.0122,0.0079,0.1234
+"183","rs2529415","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","C","T",NA,-0.0041,0.0079,0.6042
+"184","rs255055","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","G","A",NA,0.0129,0.0079,0.1048
+"185","rs2608029","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","G","C",NA,-3e-04,0.008,0.9667
+"186","rs2779165","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","G","C",NA,-0.0014,0.0106,0.8943
+"187","rs28365970","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","A","C",NA,-0.0072,0.0087,0.4032
+"188","rs28378473","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","T","C",NA,-0.0043,0.01,0.6671
+"189","rs28407694","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","T","C",NA,0.0017,0.008,0.8311
+"190","rs28457693","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","G","A",NA,0.0056,0.0128,0.662599
+"191","rs28544888","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","T","C",NA,8e-04,0.013,0.9535
+"192","rs28681372","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","G","A",NA,-0.0029,0.0105,0.785001
+"193","rs2930973","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","A","G",NA,-0.0199,0.0082,0.0154198
+"194","rs2934844","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","A","T",NA,-0.0025,0.0089,0.778999
+"195","rs3184504","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","T","C",NA,0.001,0.0079,0.8954
+"196","rs339969","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","C","A",NA,-0.0036,0.0078,0.6414
+"197","rs34776209","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","T","C",NA,-0.0093,0.0089,0.2994
+"198","rs35261542","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","A","C",NA,-0.0078,0.0084,0.356
+"199","rs3751921","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","G","A",NA,0.0095,0.0079,0.2285
+"200","rs3806315","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","G","A",NA,-0.0106,0.0077,0.1727
+"201","rs3933326","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","A","G",NA,-0.0102,0.008,0.2022
+"202","rs41311445","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","C","A",NA,-0.055,0.0142,0.0001102
+"203","rs41355649","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","A","G",NA,-0.0132,0.0182,0.4706
+"204","rs4144829","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","C","T",NA,0.0269,0.0085,0.00164101
+"205","rs4277441","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","G","A",NA,0.0041,0.0084,0.6239
+"206","rs4350272","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","A","G",NA,0.0039,0.0086,0.6553
+"207","rs4444073","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","C","A",NA,-0.0178,0.0078,0.02273
+"208","rs4477562","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","T","C",NA,0.0802,0.0112,8.28705e-13
+"209","rs4719648","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","T","C",NA,-0.0146,0.0077,0.05615
+"210","rs4925109","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","A","G",NA,-0.02,0.0079,0.0116201
+"211","rs4932373","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","C","A",NA,-0.0074,0.0086,0.3915
+"212","rs4953353","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","T","G",NA,0.0027,0.0078,0.7248
+"213","rs516246","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","C","T",NA,0.0113,0.0077,0.1403
+"214","rs543874","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","G","A",NA,0.0793,0.0099,1.61585e-15
+"215","rs544241","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","T","C",NA,0.0029,0.0092,0.751299
+"216","rs55836809","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","G","A",NA,-0.001,0.0096,0.9135
+"217","rs56133711","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","A","G",NA,0.0566,0.0089,2.00101e-10
+"218","rs56711588","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","T","C",NA,-0.0112,0.0076,0.1388
+"219","rs571312","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","A","C",NA,0.059,0.0093,1.996e-10
+"220","rs5742915","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","C","T",NA,-0.0026,0.008,0.7483
+"221","rs6040076","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","G","C",NA,-0.0072,0.008,0.3678
+"222","rs6104763","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","G","A",NA,-0.008,0.0079,0.3159
+"223","rs61765651","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","T","C",NA,-0.0584,0.0102,9.50298e-09
+"224","rs61830764","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","A","G",NA,-3e-04,0.0086,0.9693
+"225","rs62496903","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","T","C",NA,-0.0075,0.0156,0.6284
+"226","rs62500888","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","G","A",NA,-0.0472,0.0076,6.91003e-10
+"227","rs6467157","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","C","T",NA,0.0067,0.0088,0.4471
+"228","rs6533183","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","C","T",NA,0.0062,0.0078,0.4277
+"229","rs6575803","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","T","C",NA,-0.0108,0.0142,0.4481
+"230","rs6582623","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","T","C",NA,-0.0153,0.0126,0.2229
+"231","rs6706968","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","A","C",NA,-0.0076,0.0076,0.3198
+"232","rs6930558","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","G","T",NA,-0.0088,0.0088,0.314
+"233","rs7075355","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","G","A",NA,-0.0128,0.0076,0.0934609
+"234","rs7076938","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","C","T",NA,-0.0085,0.0089,0.3397
+"235","rs71365431","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","C","T",NA,-0.0061,0.0079,0.4432
+"236","rs7138803","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","A","G",NA,0.0729,0.008,7.11541e-20
+"237","rs7199285","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","T","C",NA,-0.0647,0.0101,1.33999e-10
+"238","rs7223535","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","A","G",NA,0.001,0.0088,0.9065
+"239","rs72656010","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","C","T",NA,0.0023,0.0117,0.8464
+"240","rs72737240","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","C","T",NA,-7e-04,0.0091,0.9387
+"241","rs72813918","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","T","C",NA,0.0173,0.0116,0.1341
+"242","rs72909084","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","T","C",NA,0.001,0.0183,0.9548
+"243","rs732563","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","T","C",NA,0.0064,0.0074,0.3852
+"244","rs73354194","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","C","T",NA,0.0399,0.0294,0.1738
+"245","rs7354849","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","G","A",NA,0.0123,0.0079,0.1191
+"246","rs7402983","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","A","C",NA,-0.0069,0.0081,0.3916
+"247","rs74465052","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","A","T",NA,0.0217,0.0164,0.1872
+"248","rs75104038","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","A","G",NA,-0.0071,0.0188,0.705801
+"249","rs753381","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","T","C",NA,0.017,0.0078,0.0286999
+"250","rs7563664","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","T","G",NA,0.0365,0.0132,0.00575599
+"251","rs76094073","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","G","C",NA,0.0099,0.0116,0.3966
+"252","rs76895963","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","G","T",NA,0.078,0.0354,0.0274
+"253","rs7744700","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","A","T",NA,-0.0101,0.0091,0.2667
+"254","rs7843131","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","C","T",NA,-0.008,0.0085,0.3467
+"255","rs7854962","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","G","C",NA,-0.0112,0.0095,0.2385
+"256","rs7968682","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","T","G",NA,-0.0296,0.0077,0.000120601
+"257","rs80089232","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","C","T",NA,0.0038,0.0168,0.8212
+"258","rs80278614","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","A","G",NA,-1e-04,0.0156,0.9931
+"259","rs8038207","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","T","G",NA,-0.006,0.0076,0.4282
+"260","rs8106042","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","G","C",NA,-0.0024,0.0092,0.792301
+"261","rs817362","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","G","A",NA,0.0117,0.0134,0.3825
+"262","rs854037","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","G","A",NA,-0.0151,0.0096,0.1182
+"263","rs905938","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","C","T",NA,-0.0035,0.0089,0.6968
+"264","rs9379084","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","A","G",NA,0.0036,0.0128,0.7784
+"265","rs939584","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","C","T",NA,-0.1066,0.0102,8.85116e-26
+"266","rs9549046","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","A","G",NA,0.0226,0.0114,0.0480297
+"267","rs9645500","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","T","G",NA,-0.0195,0.0082,0.01734
+"268","rs9886562","Childhood body mass index || id:ebi-a-GCST90002409","ebi-a-GCST90002409","A","G",NA,9e-04,0.0096,0.9264

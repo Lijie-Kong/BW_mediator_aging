@@ -1,0 +1,193 @@
+"","SNP","exposure","id.exposure","effect_allele.exposure","other_allele.exposure","eaf.exposure","beta.exposure","se.exposure","pval.exposure"
+"1","rs1012167","Fetal-effect birthweight_21NG","oern21","C","T",NA,0.025,0.00250413141434306,1.8e-23
+"2","rs10132280","Fetal-effect birthweight_21NG","oern21","A","C",NA,0.001,0.00327352828379708,0.76
+"3","rs10181515","Fetal-effect birthweight_21NG","oern21","T","C",NA,0.023,0.00290990322845438,2.7e-15
+"4","rs10265057","Fetal-effect birthweight_21NG","oern21","G","A",NA,0.03,0.0042765691683176,2.3e-12
+"5","rs10743729","Fetal-effect birthweight_21NG","oern21","C","T",NA,0.012,0.00279002425878126,1.7e-05
+"6","rs10767658","Fetal-effect birthweight_21NG","oern21","C","G",NA,0.005,0.00256215824932394,0.051
+"7","rs10872678","Fetal-effect birthweight_21NG","oern21","C","T",NA,-0.035,0.00271989088873553,6.8e-38
+"8","rs10938397","Fetal-effect birthweight_21NG","oern21","G","A",NA,0.003,0.00218626415429429,0.17
+"9","rs10968576","Fetal-effect birthweight_21NG","oern21","G","A",NA,-0.002,0.00303564902562556,0.51
+"10","rs11082304","Fetal-effect birthweight_21NG","oern21","G","T",NA,-0.016,0.00239544171760807,2.4e-11
+"11","rs11165623","Fetal-effect birthweight_21NG","oern21","G","A",NA,-0.003,0.00213512256937212,0.16
+"12","rs11187141","Fetal-effect birthweight_21NG","oern21","T","A",NA,0.027,0.00254946662761636,3.3e-26
+"13","rs11600062","Fetal-effect birthweight_21NG","oern21","T","C",NA,0.011,0.00250197857998099,1.1e-05
+"14","rs11698914","Fetal-effect birthweight_21NG","oern21","C","G",NA,0.033,0.00296756122833681,1e-28
+"15","rs11708067","Fetal-effect birthweight_21NG","oern21","G","A",NA,0.044,0.00286851642025455,4.2e-53
+"16","rs11867479","Fetal-effect birthweight_21NG","oern21","T","C",NA,0.018,0.00255061885245901,1.7e-12
+"17","rs12401656","Fetal-effect birthweight_21NG","oern21","A","G",NA,-0.028,0.00367109594534045,2.4e-14
+"18","rs12429545","Fetal-effect birthweight_21NG","oern21","A","G",NA,-0.002,0.00454635177135297,0.66
+"19","rs12656216","Fetal-effect birthweight_21NG","oern21","G","A",NA,-0.02,0.00307110324456339,7.4e-11
+"20","rs13266210","Fetal-effect birthweight_21NG","oern21","G","A",NA,-0.028,0.00298076219841958,5.8e-21
+"21","rs13322435","Fetal-effect birthweight_21NG","oern21","G","A",NA,-0.054,0.00255572153424105,4.3e-99
+"22","rs1374204","Fetal-effect birthweight_21NG","oern21","C","T",NA,-0.047,0.00278084906172888,4.4e-64
+"23","rs1472852","Fetal-effect birthweight_21NG","oern21","A","C",NA,-0.037,0.00342556808976795,3.4e-27
+"24","rs1516725","Fetal-effect birthweight_21NG","oern21","T","C",NA,-0.013,0.00367900724645228,0.00041
+"25","rs1558902","Fetal-effect birthweight_21NG","oern21","A","T",NA,0.005,0.00261638238219808,0.056
+"26","rs16996700","Fetal-effect birthweight_21NG","oern21","C","T",NA,-0.009,0.00267589587433865,0.00077
+"27","rs17066856","Fetal-effect birthweight_21NG","oern21","C","T",NA,0.004,0.0043698411192703,0.36
+"28","rs17381664","Fetal-effect birthweight_21NG","oern21","C","T",NA,0.005,0.00237151330721118,0.035
+"29","rs1819436","Fetal-effect birthweight_21NG","oern21","T","C",NA,-0.028,0.00382846267200956,2.6e-13
+"30","rs2131354","Fetal-effect birthweight_21NG","oern21","G","A",NA,-0.027,0.00247609940931821,1.1e-27
+"31","rs2168443","Fetal-effect birthweight_21NG","oern21","T","A",NA,0.017,0.0025835309739035,4.7e-11
+"32","rs220193","Fetal-effect birthweight_21NG","oern21","A","G",NA,0.021,0.0029684120969073,1.5e-12
+"33","rs222857","Fetal-effect birthweight_21NG","oern21","C","T",NA,-0.028,0.00244418319696164,2.2e-30
+"34","rs2280235","Fetal-effect birthweight_21NG","oern21","G","A",NA,0.019,0.00285861692016227,3e-11
+"35","rs2282978","Fetal-effect birthweight_21NG","oern21","C","T",NA,0.019,0.00256175783219097,1.2e-13
+"36","rs2287019","Fetal-effect birthweight_21NG","oern21","T","C",NA,-0.005,0.00338801354970221,0.14
+"37","rs2293576","Fetal-effect birthweight_21NG","oern21","A","G",NA,0.001,0.00259524236883452,0.7
+"38","rs2325036","Fetal-effect birthweight_21NG","oern21","C","A",NA,-0.002,0.00343146460066601,0.56
+"39","rs2529415","Fetal-effect birthweight_21NG","oern21","C","T",NA,0.017,0.00262364125996347,9.2e-11
+"40","rs2531992","Fetal-effect birthweight_21NG","oern21","A","G",NA,-0.018,0.00344203378452551,1.7e-07
+"41","rs2608029","Fetal-effect birthweight_21NG","oern21","G","C",NA,0.017,0.00256810358998937,3.6e-11
+"42","rs2820292","Fetal-effect birthweight_21NG","oern21","A","C",NA,0,NA,0.91
+"43","rs28365970","Fetal-effect birthweight_21NG","oern21","A","C",NA,-0.021,0.00286713562729685,2.4e-13
+"44","rs28407694","Fetal-effect birthweight_21NG","oern21","T","C",NA,-0.016,0.00259944346890794,7.5e-10
+"45","rs28457693","Fetal-effect birthweight_21NG","oern21","G","A",NA,0.047,0.00396811275632564,2.3e-32
+"46","rs2928148","Fetal-effect birthweight_21NG","oern21","G","A",NA,-0.008,0.00251993621752057,0.0015
+"47","rs339969","Fetal-effect birthweight_21NG","oern21","C","A",NA,-0.018,0.00254435322592054,1.5e-12
+"48","rs34319137","Fetal-effect birthweight_21NG","oern21","C","T",NA,-0.008,0.00253492913880258,0.0016
+"49","rs34776209","Fetal-effect birthweight_21NG","oern21","T","C",NA,-0.024,0.0028746882118768,6.9e-17
+"50","rs35261542","Fetal-effect birthweight_21NG","oern21","A","C",NA,-0.041,0.00275683517458735,5e-50
+"51","rs3806315","Fetal-effect birthweight_21NG","oern21","G","A",NA,-0.018,0.00258616492222202,3.4e-12
+"52","rs3849570","Fetal-effect birthweight_21NG","oern21","A","C",NA,-0.001,0.00185585214018305,0.59
+"53","rs3933326","Fetal-effect birthweight_21NG","oern21","A","G",NA,-0.022,0.00267161955096004,1.8e-16
+"54","rs4444073","Fetal-effect birthweight_21NG","oern21","C","A",NA,-0.022,0.00245089577801841,2.8e-19
+"55","rs4776970","Fetal-effect birthweight_21NG","oern21","T","A",NA,-0.002,0.00232661656592265,0.39
+"56","rs4897180","Fetal-effect birthweight_21NG","oern21","T","A",NA,-0.017,0.00244531971346496,3.6e-12
+"57","rs4925109","Fetal-effect birthweight_21NG","oern21","A","G",NA,-0.017,0.00265402093729205,1.5e-10
+"58","rs4953353","Fetal-effect birthweight_21NG","oern21","T","G",NA,-0.019,0.00255207429253446,9.7e-14
+"59","rs516246","Fetal-effect birthweight_21NG","oern21","C","T",NA,0.018,0.00238727041199408,4.7e-14
+"60","rs560887","Fetal-effect birthweight_21NG","oern21","T","C",NA,0.008,0.00250418586110556,0.0014
+"61","rs56711588","Fetal-effect birthweight_21NG","oern21","T","C",NA,-0.015,0.00242205841487314,5.9e-10
+"62","rs5742915","Fetal-effect birthweight_21NG","oern21","C","T",NA,0.015,0.00239050021316835,3.5e-10
+"63","rs6033062","Fetal-effect birthweight_21NG","oern21","A","T",NA,0.019,0.00253060641060826,6e-14
+"64","rs6104763","Fetal-effect birthweight_21NG","oern21","G","A",NA,-0.013,0.00266784350784356,1.1e-06
+"65","rs633715","Fetal-effect birthweight_21NG","oern21","C","T",NA,-0.004,0.00319089843836205,0.21
+"66","rs6440003","Fetal-effect birthweight_21NG","oern21","A","G",NA,0.01,0.00240457120507228,3.2e-05
+"67","rs6545714","Fetal-effect birthweight_21NG","oern21","G","A",NA,0,NA,0.88
+"68","rs6567160","Fetal-effect birthweight_21NG","oern21","C","T",NA,-0.001,0.00528769205469993,0.85
+"69","rs6575803","Fetal-effect birthweight_21NG","oern21","T","C",NA,-0.034,0.00414624352077051,2.4e-16
+"70","rs6755502","Fetal-effect birthweight_21NG","oern21","T","C",NA,-0.002,0.00361412219984291,0.58
+"71","rs6930558","Fetal-effect birthweight_21NG","oern21","G","T",NA,-0.023,0.00282909795550093,4.3e-16
+"72","rs7076938","Fetal-effect birthweight_21NG","oern21","C","T",NA,-0.034,0.00277871989876201,2e-34
+"73","rs7138803","Fetal-effect birthweight_21NG","oern21","A","G",NA,0.004,0.00233721371110162,0.087
+"74","rs7144011","Fetal-effect birthweight_21NG","oern21","T","G",NA,0.002,0.00276824635214356,0.47
+"75","rs7239883","Fetal-effect birthweight_21NG","oern21","G","A",NA,0.002,0.00248009338468579,0.42
+"76","rs7354849","Fetal-effect birthweight_21NG","oern21","G","A",NA,0.016,0.00253127456628158,2.6e-10
+"77","rs749671","Fetal-effect birthweight_21NG","oern21","A","G",NA,-0.006,0.00253633497810283,0.018
+"78","rs7498665","Fetal-effect birthweight_21NG","oern21","G","A",NA,0.004,0.00250282641070101,0.11
+"79","rs7531118","Fetal-effect birthweight_21NG","oern21","T","C",NA,-0.002,0.00303564902562556,0.51
+"80","rs753381","Fetal-effect birthweight_21NG","oern21","T","C",NA,0.015,0.00237738030035387,2.8e-10
+"81","rs7541039","Fetal-effect birthweight_21NG","oern21","T","C",NA,0.017,0.0027599886086636,7.3e-10
+"82","rs7550711","Fetal-effect birthweight_21NG","oern21","T","C",NA,0.005,0.00661887813390423,0.45
+"83","rs7563664","Fetal-effect birthweight_21NG","oern21","T","G",NA,0.028,0.00408891095006946,7.5e-12
+"84","rs76094073","Fetal-effect birthweight_21NG","oern21","G","C",NA,0.025,0.00369937060785282,1.4e-11
+"85","rs7903146","Fetal-effect birthweight_21NG","oern21","T","C",NA,0.013,0.00273487051763305,2e-06
+"86","rs7968682","Fetal-effect birthweight_21NG","oern21","T","G",NA,-0.042,0.00245363733162741,1.1e-65
+"87","rs80089232","Fetal-effect birthweight_21NG","oern21","C","T",NA,0.048,0.00491579859256889,1.6e-22
+"88","rs905938","Fetal-effect birthweight_21NG","oern21","C","T",NA,0.027,0.00280072623987022,5.4e-22
+"89","rs929641","Fetal-effect birthweight_21NG","oern21","G","A",NA,-0.006,0.0022800376904708,0.0085
+"90","rs9366778","Fetal-effect birthweight_21NG","oern21","A","G",NA,-0.021,0.00262977984051772,1.4e-15
+"91","rs9379084","Fetal-effect birthweight_21NG","oern21","A","G",NA,-0.026,0.00391739677568605,3.2e-11
+"92","rs9400239","Fetal-effect birthweight_21NG","oern21","T","C",NA,-0.007,0.00278646410644992,0.012
+"93","rs943005","Fetal-effect birthweight_21NG","oern21","T","C",NA,0,NA,0.97
+"94","rs9645500","Fetal-effect birthweight_21NG","oern21","T","G",NA,-0.025,0.00264728027985286,3.6e-21
+"95","rs9855896","Fetal-effect birthweight_21NG","oern21","G","A",NA,0.004,0.00333233680348045,0.23
+"96","rs9886562","Fetal-effect birthweight_21NG","oern21","A","G",NA,0.024,0.00320906772790941,7.5e-14
+"97","rs1012167","Waist circumference || id:ieu-a-61","ieu-a-61","C","T",0.3917,-0.0016,0.0045,0.719999
+"98","rs10132280","Waist circumference || id:ieu-a-61","ieu-a-61","A","C",0.3333,-0.022,0.0037,2.19999e-09
+"99","rs10181515","Waist circumference || id:ieu-a-61","ieu-a-61","T","C",0.2083,0.013,0.004,0.000909997
+"100","rs10265057","Waist circumference || id:ieu-a-61","ieu-a-61","G","A",0.125,0.0084,0.0082,0.31
+"101","rs10743729","Waist circumference || id:ieu-a-61","ieu-a-61","C","T",0.2,-0.0063,0.0048,0.19
+"102","rs10767658","Waist circumference || id:ieu-a-61","ieu-a-61","C","G",0.3583,0.031,0.0037,3.29989e-17
+"103","rs10872678","Waist circumference || id:ieu-a-61","ieu-a-61","C","T",0.2167,-7e-04,0.0037,0.85
+"104","rs10938397","Waist circumference || id:ieu-a-61","ieu-a-61","G","A",0.4333,0.032,0.0035,6.09958e-20
+"105","rs10968576","Waist circumference || id:ieu-a-61","ieu-a-61","G","A",0.2917,0.025,0.0036,1.20005e-11
+"106","rs11082304","Waist circumference || id:ieu-a-61","ieu-a-61","G","T",0.5333,-0.0063,0.0036,0.0759994
+"107","rs11165623","Waist circumference || id:ieu-a-61","ieu-a-61","G","A",0.5167,-0.02,0.0034,5.19996e-09
+"108","rs11187141","Waist circumference || id:ieu-a-61","ieu-a-61","T","A",0.375,0.0013,0.0035,0.7
+"109","rs11600062","Waist circumference || id:ieu-a-61","ieu-a-61","T","C",0.45,-0.0036,0.0043,0.4
+"110","rs11698914","Waist circumference || id:ieu-a-61","ieu-a-61","C","G",0.225,0.0052,0.005,0.3
+"111","rs11708067","Waist circumference || id:ieu-a-61","ieu-a-61","G","A",0.2167,0.011,0.0042,0.00909997
+"112","rs11867479","Waist circumference || id:ieu-a-61","ieu-a-61","T","C",0.325,-0.0019,0.0037,0.6
+"113","rs12401656","Waist circumference || id:ieu-a-61","ieu-a-61","A","G",0.1583,-0.011,0.0071,0.14
+"114","rs12429545","Waist circumference || id:ieu-a-61","ieu-a-61","A","G",0.1,0.031,0.0052,2.5e-09
+"115","rs12656216","Waist circumference || id:ieu-a-61","ieu-a-61","G","A",0.1167,-0.011,0.0057,0.0629999
+"116","rs13266210","Waist circumference || id:ieu-a-61","ieu-a-61","G","A",0.1583,0.0038,0.0053,0.47
+"117","rs13322435","Waist circumference || id:ieu-a-61","ieu-a-61","G","A",0.4083,-0.017,0.0048,0.000369999
+"118","rs1374204","Waist circumference || id:ieu-a-61","ieu-a-61","C","T",0.4,-0.0027,0.0052,0.6
+"119","rs1472852","Waist circumference || id:ieu-a-61","ieu-a-61","A","C",0.1583,-0.0096,0.0061,0.12
+"120","rs1516725","Waist circumference || id:ieu-a-61","ieu-a-61","T","C",0.0917,-0.031,0.0051,1.7e-09
+"121","rs1558902","Waist circumference || id:ieu-a-61","ieu-a-61","A","T",0.45,0.074,0.0035,3.69828e-101
+"122","rs16996700","Waist circumference || id:ieu-a-61","ieu-a-61","C","T",0.3,-0.023,0.0037,1.5e-09
+"123","rs17066856","Waist circumference || id:ieu-a-61","ieu-a-61","C","T",0.1333,-0.037,0.006,8.99995e-10
+"124","rs17381664","Waist circumference || id:ieu-a-61","ieu-a-61","C","T",0.425,0.022,0.0035,4.20001e-10
+"125","rs1819436","Waist circumference || id:ieu-a-61","ieu-a-61","T","C",0.1333,-0.012,0.0065,0.0719996
+"126","rs2131354","Waist circumference || id:ieu-a-61","ieu-a-61","G","A",0.55,-0.014,0.0043,0.00129999
+"127","rs2168443","Waist circumference || id:ieu-a-61","ieu-a-61","T","A",0.3167,-1e-04,0.0047,0.98
+"128","rs220193","Waist circumference || id:ieu-a-61","ieu-a-61","A","G",0.2083,0.0087,0.0052,0.0940005
+"129","rs222857","Waist circumference || id:ieu-a-61","ieu-a-61","C","T",0.5083,-0.0086,0.0036,0.016
+"130","rs2280235","Waist circumference || id:ieu-a-61","ieu-a-61","G","A",0.2417,0.011,0.0051,0.0340001
+"131","rs2282978","Waist circumference || id:ieu-a-61","ieu-a-61","C","T",0.3667,0.01,0.0036,0.00479999
+"132","rs2287019","Waist circumference || id:ieu-a-61","ieu-a-61","T","C",0.15,-0.035,0.0046,1.69981e-14
+"133","rs2293576","Waist circumference || id:ieu-a-61","ieu-a-61","A","G",0.3667,-0.022,0.0036,9.40005e-10
+"134","rs2325036","Waist circumference || id:ieu-a-61","ieu-a-61","C","A",0.4083,-0.023,0.0035,2.09991e-11
+"135","rs2529415","Waist circumference || id:ieu-a-61","ieu-a-61","C","T",0.4167,0.0073,0.0044,0.0969996
+"136","rs2531992","Waist circumference || id:ieu-a-61","ieu-a-61","A","G",0.1667,-0.028,0.0048,2.99999e-09
+"137","rs2608029","Waist circumference || id:ieu-a-61","ieu-a-61","G","C",0.325,0.0043,0.0045,0.34
+"138","rs2820292","Waist circumference || id:ieu-a-61","ieu-a-61","A","C",0.4917,-0.019,0.0034,2.39999e-08
+"139","rs28365970","Waist circumference || id:ieu-a-61","ieu-a-61","A","C",0.7917,0.0097,0.005,0.0519996
+"140","rs28407694","Waist circumference || id:ieu-a-61","ieu-a-61","T","C",0.3833,-0.0017,0.0046,0.709999
+"141","rs28457693","Waist circumference || id:ieu-a-61","ieu-a-61","G","A",0.1083,-0.0093,0.0074,0.21
+"142","rs2928148","Waist circumference || id:ieu-a-61","ieu-a-61","G","A",0.3833,-0.0054,0.0043,0.21
+"143","rs339969","Waist circumference || id:ieu-a-61","ieu-a-61","C","A",0.3667,-0.006,0.0045,0.18
+"144","rs34319137","Waist circumference || id:ieu-a-61","ieu-a-61","C","T",0.4917,-0.0032,0.0043,0.46
+"145","rs34776209","Waist circumference || id:ieu-a-61","ieu-a-61","T","C",0.25,4e-04,0.0048,0.93
+"146","rs35261542","Waist circumference || id:ieu-a-61","ieu-a-61","A","C",0.25,-0.0055,0.0037,0.14
+"147","rs3806315","Waist circumference || id:ieu-a-61","ieu-a-61","G","A",0.4,-0.0063,0.0044,0.15
+"148","rs3849570","Waist circumference || id:ieu-a-61","ieu-a-61","A","C",0.3667,0.021,0.0038,2.19999e-08
+"149","rs3933326","Waist circumference || id:ieu-a-61","ieu-a-61","A","G",0.3667,0,0.0047,1
+"150","rs4444073","Waist circumference || id:ieu-a-61","ieu-a-61","C","A",0.475,-0.002,0.0034,0.56
+"151","rs4776970","Waist circumference || id:ieu-a-61","ieu-a-61","T","A",0.3417,-0.02,0.0035,2.30001e-08
+"152","rs4897180","Waist circumference || id:ieu-a-61","ieu-a-61","T","A",0.4083,-0.001,0.0044,0.82
+"153","rs4925109","Waist circumference || id:ieu-a-61","ieu-a-61","A","G",0.2167,-0.011,0.0045,0.015
+"154","rs4953353","Waist circumference || id:ieu-a-61","ieu-a-61","T","G",0.4083,-0.0043,0.0045,0.34
+"155","rs516246","Waist circumference || id:ieu-a-61","ieu-a-61","C","T",0.4583,0.0059,0.0036,0.1
+"156","rs560887","Waist circumference || id:ieu-a-61","ieu-a-61","T","C",0.3,0.0064,0.004,0.11
+"157","rs56711588","Waist circumference || id:ieu-a-61","ieu-a-61","T","C",0.4667,0.0074,0.0043,0.0850002
+"158","rs5742915","Waist circumference || id:ieu-a-61","ieu-a-61","C","T",0.55,0.0015,0.0035,0.68
+"159","rs6033062","Waist circumference || id:ieu-a-61","ieu-a-61","A","T",0.4667,0.006,0.0043,0.16
+"160","rs6104763","Waist circumference || id:ieu-a-61","ieu-a-61","G","A",0.3667,0.0048,0.0045,0.29
+"161","rs633715","Waist circumference || id:ieu-a-61","ieu-a-61","C","T",0.2667,0.043,0.0043,3.29989e-23
+"162","rs6440003","Waist circumference || id:ieu-a-61","ieu-a-61","A","G",0.4833,0.021,0.0034,2.90001e-10
+"163","rs6545714","Waist circumference || id:ieu-a-61","ieu-a-61","G","A",0.375,0.022,0.0035,1.89998e-10
+"164","rs6567160","Waist circumference || id:ieu-a-61","ieu-a-61","C","T",0.2833,0.048,0.004,2.60016e-33
+"165","rs6575803","Waist circumference || id:ieu-a-61","ieu-a-61","T","C",0.1583,0.0094,0.01,0.36
+"166","rs6755502","Waist circumference || id:ieu-a-61","ieu-a-61","T","C",0.125,-0.051,0.0045,1.99986e-30
+"167","rs6930558","Waist circumference || id:ieu-a-61","ieu-a-61","G","T",0.25,-0.0044,0.0048,0.36
+"168","rs7076938","Waist circumference || id:ieu-a-61","ieu-a-61","C","T",0.3333,-0.011,0.004,0.00700003
+"169","rs7138803","Waist circumference || id:ieu-a-61","ieu-a-61","A","G",0.4417,0.028,0.0035,1.59993e-15
+"170","rs7144011","Waist circumference || id:ieu-a-61","ieu-a-61","T","G",0.275,0.033,0.0041,9.3994e-16
+"171","rs7239883","Waist circumference || id:ieu-a-61","ieu-a-61","G","A",0.3167,0.021,0.0035,2.30001e-09
+"172","rs7354849","Waist circumference || id:ieu-a-61","ieu-a-61","G","A",0.4917,0.003,0.0044,0.5
+"173","rs749671","Waist circumference || id:ieu-a-61","ieu-a-61","A","G",0.375,-0.019,0.0035,3.2e-08
+"174","rs7498665","Waist circumference || id:ieu-a-61","ieu-a-61","G","A",0.3583,0.034,0.0035,1.39991e-22
+"175","rs7531118","Waist circumference || id:ieu-a-61","ieu-a-61","T","C",0.3917,-0.027,0.0035,1.50003e-14
+"176","rs753381","Waist circumference || id:ieu-a-61","ieu-a-61","T","C",0.4917,0.0035,0.0034,0.3
+"177","rs7541039","Waist circumference || id:ieu-a-61","ieu-a-61","T","C",0.008772,0.0022,0.027,0.94
+"178","rs7550711","Waist circumference || id:ieu-a-61","ieu-a-61","T","C",0.0339,0.058,0.0098,3.40001e-09
+"179","rs7563664","Waist circumference || id:ieu-a-61","ieu-a-61","T","G",0.1583,0.0029,0.0069,0.67
+"180","rs76094073","Waist circumference || id:ieu-a-61","ieu-a-61","G","C",0.075,0.0027,0.0065,0.68
+"181","rs7903146","Waist circumference || id:ieu-a-61","ieu-a-61","T","C",0.25,-0.022,0.0037,3.89996e-09
+"182","rs7968682","Waist circumference || id:ieu-a-61","ieu-a-61","T","G",0.525,-0.017,0.0034,1.40001e-06
+"183","rs80089232","Waist circumference || id:ieu-a-61","ieu-a-61","C","T",0.0833,0.018,0.007,0.00909997
+"184","rs905938","Waist circumference || id:ieu-a-61","ieu-a-61","C","T",0.325,0.0035,0.004,0.39
+"185","rs929641","Waist circumference || id:ieu-a-61","ieu-a-61","G","A",0.3833,-0.021,0.0034,1.2e-09
+"186","rs9366778","Waist circumference || id:ieu-a-61","ieu-a-61","A","G",0.3083,-0.0062,0.0035,0.0710003
+"187","rs9379084","Waist circumference || id:ieu-a-61","ieu-a-61","A","G",0.09259,0.011,0.0062,0.0810009
+"188","rs9400239","Waist circumference || id:ieu-a-61","ieu-a-61","T","C",0.3,-0.024,0.0036,1.9002e-11
+"189","rs943005","Waist circumference || id:ieu-a-61","ieu-a-61","T","C",0.1,0.039,0.0044,7.19946e-19
+"190","rs9645500","Waist circumference || id:ieu-a-61","ieu-a-61","T","G",0.2167,0.0054,0.0037,0.15
+"191","rs9855896","Waist circumference || id:ieu-a-61","ieu-a-61","G","A",0.25,-0.0059,0.0052,0.26
+"192","rs9886562","Waist circumference || id:ieu-a-61","ieu-a-61","A","G",0.1417,-0.0024,0.0057,0.67

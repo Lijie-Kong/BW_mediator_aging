@@ -1,0 +1,319 @@
+"","SNP","exposure","id.exposure","effect_allele.exposure","other_allele.exposure","eaf.exposure","beta.exposure","se.exposure","pval.exposure"
+"1","rs1012167","Birthweight","V7XlMe","T","C",0.599567,-0.024145,0.002661,1.2e-19
+"2","rs10181515","Birthweight","V7XlMe","C","T",0.775444,-0.021433,0.003048,2.13e-12
+"3","rs10221267","Birthweight","V7XlMe","C","T",0.488394,-0.016717,0.002558,6.52e-11
+"4","rs10265057","Birthweight","V7XlMe","A","G",0.908483,-0.027313,0.004498,1.3e-09
+"5","rs10437653","Birthweight","V7XlMe","A","C",0.509553,0.009914,0.002587,0.000128
+"6","rs10495563","Birthweight","V7XlMe","G","A",0.335993,-0.022148,0.002693,2.06e-16
+"7","rs10793514","Birthweight","V7XlMe","T","C",0.341184,-0.002088,0.002693,0.438129
+"8","rs10857147","Birthweight","V7XlMe","A","T",0.70658,-0.003151,0.002838,0.266914
+"9","rs10883846","Birthweight","V7XlMe","C","T",0.614989,0.016841,0.002618,1.3e-10
+"10","rs10913200","Birthweight","V7XlMe","G","A",0.972158,0.051218,0.008047,2.02e-10
+"11","rs10935733","Birthweight","V7XlMe","T","C",0.399388,0.019369,0.002641,2.33e-13
+"12","rs10985827","Birthweight","V7XlMe","T","G",0.859061,-0.029972,0.003703,6.1e-16
+"13","rs11042596","Birthweight","V7XlMe","T","G",0.336246,0.026856,0.002777,4.33e-22
+"14","rs11051061","Birthweight","V7XlMe","G","A",0.733633,-0.011344,0.002923,0.000105
+"15","rs11057840","Birthweight","V7XlMe","A","C",0.86021,-0.005221,0.003723,0.160816
+"16","rs11072783","Birthweight","V7XlMe","G","A",0.172321,-0.000106,0.003386,0.974935
+"17","rs11082304","Birthweight","V7XlMe","G","T",0.491864,-0.015966,0.002554,4.22e-10
+"18","rs1112718","Birthweight","V7XlMe","A","G",0.595901,-0.025684,0.00259,3.78e-23
+"19","rs112139215","Birthweight","V7XlMe","C","A",0.93248,-0.047472,0.005142,2.81e-20
+"20","rs11591147","Birthweight","V7XlMe","G","T",0.981935,0.016392,0.009899,0.097736
+"21","rs11617955","Birthweight","V7XlMe","T","A",0.887616,-0.003197,0.004107,0.436252
+"22","rs11619113","Birthweight","V7XlMe","C","G",0.853898,-0.000468,0.003756,0.900894
+"23","rs11637783","Birthweight","V7XlMe","T","C",0.550148,-0.003789,0.002566,0.139809
+"24","rs11673093","Birthweight","V7XlMe","G","A",0.738555,-0.000925,0.002943,0.753376
+"25","rs116807401","Birthweight","V7XlMe","T","C",0.982436,-0.076602,0.010437,2.23e-13
+"26","rs11698914","Birthweight","V7XlMe","C","G",0.233612,0.031861,0.003107,1.21e-24
+"27","rs11708067","Birthweight","V7XlMe","A","G",0.76245,-0.040866,0.002989,1.59e-42
+"28","rs11711420","Birthweight","V7XlMe","T","G",0.74671,0.018654,0.002964,3.22e-10
+"29","rs117733303","Birthweight","V7XlMe","A","G",0.981916,0.002505,0.009716,0.796532
+"30","rs11867479","Birthweight","V7XlMe","C","T",0.64661,-0.017213,0.002664,1.08e-10
+"31","rs11983722","Birthweight","V7XlMe","A","T",0.937628,0.031888,0.005377,3.1e-09
+"32","rs12212146","Birthweight","V7XlMe","T","C",0.928369,-0.004761,0.005192,0.359166
+"33","rs12401656","Birthweight","V7XlMe","G","A",0.865112,0.025183,0.003795,3.36e-11
+"34","rs12461110","Birthweight","V7XlMe","G","A",0.642006,-0.005983,0.002716,0.02762
+"35","rs1250259","Birthweight","V7XlMe","T","A",0.26096,-0.00026,0.002947,0.92977
+"36","rs12740374","Birthweight","V7XlMe","G","T",0.779007,0.004045,0.00306,0.186127
+"37","rs12930452","Birthweight","V7XlMe","A","G",0.408716,0.005967,0.002625,0.023014
+"38","rs13257363","Birthweight","V7XlMe","G","A",0.590761,0.01757,0.002618,2.01e-11
+"39","rs13266210","Birthweight","V7XlMe","A","G",0.786195,0.0268,0.003142,1.54e-17
+"40","rs134594","Birthweight","V7XlMe","C","T",0.350594,0.016799,0.002709,5.76e-10
+"41","rs138715366","Birthweight","V7XlMe","C","T",0.991197,0.239889,0.014538,4.04e-61
+"42","rs1411424","Birthweight","V7XlMe","G","A",0.477135,-0.019892,0.002587,1.54e-14
+"43","rs1412444","Birthweight","V7XlMe","C","T",0.660159,-0.001858,0.002712,0.493256
+"44","rs146534110","Birthweight","V7XlMe","G","T",0.987092,-0.001665,0.011642,0.886229
+"45","rs147110934","Birthweight","V7XlMe","G","T",0.975416,0.05233,0.008669,1.62e-09
+"46","rs1482852","Birthweight","V7XlMe","A","G",0.598574,0.050395,0.002618,1.58e-82
+"47","rs17033114","Birthweight","V7XlMe","T","C",0.940036,0.01571,0.005898,0.007746
+"48","rs17034876","Birthweight","V7XlMe","C","T",0.299629,-0.042243,0.002925,3.11e-47
+"49","rs17114046","Birthweight","V7XlMe","A","G",0.908365,-0.000251,0.004392,0.954343
+"50","rs17263917","Birthweight","V7XlMe","G","A",0.849459,0.000623,0.003585,0.862124
+"51","rs17367504","Birthweight","V7XlMe","A","G",0.839471,-0.011543,0.003453,0.000833
+"52","rs17465982","Birthweight","V7XlMe","G","A",0.284464,-0.006312,0.002903,0.029712
+"53","rs1818782","Birthweight","V7XlMe","A","C",0.35132,-0.014776,0.002743,7.37e-08
+"54","rs186606513","Birthweight","V7XlMe","G","A",0.977869,0.060699,0.010193,2.68e-09
+"55","rs1966248","Birthweight","V7XlMe","A","T",0.705762,-0.005389,0.002807,0.054849
+"56","rs1981627","Birthweight","V7XlMe","A","G",0.415155,-0.017083,0.002629,8.36e-11
+"57","rs2045457","Birthweight","V7XlMe","G","A",0.311648,0.016194,0.002786,6.32e-09
+"58","rs2107595","Birthweight","V7XlMe","G","A",0.84515,0.007947,0.003564,0.025758
+"59","rs2128739","Birthweight","V7XlMe","A","C",0.277922,-0.001185,0.00287,0.679811
+"60","rs2140480","Birthweight","V7XlMe","T","C",0.28889,0.000445,0.002848,0.875773
+"61","rs2166529","Birthweight","V7XlMe","G","T",0.545795,0.000302,0.00259,0.907124
+"62","rs2168443","Birthweight","V7XlMe","T","A",0.379207,0.016595,0.00265,3.89e-10
+"63","rs220193","Birthweight","V7XlMe","A","G",0.225732,0.020584,0.003116,4.07e-11
+"64","rs222857","Birthweight","V7XlMe","C","T",0.424408,-0.026478,0.002579,1.06e-24
+"65","rs2229742","Birthweight","V7XlMe","G","C",0.880836,0.027215,0.004175,7.35e-11
+"66","rs223290","Birthweight","V7XlMe","T","C",0.066109,0.000989,0.005329,0.852708
+"67","rs2237467","Birthweight","V7XlMe","G","A",0.779162,-0.018178,0.003112,5.34e-09
+"68","rs2280235","Birthweight","V7XlMe","A","G",0.741043,-0.018251,0.002957,6.9e-10
+"69","rs2282978","Birthweight","V7XlMe","T","C",0.673948,-0.018251,0.002709,1.66e-11
+"70","rs2293251","Birthweight","V7XlMe","T","G",0.846386,-0.000898,0.003524,0.798883
+"71","rs2306547","Birthweight","V7XlMe","C","T",0.534191,0.018719,0.002582,4.35e-13
+"72","rs2306700","Birthweight","V7XlMe","C","T",0.864261,-0.022762,0.003782,1.81e-09
+"73","rs2551347","Birthweight","V7XlMe","C","T",0.250548,-0.02446,0.002971,1.93e-16
+"74","rs2649999","Birthweight","V7XlMe","T","C",0.34298,-0.008197,0.002744,0.002824
+"75","rs2779165","Birthweight","V7XlMe","G","C",0.18416,0.022108,0.003394,7.59e-11
+"76","rs28365970","Birthweight","V7XlMe","C","A",0.74158,0.019868,0.002948,1.65e-11
+"77","rs28451064","Birthweight","V7XlMe","G","A",0.868319,7.6e-05,0.003882,0.984468
+"78","rs28457693","Birthweight","V7XlMe","A","G",0.890725,-0.044196,0.004212,9.89e-26
+"79","rs28505901","Birthweight","V7XlMe","A","G",0.248632,0.024438,0.003085,2.46e-15
+"80","rs28601761","Birthweight","V7XlMe","C","G",0.580766,-0.009636,0.002605,0.000218
+"81","rs2891168","Birthweight","V7XlMe","A","G",0.515847,-0.003583,0.002542,0.158605
+"82","rs2928148","Birthweight","V7XlMe","G","A",0.473869,-0.006118,0.00258,0.017757
+"83","rs2946179","Birthweight","V7XlMe","T","C",0.266507,-0.019781,0.002912,1.14e-11
+"84","rs339969","Birthweight","V7XlMe","C","A",0.380652,-0.016841,0.002651,2.18e-10
+"85","rs34471628","Birthweight","V7XlMe","A","G",0.96178,0.017639,0.006791,0.009408
+"86","rs34776209","Birthweight","V7XlMe","C","T",0.755328,0.023223,0.002991,8.53e-15
+"87","rs35261542","Birthweight","V7XlMe","C","A",0.733023,0.040621,0.002875,2.77e-45
+"88","rs3741380","Birthweight","V7XlMe","G","A",0.528706,0.010521,0.00261,5.6e-05
+"89","rs3796581","Birthweight","V7XlMe","A","G",0.814596,-0.008169,0.0033,0.013323
+"90","rs3918226","Birthweight","V7XlMe","C","T",0.91946,0.01487,0.004793,0.001929
+"91","rs40434","Birthweight","V7XlMe","A","G",0.609243,-0.016702,0.00265,3e-10
+"92","rs41311445","Birthweight","V7XlMe","A","C",0.903353,0.032564,0.004469,3.33e-13
+"93","rs4144829","Birthweight","V7XlMe","C","T",0.267142,0.035507,0.002915,4.32e-34
+"94","rs4280376","Birthweight","V7XlMe","T","C",0.817194,0.010378,0.003337,0.00188
+"95","rs4350272","Birthweight","V7XlMe","A","G",0.269233,0.016999,0.002879,3.64e-09
+"96","rs4444073","Birthweight","V7XlMe","A","C",0.520477,0.020182,0.002551,2.69e-15
+"97","rs45446698","Birthweight","V7XlMe","T","G",0.958636,-0.024795,0.006602,0.000174
+"98","rs4579095","Birthweight","V7XlMe","A","G",0.598019,-0.002661,0.002671,0.319097
+"99","rs4719648","Birthweight","V7XlMe","T","C",0.423355,-0.019079,0.002606,2.57e-13
+"100","rs4762479","Birthweight","V7XlMe","C","T",0.929289,-0.006261,0.005007,0.211125
+"101","rs4766578","Birthweight","V7XlMe","T","A",0.495108,-0.022553,0.002561,1.39e-18
+"102","rs4803455","Birthweight","V7XlMe","C","A",0.492419,-0.001328,0.002563,0.604477
+"103","rs4932373","Birthweight","V7XlMe","A","C",0.679704,0.020084,0.002752,3.04e-13
+"104","rs4953353","Birthweight","V7XlMe","G","T",0.631578,0.017903,0.0027,3.45e-11
+"105","rs5030317","Birthweight","V7XlMe","C","G",0.732702,0.017273,0.002902,2.71e-09
+"106","rs55730499","Birthweight","V7XlMe","C","T",0.923709,0.000568,0.004962,0.908831
+"107","rs560887","Birthweight","V7XlMe","T","C",0.299727,0.007649,0.00277,0.005776
+"108","rs6026449","Birthweight","V7XlMe","T","C",0.372918,-0.016962,0.002679,2.49e-10
+"109","rs6040076","Birthweight","V7XlMe","G","C",0.500098,-0.019018,0.002623,4.35e-13
+"110","rs604723","Birthweight","V7XlMe","T","C",0.276819,0.010967,0.002859,0.000126
+"111","rs61830764","Birthweight","V7XlMe","G","A",0.623067,-0.016623,0.002727,1.12e-09
+"112","rs62496903","Birthweight","V7XlMe","C","T",0.917392,-0.032797,0.004775,6.74e-12
+"113","rs6467157","Birthweight","V7XlMe","T","C",0.712892,0.019506,0.002887,1.47e-11
+"114","rs6511720","Birthweight","V7XlMe","G","T",0.883297,-0.010204,0.003981,0.0104
+"115","rs6533183","Birthweight","V7XlMe","C","T",0.352446,0.021786,0.002696,6.78e-16
+"116","rs655720","Birthweight","V7XlMe","C","T",0.27815,0.00673,0.002868,0.018946
+"117","rs6569647","Birthweight","V7XlMe","T","C",0.801856,0.020035,0.003238,6.31e-10
+"118","rs6575803","Birthweight","V7XlMe","C","T",0.895535,0.031625,0.004454,1.29e-12
+"119","rs6582623","Birthweight","V7XlMe","T","C",0.130797,-0.023591,0.003865,1.07e-09
+"120","rs667515","Birthweight","V7XlMe","G","C",0.61794,0.01845,0.002704,9.32e-12
+"121","rs6845999","Birthweight","V7XlMe","C","T",0.56879,-0.026255,0.002565,1.5e-24
+"122","rs6905288","Birthweight","V7XlMe","G","A",0.433375,0.002859,0.002596,0.270752
+"123","rs6930558","Birthweight","V7XlMe","G","T",0.252922,-0.021812,0.002996,3.44e-13
+"124","rs6995390","Birthweight","V7XlMe","A","T",0.837064,-0.006146,0.003494,0.078539
+"125","rs7076938","Birthweight","V7XlMe","C","T",0.264688,-0.032051,0.002898,2.14e-28
+"126","rs708122","Birthweight","V7XlMe","C","A",0.68102,0.016508,0.002765,2.45e-09
+"127","rs7223535","Birthweight","V7XlMe","G","A",0.732138,0.02138,0.00291,2.12e-13
+"128","rs72656010","Birthweight","V7XlMe","T","C",0.868303,0.028319,0.003825,1.39e-13
+"129","rs72760655","Birthweight","V7XlMe","C","A",0.681143,0.00714,0.002778,0.010175
+"130","rs72934535","Birthweight","V7XlMe","T","C",0.891699,0.006632,0.004127,0.10808
+"131","rs73143584","Birthweight","V7XlMe","G","A",0.889782,-0.028776,0.004278,1.8e-11
+"132","rs732563","Birthweight","V7XlMe","T","C",0.496105,-0.017423,0.002572,1.29e-11
+"133","rs7402983","Birthweight","V7XlMe","A","C",0.405324,0.024135,0.002685,2.63e-19
+"134","rs7412","Birthweight","V7XlMe","C","T",0.920076,-0.002365,0.004773,0.620248
+"135","rs7502499","Birthweight","V7XlMe","G","A",0.666187,0.003035,0.002702,0.261385
+"136","rs75104038","Birthweight","V7XlMe","G","A",0.940326,-0.044913,0.00552,4.28e-16
+"137","rs753381","Birthweight","V7XlMe","T","C",0.450563,0.01512,0.002557,3.43e-09
+"138","rs75844534","Birthweight","V7XlMe","C","A",0.876497,-0.02593,0.003941,4.9e-11
+"139","rs76094073","Birthweight","V7XlMe","C","G",0.87877,-0.026513,0.003933,1.63e-11
+"140","rs7678555","Birthweight","V7XlMe","A","C",0.70381,0.004437,0.002833,0.117291
+"141","rs76895963","Birthweight","V7XlMe","T","G",0.97881,-0.076305,0.010414,2.45e-13
+"142","rs7819593","Birthweight","V7XlMe","T","C",0.757083,-0.02178,0.003025,6.22e-13
+"143","rs7854962","Birthweight","V7XlMe","C","G",0.784812,0.021679,0.003184,1.02e-11
+"144","rs7896600","Birthweight","V7XlMe","G","C",0.756933,-0.001992,0.00296,0.500963
+"145","rs7903146","Birthweight","V7XlMe","C","T",0.715098,-0.011396,0.002817,5.27e-05
+"146","rs7968682","Birthweight","V7XlMe","G","T",0.48633,0.041831,0.002557,4.24e-60
+"147","rs80278614","Birthweight","V7XlMe","G","A",0.945468,-0.040367,0.005872,6.45e-12
+"148","rs854037","Birthweight","V7XlMe","A","G",0.814165,0.026507,0.003297,9.41e-16
+"149","rs905938","Birthweight","V7XlMe","T","C",0.738356,-0.026053,0.0029,2.77e-19
+"150","rs9318511","Birthweight","V7XlMe","A","C",0.126856,-0.026864,0.003902,5.98e-12
+"151","rs9337951","Birthweight","V7XlMe","G","A",0.658593,0.00805,0.002807,0.004138
+"152","rs9349379","Birthweight","V7XlMe","A","G",0.594744,-0.001128,0.002591,0.663398
+"153","rs9366778","Birthweight","V7XlMe","G","A",0.62614,0.018043,0.00271,2.86e-11
+"154","rs9379084","Birthweight","V7XlMe","G","A",0.882647,0.021801,0.004118,1.22e-07
+"155","rs9549046","Birthweight","V7XlMe","A","G",0.117807,0.029115,0.004062,7.97e-13
+"156","rs9554448","Birthweight","V7XlMe","T","C",0.905135,-0.005045,0.004429,0.254646
+"157","rs964184","Birthweight","V7XlMe","G","C",0.151662,0.004003,0.003721,0.282087
+"158","rs9645500","Birthweight","V7XlMe","T","G",0.305613,-0.024297,0.002768,1.75e-18
+"159","rs9855896","Birthweight","V7XlMe","A","G",0.78555,-0.004173,0.003154,0.185794
+"160","rs1012167","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","T","C",NA,0.013052,0.00724114,0.0710003
+"161","rs10181515","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","C","T",NA,0.00778014,0.00837307,0.35
+"162","rs10221267","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","C","T",NA,0.00464737,0.0069587,0.5
+"163","rs10265057","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","A","G",NA,0.000410028,0.0118528,0.97
+"164","rs10437653","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","A","C",NA,-0.00886886,0.00708109,0.21
+"165","rs10495563","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","G","A",NA,-0.0143653,0.00739435,0.0519996
+"166","rs10793514","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","T","C",NA,-0.050745,0.00732817,4.40048e-12
+"167","rs10857147","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","A","T",NA,-0.0463068,0.00775189,2.30001e-09
+"168","rs10883846","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","C","T",NA,-0.0122676,0.00716757,0.0870001
+"169","rs10913200","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","G","A",NA,-0.0275894,0.0211068,0.19
+"170","rs10935733","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","T","C",NA,-0.0140304,0.00711367,0.0490004
+"171","rs10985827","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","T","G",NA,0.00444195,0.00989594,0.649999
+"172","rs11042596","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","T","G",NA,-0.00584435,0.00748466,0.43
+"173","rs11051061","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","G","A",NA,0.0136695,0.00807775,0.0909997
+"174","rs11057840","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","A","C",NA,-0.0712462,0.010064,1.39991e-12
+"175","rs11072783","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","G","A",NA,0.0559577,0.00921143,1.2e-09
+"176","rs11082304","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","G","T",NA,-0.00195327,0.00697628,0.780001
+"177","rs1112718","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","A","G",NA,0.0202374,0.00707881,0.00430002
+"178","rs112139215","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","C","A",NA,-0.00509569,0.0141092,0.719999
+"179","rs11591147","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","G","T",NA,0.236991,0.0269669,1.50003e-18
+"180","rs11617955","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","T","A",NA,0.0850161,0.0112425,4.00037e-14
+"181","rs11619113","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","C","G",NA,-0.0578467,0.0104402,2.99999e-08
+"182","rs11637783","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","T","C",NA,0.0639685,0.00703531,9.70063e-20
+"183","rs11673093","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","G","A",NA,-0.0444459,0.00801889,2.99999e-08
+"184","rs116807401","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","T","C",NA,0.0149239,0.0274707,0.59
+"185","rs11698914","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","C","G",NA,0.0133153,0.00830887,0.11
+"186","rs11708067","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","A","G",NA,0.0195265,0.00817804,0.017
+"187","rs11711420","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","T","G",NA,0.00321149,0.00798651,0.69
+"188","rs117733303","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","A","G",NA,-0.451693,0.0263634,8.4004e-66
+"189","rs11867479","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","C","T",NA,0.00755326,0.00732532,0.3
+"190","rs11983722","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","A","T",NA,-0.00644263,0.0138121,0.64
+"191","rs12212146","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","T","C",NA,0.0885558,0.0139383,2.1e-10
+"192","rs12401656","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","G","A",NA,-0.00387227,0.0100275,0.7
+"193","rs12461110","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","G","A",NA,0.0177463,0.00730695,0.015
+"194","rs1250259","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","T","A",NA,0.0472229,0.00795248,2.90001e-09
+"195","rs12740374","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","G","T",NA,0.103964,0.00832224,8.19974e-36
+"196","rs12930452","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","A","G",NA,-0.0489638,0.00710447,5.50047e-12
+"197","rs13257363","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","G","A",NA,0.00541546,0.00711134,0.450001
+"198","rs13266210","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","A","G",NA,0.00057889,0.00853256,0.95
+"199","rs134594","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","C","T",NA,-0.00696928,0.00729453,0.34
+"200","rs138715366","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","C","T",NA,-0.0681282,0.0380378,0.0729995
+"201","rs1411424","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","G","A",NA,0.0101987,0.00697418,0.14
+"202","rs1412444","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","C","T",NA,-0.0494546,0.00732169,1.39991e-11
+"203","rs146534110","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","G","T",NA,-0.208513,0.0311565,2.19989e-11
+"204","rs147110934","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","G","T",NA,-0.019636,0.0230071,0.39
+"205","rs1482852","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","A","G",NA,0.00375347,0.00711173,0.6
+"206","rs17033114","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","T","C",NA,-0.0147097,0.0152841,0.34
+"207","rs17034876","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","C","T",NA,-0.01223,0.0078457,0.12
+"208","rs17114046","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","A","G",NA,0.0965988,0.011807,2.80027e-16
+"209","rs17263917","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","G","A",NA,0.0617289,0.00981879,3.2e-10
+"210","rs17367504","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","A","G",NA,0.0286268,0.00943709,0.00239999
+"211","rs17465982","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","G","A",NA,-0.0661231,0.00767948,7.29962e-18
+"212","rs1818782","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","A","C",NA,0.00431401,0.00735228,0.56
+"213","rs186606513","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","G","A",NA,-0.0432553,0.0298459,0.15
+"214","rs1966248","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","A","T",NA,0.0705667,0.00759315,1.50003e-20
+"215","rs1981627","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","A","G",NA,0.00565905,0.00713888,0.43
+"216","rs2045457","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","G","A",NA,-0.0280894,0.0075495,2e-04
+"217","rs2107595","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","G","A",NA,-0.0765849,0.00953232,9.3994e-16
+"218","rs2128739","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","A","C",NA,0.0659813,0.00769929,1e-17
+"219","rs2140480","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","T","C",NA,0.0437311,0.00781775,2.19999e-08
+"220","rs2166529","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","G","T",NA,-0.0563709,0.00703554,1.10002e-15
+"221","rs2168443","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","T","A",NA,-0.0306468,0.00717554,1.89998e-05
+"222","rs220193","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","A","G",NA,-0.00682828,0.00840155,0.42
+"223","rs222857","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","C","T",NA,-0.00437712,0.00702017,0.53
+"224","rs2229742","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","G","C",NA,-0.041542,0.0116281,0.000350002
+"225","rs223290","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","T","C",NA,0.0972662,0.0141694,6.70039e-12
+"226","rs2237467","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","G","A",NA,-0.000610448,0.00845579,0.94
+"227","rs2280235","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","A","G",NA,0.000393493,0.00799819,0.96
+"228","rs2282978","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","T","C",NA,0.00465285,0.00742446,0.53
+"229","rs2293251","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","T","G",NA,-0.061081,0.00972645,3.40001e-10
+"230","rs2306547","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","C","T",NA,0.00732996,0.00708996,0.3
+"231","rs2306700","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","C","T",NA,-0.00785527,0.0102219,0.44
+"232","rs2551347","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","C","T",NA,0.0197001,0.00797812,0.0140001
+"233","rs2649999","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","T","C",NA,0.0426176,0.00754609,1.6e-08
+"234","rs2779165","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","G","C",NA,-0.0189801,0.00915805,0.0379997
+"235","rs28365970","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","C","A",NA,0.0104672,0.00797843,0.19
+"236","rs28451064","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","G","A",NA,-0.0992826,0.010756,2.70023e-20
+"237","rs28457693","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","A","G",NA,-0.00261912,0.0110322,0.81
+"238","rs28505901","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","A","G",NA,-0.0278195,0.00806769,0.000560003
+"239","rs28601761","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","C","G",NA,0.0565722,0.00715987,2.80027e-15
+"240","rs2891168","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","A","G",NA,-0.170449,0.00698643,1.79887e-131
+"241","rs2928148","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","G","A",NA,0.0297559,0.00699968,2.1e-05
+"242","rs2946179","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","T","C",NA,0.0303985,0.00785304,0.000109999
+"243","rs339969","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","C","A",NA,0.0131842,0.00715696,0.0649995
+"244","rs34471628","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","A","G",NA,0.0205735,0.0183558,0.26
+"245","rs34776209","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","C","T",NA,-0.0042133,0.00813586,0.6
+"246","rs35261542","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","C","A",NA,0.00371219,0.00789431,0.64
+"247","rs3741380","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","G","A",NA,-0.0411267,0.00696966,3.59998e-09
+"248","rs3796581","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","A","G",NA,0.0686675,0.00901791,2.60016e-14
+"249","rs3918226","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","C","T",NA,-0.0973361,0.0132838,2.29985e-13
+"250","rs40434","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","A","G",NA,0.00126716,0.00720446,0.86
+"251","rs41311445","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","A","C",NA,0.0109485,0.0120368,0.36
+"252","rs4144829","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","C","T",NA,-0.0129934,0.00791713,0.1
+"253","rs4280376","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","T","C",NA,-0.0556503,0.00898148,5.80003e-10
+"254","rs4350272","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","A","G",NA,0.018494,0.00800087,0.021
+"255","rs4444073","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","A","C",NA,-0.00234108,0.0069982,0.74
+"256","rs45446698","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","T","G",NA,0.0290216,0.0176587,0.1
+"257","rs4579095","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","A","G",NA,-0.0125111,0.00713327,0.0790005
+"258","rs4719648","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","T","C",NA,-0.00460833,0.00708815,0.52
+"259","rs4762479","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","C","T",NA,0.0845687,0.0133708,2.5e-10
+"260","rs4766578","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","T","A",NA,0.0650727,0.00710609,5.30029e-20
+"261","rs4803455","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","C","A",NA,0.0498537,0.00700573,1.10002e-12
+"262","rs4932373","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","A","C",NA,-0.0690675,0.00749916,3.29989e-20
+"263","rs4953353","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","G","T",NA,0.0169622,0.00733071,0.021
+"264","rs5030317","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","C","G",NA,-0.023757,0.00783173,0.00239999
+"265","rs55730499","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","C","T",NA,-0.310796,0.0133477,6.29506e-120
+"266","rs560887","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","T","C",NA,-0.0232568,0.00773068,0.00259998
+"267","rs6026449","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","T","C",NA,-0.00416803,0.007246,0.57
+"268","rs6040076","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","G","C",NA,0.0183906,0.0070498,0.00909997
+"269","rs604723","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","T","C",NA,-0.0497259,0.00788361,2.80001e-10
+"270","rs61830764","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","G","A",NA,0.000386913,0.0073452,0.96
+"271","rs62496903","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","C","T",NA,0.0144252,0.0128527,0.26
+"272","rs6467157","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","T","C",NA,-0.00918644,0.00785906,0.24
+"273","rs6511720","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","G","T",NA,0.108449,0.0107003,3.90032e-24
+"274","rs6533183","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","C","T",NA,0.00516742,0.00731185,0.48
+"275","rs655720","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","C","T",NA,-0.0539449,0.00772427,2.90001e-12
+"276","rs6569647","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","T","C",NA,-0.00594854,0.00868479,0.49
+"277","rs6575803","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","C","T",NA,0.0116776,0.0119596,0.33
+"278","rs6582623","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","T","C",NA,-0.000561889,0.0103987,0.96
+"279","rs667515","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","G","C",NA,0.00482733,0.00718575,0.5
+"280","rs6845999","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","C","T",NA,-0.00093202,0.00707212,0.9
+"281","rs6905288","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","G","A",NA,-0.0412788,0.00702633,4.20001e-09
+"282","rs6930558","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","G","T",NA,0.00146061,0.0081246,0.86
+"283","rs6995390","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","A","T",NA,0.0102871,0.00937934,0.27
+"284","rs7076938","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","C","T",NA,-0.0265645,0.00786014,0.000729995
+"285","rs708122","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","C","A",NA,0.00768262,0.00753132,0.31
+"286","rs7223535","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","G","A",NA,-0.0191097,0.00787569,0.015
+"287","rs72656010","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","T","C",NA,-0.0116212,0.0104229,0.26
+"288","rs72760655","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","C","A",NA,-0.00270851,0.0074825,0.719999
+"289","rs72934535","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","T","C",NA,-0.100422,0.011558,3.69999e-18
+"290","rs73143584","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","G","A",NA,0.0526544,0.011334,3.40001e-06
+"291","rs732563","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","T","C",NA,0.00198326,0.00694211,0.780001
+"292","rs7402983","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","A","C",NA,-0.0178912,0.00723105,0.0129999
+"293","rs7412","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","C","T",NA,0.136727,0.0127411,7.29962e-27
+"294","rs7502499","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","G","A",NA,-0.0525639,0.00754823,3.29989e-12
+"295","rs75104038","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","G","A",NA,-0.0431181,0.0147312,0.00340001
+"296","rs753381","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","T","C",NA,-0.0154744,0.00706938,0.0290001
+"297","rs75844534","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","C","A",NA,0.00922505,0.0107167,0.39
+"298","rs76094073","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","C","G",NA,0.0217744,0.010731,0.0420001
+"299","rs7678555","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","A","C",NA,-0.0456648,0.00774516,3.69999e-09
+"300","rs76895963","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","T","G",NA,0.0218657,0.0274981,0.43
+"301","rs7819593","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","T","C",NA,0.00281954,0.008131,0.73
+"302","rs7854962","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","C","G",NA,0.0026623,0.00860161,0.760001
+"303","rs7896600","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","G","C",NA,-0.0454541,0.00813514,2.30001e-08
+"304","rs7903146","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","C","T",NA,-0.0169396,0.00765129,0.0269998
+"305","rs7968682","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","G","T",NA,-0.00432573,0.00702378,0.54
+"306","rs80278614","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","G","A",NA,-0.00203667,0.0167558,0.9
+"307","rs854037","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","A","G",NA,-0.000527839,0.0088486,0.95
+"308","rs905938","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","T","C",NA,-0.00675323,0.00791687,0.39
+"309","rs9318511","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","A","C",NA,-0.00941796,0.0105089,0.37
+"310","rs9337951","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","G","A",NA,-0.0501455,0.0076177,4.60045e-11
+"311","rs9349379","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","A","G",NA,-0.0932439,0.00714879,6.89922e-39
+"312","rs9366778","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","G","A",NA,-0.0247699,0.00722705,0.00061
+"313","rs9379084","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","G","A",NA,-0.0209361,0.0113193,0.064
+"314","rs9549046","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","A","G",NA,-0.0166781,0.0108256,0.12
+"315","rs9554448","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","T","C",NA,0.0629435,0.0114556,3.89996e-08
+"316","rs964184","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","G","C",NA,0.0603692,0.0100968,2.19999e-09
+"317","rs9645500","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","T","G",NA,-0.00622973,0.00750608,0.41
+"318","rs9855896","Coronary artery disease || id:ebi-a-GCST005195","ebi-a-GCST005195","A","G",NA,-0.0111631,0.00842756,0.19

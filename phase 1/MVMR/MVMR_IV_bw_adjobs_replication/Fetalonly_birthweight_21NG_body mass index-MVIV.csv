@@ -1,0 +1,957 @@
+"","SNP","exposure","id.exposure","effect_allele.exposure","other_allele.exposure","eaf.exposure","beta.exposure","se.exposure","pval.exposure"
+"1","rs10009336","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,0,NA,0.93
+"2","rs1012167","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,0.025,0.00250413141434306,1.8e-23
+"3","rs10132280","Fetal-only birthweight_21NG","HYUmWJ","A","C",NA,0.001,0.00327352828379708,0.76
+"4","rs10169594","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,-0.006,0.00267689510952425,0.025
+"5","rs10181515","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,0.023,0.00290990322845438,2.7e-15
+"6","rs10182181","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,0,NA,0.99
+"7","rs10192119","Fetal-only birthweight_21NG","HYUmWJ","G","T",NA,0.002,0.00310874995489945,0.52
+"8","rs10197031","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,0.001,0.00394715387554275,0.8
+"9","rs10247983","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,-0.009,0.00489549832856673,0.066
+"10","rs10265057","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,0.03,0.0042765691683176,2.3e-12
+"11","rs10408324","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,-0.004,0.00250282641070101,0.11
+"12","rs10478110","Fetal-only birthweight_21NG","HYUmWJ","C","A",NA,-0.002,0.0029652044370112,0.5
+"13","rs1048932","Fetal-only birthweight_21NG","HYUmWJ","A","C",NA,-0.003,0.00218626415429429,0.17
+"14","rs10492229","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,0.004,0.00291501887239238,0.17
+"15","rs10510419","Fetal-only birthweight_21NG","HYUmWJ","T","G",NA,-0.003,0.00356454884968167,0.4
+"16","rs10518694","Fetal-only birthweight_21NG","HYUmWJ","A","C",NA,-0.003,0.00314410946123643,0.34
+"17","rs1064213","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,0.004,0.00238126328209095,0.093
+"18","rs10733051","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,-0.004,0.00217577703491855,0.066
+"19","rs10742752","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,0.001,0.00301337928557064,0.74
+"20","rs10747488","Fetal-only birthweight_21NG","HYUmWJ","C","A",NA,0.005,0.00274964015538697,0.069
+"21","rs10750215","Fetal-only birthweight_21NG","HYUmWJ","T","G",NA,0.003,0.00255322018958598,0.24
+"22","rs10768994","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,-0.002,0.00205314804264741,0.33
+"23","rs10795422","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,-0.003,0.00249925260261034,0.23
+"24","rs10811871","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,-0.004,0.00250282641070101,0.11
+"25","rs10832778","Fetal-only birthweight_21NG","HYUmWJ","C","G",NA,-0.008,0.00243122170181334,0.001
+"26","rs10858334","Fetal-only birthweight_21NG","HYUmWJ","G","C",NA,0.001,0.00394715387554275,0.8
+"27","rs10867256","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,0.002,0.00303564902562556,0.51
+"28","rs10878946","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,-0.009,0.00277873822776023,0.0012
+"29","rs10887578","Fetal-only birthweight_21NG","HYUmWJ","G","C",NA,-0.002,0.00334582370564121,0.55
+"30","rs10914462","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,-0.001,0.00213812821818935,0.64
+"31","rs10915840","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,0,NA,0.86
+"32","rs10920678","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,0,NA,0.96
+"33","rs10938397","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,0.003,0.00218626415429429,0.17
+"34","rs10942267","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,-0.003,0.00266337324811856,0.26
+"35","rs10953740","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,0.002,0.00242749783024558,0.41
+"36","rs10962550","Fetal-only birthweight_21NG","HYUmWJ","C","G",NA,-0.003,0.00380135799700256,0.43
+"37","rs10968114","Fetal-only birthweight_21NG","HYUmWJ","A","C",NA,0.004,0.00243182732764708,0.1
+"38","rs10971709","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,0.002,0.0037117042803661,0.59
+"39","rs10984756","Fetal-only birthweight_21NG","HYUmWJ","G","C",NA,-0.001,0.00611028503939258,0.87
+"40","rs11030618","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,-0.005,0.00231795617719229,0.031
+"41","rs11066188","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,-0.018,0.00241906151104208,1e-13
+"42","rs11084553","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,0.001,0.00358013553203844,0.78
+"43","rs11105839","Fetal-only birthweight_21NG","HYUmWJ","A","T",NA,0.002,0.00264755125356169,0.45
+"44","rs11115176","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,-0.001,0.00250717638094817,0.69
+"45","rs11118308","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,-0.008,0.00246998953578687,0.0012
+"46","rs1112613","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,-0.007,0.0029590574744533,0.018
+"47","rs11150911","Fetal-only birthweight_21NG","HYUmWJ","A","C",NA,0.004,0.00257272185088607,0.12
+"48","rs11165643","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,-0.001,0.0043947355584872,0.82
+"49","rs11170468","Fetal-only birthweight_21NG","HYUmWJ","C","A",NA,-0.002,0.00253423866466837,0.43
+"50","rs11173522","Fetal-only birthweight_21NG","HYUmWJ","A","C",NA,-0.006,0.00319014270039857,0.06
+"51","rs11185111","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,-0.01,0.00276602217819994,3e-04
+"52","rs11251352","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,0.004,0.00264183013884848,0.13
+"53","rs1144387","Fetal-only birthweight_21NG","HYUmWJ","G","C",NA,-0.011,0.00250197857998099,1.1e-05
+"54","rs11496125","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,-0.003,0.00271970069434317,0.27
+"55","rs11505821","Fetal-only birthweight_21NG","HYUmWJ","T","A",NA,0.004,0.0056632953219308,0.48
+"56","rs11538","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,0.004,0.00362626759245756,0.27
+"57","rs1158805","Fetal-only birthweight_21NG","HYUmWJ","A","C",NA,0,NA,0.9
+"58","rs11609659","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,0.003,0.00295501860858321,0.31
+"59","rs11611246","Fetal-only birthweight_21NG","HYUmWJ","T","G",NA,-0.001,0.00220379754343486,0.65
+"60","rs11615578","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,0.003,0.00277695667073488,0.28
+"61","rs11656076","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,-0.006,0.00287664367241572,0.037
+"62","rs11672660","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,-0.004,0.00319089843836205,0.21
+"63","rs116964396","Fetal-only birthweight_21NG","HYUmWJ","A","C",NA,0.053,0.00656852138362028,7.1e-16
+"64","rs11713193","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,-0.003,0.00223754520745149,0.18
+"65","rs11736228","Fetal-only birthweight_21NG","HYUmWJ","T","A",NA,0.004,0.00257272185088607,0.12
+"66","rs11738695","Fetal-only birthweight_21NG","HYUmWJ","C","A",NA,0.008,0.00240043831076617,0.00086
+"67","rs11739877","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,-0.002,0.00259002535019856,0.44
+"68","rs11781699","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,0,NA,0.95
+"69","rs11867479","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,0.018,0.00255061885245901,1.7e-12
+"70","rs1187352","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,0.002,0.00213997744153774,0.35
+"71","rs11880870","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,-0.004,0.00250282641070101,0.11
+"72","rs11908637","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,-0.001,0.00301337928557064,0.74
+"73","rs11945861","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,0.001,0.00465762783805973,0.83
+"74","rs11951673","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,-0.007,0.00257217640774631,0.0065
+"75","rs12033257","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,0,NA,0.96
+"76","rs12041258","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,0.005,0.00321590231360758,0.12
+"77","rs12044597","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,0.006,0.00232621012288628,0.0099
+"78","rs12049202","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,0.007,0.00307904165932245,0.023
+"79","rs12098284","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,0.005,0.00347335233785504,0.15
+"80","rs12150665","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,-0.002,0.00248009338468579,0.42
+"81","rs1218822","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,0.002,0.00213997744153774,0.35
+"82","rs12299814","Fetal-only birthweight_21NG","HYUmWJ","A","C",NA,0,NA,0.94
+"83","rs12328930","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,-0.004,0.00257272185088607,0.12
+"84","rs12334877","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,0.009,0.00298858980470732,0.0026
+"85","rs12364470","Fetal-only birthweight_21NG","HYUmWJ","G","T",NA,-0.002,0.00361412219984291,0.58
+"86","rs12369179","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,-0.011,0.00452232145363132,0.015
+"87","rs12416812","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,0.003,0.00277695667073488,0.28
+"88","rs1241986","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,-0.009,0.00358259670829276,0.012
+"89","rs12422552","Fetal-only birthweight_21NG","HYUmWJ","C","G",NA,-0.002,0.00253423866466837,0.43
+"90","rs12429545","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,-0.002,0.00454635177135297,0.66
+"91","rs12448257","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,-0.003,0.00348992484888398,0.39
+"92","rs12564992","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,0.011,0.00406431473329888,0.0068
+"93","rs12593036","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,0,NA,0.88
+"94","rs12602912","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,0.006,0.00306128074154792,0.05
+"95","rs1260326","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,-0.007,0.00263097882823817,0.0078
+"96","rs12629015","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,-0.007,0.00316524694981966,0.027
+"97","rs12656216","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,-0.02,0.00307110324456339,7.4e-11
+"98","rs1266874","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,0.001,0.00180706109992145,0.58
+"99","rs12675063","Fetal-only birthweight_21NG","HYUmWJ","T","A",NA,-0.001,0.00394715387554275,0.8
+"100","rs1268065","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,-0.003,0.00244592843082183,0.22
+"101","rs12680842","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,0.003,0.00255322018958598,0.24
+"102","rs12718572","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,-0.001,0.00289749644350944,0.73
+"103","rs12762034","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,0.002,0.00602675857114128,0.74
+"104","rs12779328","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,-0.005,0.00293997201401475,0.089
+"105","rs1285997","Fetal-only birthweight_21NG","HYUmWJ","C","G",NA,-0.002,0.00343146460066601,0.56
+"106","rs12888545","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,-0.002,0.00318468287567463,0.53
+"107","rs12888955","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,0.004,0.00250282641070101,0.11
+"108","rs12914489","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,-0.004,0.00355116433082474,0.26
+"109","rs12922346","Fetal-only birthweight_21NG","HYUmWJ","C","G",NA,0.004,0.00277868187028403,0.15
+"110","rs12933482","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,0.004,0.00410629608529482,0.33
+"111","rs12936083","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,-0.005,0.00272974334789668,0.067
+"112","rs12939549","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,0,NA,0.97
+"113","rs12981256","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,0.005,0.00243457219824491,0.04
+"114","rs13021737","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,-0.002,0.00352080754271069,0.57
+"115","rs13047416","Fetal-only birthweight_21NG","HYUmWJ","G","C",NA,-0.004,0.00264183013884848,0.13
+"116","rs13069244","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,0.001,0.00528769205469993,0.85
+"117","rs13107325","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,-0.001,0.00662386696989458,0.88
+"118","rs13110266","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,0,NA,0.89
+"119","rs13147390","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,0.001,0.00234660254559364,0.67
+"120","rs13174863","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,0.004,0.00340429358611463,0.24
+"121","rs13184896","Fetal-only birthweight_21NG","HYUmWJ","T","G",NA,-0.009,0.00247720043147147,0.00028
+"122","rs13191362","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,0,NA,0.94
+"123","rs1320903","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,-0.002,0.00318468287567463,0.53
+"124","rs1321432","Fetal-only birthweight_21NG","HYUmWJ","A","C",NA,0,NA,0.99
+"125","rs13240600","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,0.003,0.00341726012162398,0.38
+"126","rs13250058","Fetal-only birthweight_21NG","HYUmWJ","G","T",NA,0,NA,0.88
+"127","rs13263601","Fetal-only birthweight_21NG","HYUmWJ","C","A",NA,-0.002,0.00248009338468579,0.42
+"128","rs1327259","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,0.004,0.00238853756725648,0.094
+"129","rs1330052","Fetal-only birthweight_21NG","HYUmWJ","G","C",NA,-0.002,0.00334582370564121,0.55
+"130","rs13322435","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,-0.054,0.00255572153424105,4.3e-99
+"131","rs13329567","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,-0.004,0.00271041083976177,0.14
+"132","rs1365466","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,0,NA,0.98
+"133","rs1371108","Fetal-only birthweight_21NG","HYUmWJ","A","C",NA,-0.002,0.00253423866466837,0.43
+"134","rs138289","Fetal-only birthweight_21NG","HYUmWJ","T","A",NA,-0.01,0.00242027753021089,3.6e-05
+"135","rs1409818","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,-0.001,0.00465762783805973,0.83
+"136","rs1412235","Fetal-only birthweight_21NG","HYUmWJ","C","G",NA,-0.002,0.00303564902562556,0.51
+"137","rs1421334","Fetal-only birthweight_21NG","HYUmWJ","A","C",NA,-0.004,0.00257272185088607,0.12
+"138","rs1430387","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,-0.002,0.00270692092983216,0.46
+"139","rs1431659","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,0.002,0.00289725399800773,0.49
+"140","rs1436344","Fetal-only birthweight_21NG","HYUmWJ","G","C",NA,0.001,0.00185585214018305,0.59
+"141","rs1445652","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,0,NA,0.99
+"142","rs1452075","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,0.003,0.00301671900907163,0.32
+"143","rs1454687","Fetal-only birthweight_21NG","HYUmWJ","C","G",NA,-0.007,0.00236674873508658,0.0031
+"144","rs1465900","Fetal-only birthweight_21NG","HYUmWJ","C","A",NA,-0.004,0.00284683009249616,0.16
+"145","rs1472169","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,-0.002,0.00248009338468579,0.42
+"146","rs1476322","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,-0.002,0.00223096422081284,0.37
+"147","rs1477199","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,0.013,0.0034955478285295,2e-04
+"148","rs1492767","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,-0.001,0.00196050193621734,0.61
+"149","rs1503526","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,0,NA,0.88
+"150","rs1521527","Fetal-only birthweight_21NG","HYUmWJ","G","C",NA,-0.001,0.00220379754343486,0.65
+"151","rs1522569","Fetal-only birthweight_21NG","HYUmWJ","G","T",NA,0.002,0.00352080754271069,0.57
+"152","rs1528435","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,-0.004,0.00238126328209095,0.093
+"153","rs1535660","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,0,NA,0.93
+"154","rs1538247","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,-0.007,0.00258169330615954,0.0067
+"155","rs156201","Fetal-only birthweight_21NG","HYUmWJ","G","C",NA,-0.003,0.00334644633121926,0.37
+"156","rs1624134","Fetal-only birthweight_21NG","HYUmWJ","C","G",NA,0.004,0.0023519776112118,0.089
+"157","rs1681740","Fetal-only birthweight_21NG","HYUmWJ","C","A",NA,0.001,0.00289749644350944,0.73
+"158","rs16849710","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,0.001,0.00196050193621734,0.61
+"159","rs16851483","Fetal-only birthweight_21NG","HYUmWJ","T","G",NA,0.009,0.00512377327157698,0.079
+"160","rs16871902","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,-0.001,0.00242445913009071,0.68
+"161","rs16903285","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,-0.001,0.00495310697626543,0.84
+"162","rs17001561","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,0.013,0.00339739726778241,0.00013
+"163","rs17014375","Fetal-only birthweight_21NG","HYUmWJ","G","T",NA,-0.007,0.00376507746556169,0.063
+"164","rs17033117","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,0.002,0.00310874995489945,0.52
+"165","rs17113297","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,0,NA,0.88
+"166","rs17119937","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,0.003,0.00501873555846181,0.55
+"167","rs17203016","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,0.003,0.00356454884968167,0.4
+"168","rs17207196","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,0.003,0.00271970069434317,0.27
+"169","rs17238110","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,-0.002,0.00831856679785311,0.81
+"170","rs17311369","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,-0.005,0.00267910379023604,0.062
+"171","rs17399237","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,0,NA,0.94
+"172","rs17405819","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,-0.006,0.00261966649899862,0.022
+"173","rs17424296","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,-0.007,0.00271757138190625,0.01
+"174","rs17425707","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,0,NA,0.98
+"175","rs17446257","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,0.005,0.00364377359049048,0.17
+"176","rs17499593","Fetal-only birthweight_21NG","HYUmWJ","G","C",NA,0,NA,0.95
+"177","rs17513613","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,0.002,0.00218492055963515,0.36
+"178","rs175165","Fetal-only birthweight_21NG","HYUmWJ","G","T",NA,0,NA,0.86
+"179","rs17535749","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,0,NA,0.92
+"180","rs17551974","Fetal-only birthweight_21NG","HYUmWJ","A","C",NA,-0.005,0.00338801354970221,0.14
+"181","rs17636031","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,0.001,0.00611028503939258,0.87
+"182","rs17663412","Fetal-only birthweight_21NG","HYUmWJ","A","C",NA,0.001,0.00611028503939258,0.87
+"183","rs17710386","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,-0.001,0.00259524236883452,0.7
+"184","rs17724992","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,0,NA,0.97
+"185","rs17789218","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,0.007,0.0029590574744533,0.018
+"186","rs17806379","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,-0.011,0.00332237024289143,0.00093
+"187","rs1784460","Fetal-only birthweight_21NG","HYUmWJ","A","T",NA,0.002,0.00227817341441598,0.38
+"188","rs1830074","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,0,NA,0.96
+"189","rs1836303","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,0,NA,0.94
+"190","rs1863652","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,-0.002,0.0029652044370112,0.5
+"191","rs1884389","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,-0.002,0.00289725399800773,0.49
+"192","rs1885728","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,-0.002,0.00242749783024558,0.41
+"193","rs1891216","Fetal-only birthweight_21NG","HYUmWJ","G","T",NA,-0.002,0.00303564902562556,0.51
+"194","rs1896767","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,-0.003,0.00244592843082183,0.22
+"195","rs1927790","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,0.001,0.00342026628450436,0.77
+"196","rs1928295","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,0,NA,0.89
+"197","rs1937683","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,-0.001,0.00566976462364805,0.86
+"198","rs1948080","Fetal-only birthweight_21NG","HYUmWJ","G","T",NA,0,NA,0.95
+"199","rs1982441","Fetal-only birthweight_21NG","HYUmWJ","T","G",NA,0.014,0.00359389868657523,9.8e-05
+"200","rs1982725","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,-0.001,0.00375501369610689,0.79
+"201","rs1993709","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,-0.004,0.00291501887239238,0.17
+"202","rs2007231","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,0.001,0.00190693940178649,0.6
+"203","rs200810","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,0.008,0.00245126849876361,0.0011
+"204","rs2009416","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,-0.004,0.00229991109109725,0.082
+"205","rs2051559","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,0.001,0.00723043799418643,0.89
+"206","rs2065418","Fetal-only birthweight_21NG","HYUmWJ","G","T",NA,-0.002,0.00276824635214356,0.47
+"207","rs208015","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,0.006,0.00499850520522068,0.23
+"208","rs2124499","Fetal-only birthweight_21NG","HYUmWJ","C","G",NA,-0.009,0.0025516083986546,0.00042
+"209","rs2131354","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,-0.027,0.00247609940931821,1.1e-27
+"210","rs215634","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,0,NA,0.97
+"211","rs2162524","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,0.006,0.00278154741263075,0.031
+"212","rs2163188","Fetal-only birthweight_21NG","HYUmWJ","C","G",NA,-0.009,0.00242805356032185,0.00021
+"213","rs2174307","Fetal-only birthweight_21NG","HYUmWJ","C","G",NA,0,NA,0.86
+"214","rs217671","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,-0.007,0.00284869746885977,0.014
+"215","rs2228213","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,0,NA,0.92
+"216","rs222857","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,-0.028,0.00244418319696164,2.2e-30
+"217","rs2235564","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,-0.005,0.00268934104682978,0.063
+"218","rs2246012","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,0.003,0.00314410946123643,0.34
+"219","rs2283093","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,0,NA,0.93
+"220","rs2284746","Fetal-only birthweight_21NG","HYUmWJ","C","G",NA,-0.003,0.00239317382877154,0.21
+"221","rs2285178","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,-0.003,0.00277695667073488,0.28
+"222","rs2306537","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,0.004,0.00241746195281511,0.098
+"223","rs2307111","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,-0.004,0.00250282641070101,0.11
+"224","rs2317299","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,0,NA,0.97
+"225","rs2325036","Fetal-only birthweight_21NG","HYUmWJ","C","A",NA,-0.002,0.00343146460066601,0.56
+"226","rs2357760","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,0.002,0.00232661656592265,0.39
+"227","rs2361988","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,0.005,0.00276935055618972,0.071
+"228","rs2365389","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,-0.003,0.00249925260261034,0.23
+"229","rs2367112","Fetal-only birthweight_21NG","HYUmWJ","T","G",NA,0.002,0.00259002535019856,0.44
+"230","rs2423668","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,0,NA,0.95
+"231","rs2425840","Fetal-only birthweight_21NG","HYUmWJ","C","A",NA,-0.002,0.00253423866466837,0.43
+"232","rs2479958","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,-0.001,0.00171573230033301,0.56
+"233","rs2481665","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,-0.002,0.00232661656592265,0.39
+"234","rs2543132","Fetal-only birthweight_21NG","HYUmWJ","G","C",NA,0,NA,0.91
+"235","rs2600226","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,-0.001,0.00375501369610689,0.79
+"236","rs2605603","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,-0.005,0.00219931547094461,0.023
+"237","rs2608703","Fetal-only birthweight_21NG","HYUmWJ","A","C",NA,0.006,0.00232934689877679,0.01
+"238","rs262130","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,-0.019,0.00313149118988526,1.3e-09
+"239","rs2643452","Fetal-only birthweight_21NG","HYUmWJ","T","A",NA,-0.001,0.00171573230033301,0.56
+"240","rs2693826","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,-0.003,0.00271970069434317,0.27
+"241","rs2694047","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,-0.006,0.00304786416295217,0.049
+"242","rs273504","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,0.008,0.00254924766649469,0.0017
+"243","rs2744974","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,-0.009,0.00261919498738508,0.00059
+"244","rs2791653","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,0.005,0.00277913939112521,0.072
+"245","rs2820311","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,0.003,0.00295501860858321,0.31
+"246","rs2832283","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,0,NA,0.92
+"247","rs2836964","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,0.009,0.00266126694174771,0.00072
+"248","rs28457693","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,0.047,0.00396811275632564,2.3e-32
+"249","rs2861683","Fetal-only birthweight_21NG","HYUmWJ","C","A",NA,0.001,0.00196050193621734,0.61
+"250","rs2868975","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,-0.005,0.00321590231360758,0.12
+"251","rs287104","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,-0.004,0.00228481854381752,0.08
+"252","rs2875762","Fetal-only birthweight_21NG","HYUmWJ","C","G",NA,-0.002,0.00242749783024558,0.41
+"253","rs2907948","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,-0.006,0.00269516138702309,0.026
+"254","rs2931434","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,0.001,0.00268921238227849,0.71
+"255","rs2943465","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,-0.012,0.00566018595411718,0.034
+"256","rs294704","Fetal-only birthweight_21NG","HYUmWJ","G","T",NA,0,NA,0.96
+"257","rs3007105","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,0.003,0.00249925260261034,0.23
+"258","rs326896","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,-0.005,0.00275951793575577,0.07
+"259","rs331966","Fetal-only birthweight_21NG","HYUmWJ","C","A",NA,-0.001,0.00327352828379708,0.76
+"260","rs33500","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,0.005,0.00338801354970221,0.14
+"261","rs339991","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,-0.016,0.00246610225504853,8.7e-11
+"262","rs349088","Fetal-only birthweight_21NG","HYUmWJ","A","C",NA,0,NA,0.95
+"263","rs3731695","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,-0.002,0.00218492055963515,0.36
+"264","rs3732084","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,-0.009,0.0025516083986546,0.00042
+"265","rs3736485","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,0.005,0.00227553406472369,0.028
+"266","rs3754963","Fetal-only birthweight_21NG","HYUmWJ","T","A",NA,0.005,0.00252861324614005,0.048
+"267","rs3764835","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,0.002,0.00310874995489945,0.52
+"268","rs3772882","Fetal-only birthweight_21NG","HYUmWJ","A","C",NA,0,NA,0.93
+"269","rs3800229","Fetal-only birthweight_21NG","HYUmWJ","G","T",NA,-0.006,0.00255805618202367,0.019
+"270","rs3800637","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,-0.002,0.00303564902562556,0.51
+"271","rs3806315","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,-0.018,0.00258616492222202,3.4e-12
+"272","rs3806572","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,-0.004,0.00264183013884848,0.13
+"273","rs3807645","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,-0.004,0.00291501887239238,0.17
+"274","rs3814883","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,0.006,0.00238839780552851,0.012
+"275","rs3828783","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,0.007,0.00333821757617507,0.036
+"276","rs3829849","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,0.004,0.00257272185088607,0.12
+"277","rs38314","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,-0.001,0.00185585214018305,0.59
+"278","rs3844598","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,0.001,0.0027897209353691,0.72
+"279","rs3902951","Fetal-only birthweight_21NG","HYUmWJ","G","T",NA,-0.003,0.00277695667073488,0.28
+"280","rs3904244","Fetal-only birthweight_21NG","HYUmWJ","A","T",NA,-0.002,0.0029652044370112,0.5
+"281","rs3935648","Fetal-only birthweight_21NG","HYUmWJ","G","C",NA,-0.013,0.00296967198723853,1.2e-05
+"282","rs3977755","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,-0.007,0.00287784092503811,0.015
+"283","rs40067","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,-0.001,0.0027897209353691,0.72
+"284","rs4012234","Fetal-only birthweight_21NG","HYUmWJ","T","G",NA,0,NA,1
+"285","rs4072917","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,-0.004,0.00226197719491352,0.077
+"286","rs4148155","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,-0.005,0.00364377359049048,0.17
+"287","rs4148866","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,-0.005,0.00237151330721118,0.035
+"288","rs4237643","Fetal-only birthweight_21NG","HYUmWJ","T","G",NA,-0.002,0.00232661656592265,0.39
+"289","rs427943","Fetal-only birthweight_21NG","HYUmWJ","A","C",NA,-0.004,0.0023223626408937,0.085
+"290","rs429343","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,-0.002,0.0029652044370112,0.5
+"291","rs4307239","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,-0.001,0.00394715387554275,0.8
+"292","rs4310573","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,0.004,0.00326123790776245,0.22
+"293","rs4358081","Fetal-only birthweight_21NG","HYUmWJ","C","A",NA,0,NA,0.94
+"294","rs4430672","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,0.002,0.00303564902562556,0.51
+"295","rs4482463","Fetal-only birthweight_21NG","HYUmWJ","C","A",NA,0.008,0.00438354525983343,0.068
+"296","rs4518345","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,-0.001,0.00528769205469993,0.85
+"297","rs4556997","Fetal-only birthweight_21NG","HYUmWJ","A","C",NA,0,NA,0.91
+"298","rs4589691","Fetal-only birthweight_21NG","HYUmWJ","G","C",NA,0,NA,0.95
+"299","rs4639527","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,0,NA,0.95
+"300","rs4653017","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,0,NA,0.92
+"301","rs4660443","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,-0.009,0.00288333160953216,0.0018
+"302","rs4671328","Fetal-only birthweight_21NG","HYUmWJ","G","T",NA,-0.009,0.0024358101688582,0.00022
+"303","rs4722398","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,0.001,0.00528769205469993,0.85
+"304","rs4740619","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,-0.002,0.0029652044370112,0.5
+"305","rs4757144","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,0.002,0.00218492055963515,0.36
+"306","rs4783830","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,-0.004,0.00241746195281511,0.098
+"307","rs4786903","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,-0.003,0.00314410946123643,0.34
+"308","rs4800191","Fetal-only birthweight_21NG","HYUmWJ","G","C",NA,-0.002,0.00259002535019856,0.44
+"309","rs4813619","Fetal-only birthweight_21NG","HYUmWJ","G","T",NA,0.008,0.00253492913880258,0.0016
+"310","rs4818225","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,0.007,0.00269903823226252,0.0095
+"311","rs4820408","Fetal-only birthweight_21NG","HYUmWJ","T","G",NA,-0.003,0.00239317382877154,0.21
+"312","rs4842491","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,-0.008,0.00276404961378045,0.0038
+"313","rs4851029","Fetal-only birthweight_21NG","HYUmWJ","T","G",NA,0.002,0.00303564902562556,0.51
+"314","rs4858193","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,0.002,0.00318468287567463,0.53
+"315","rs486359","Fetal-only birthweight_21NG","HYUmWJ","C","G",NA,0.006,0.00225876904258952,0.0079
+"316","rs4864201","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,0.004,0.00277868187028403,0.15
+"317","rs4880341","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,-0.003,0.00271970069434317,0.27
+"318","rs4906908","Fetal-only birthweight_21NG","HYUmWJ","T","G",NA,-0.003,0.00223754520745149,0.18
+"319","rs491711","Fetal-only birthweight_21NG","HYUmWJ","C","A",NA,0.006,0.00246672079288981,0.015
+"320","rs4925109","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,-0.017,0.00265402093729205,1.5e-10
+"321","rs4929923","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,-0.008,0.00266668711775382,0.0027
+"322","rs4936175","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,0.004,0.00226197719491352,0.077
+"323","rs4937870","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,-0.004,0.00284683009249616,0.16
+"324","rs4954638","Fetal-only birthweight_21NG","HYUmWJ","C","A",NA,0.002,0.00310874995489945,0.52
+"325","rs4981693","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,-0.004,0.00333233680348045,0.23
+"326","rs4986044","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,0.001,0.00242445913009071,0.68
+"327","rs538579","Fetal-only birthweight_21NG","HYUmWJ","C","G",NA,0,NA,0.92
+"328","rs543874","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,-0.003,0.00283521284307956,0.29
+"329","rs559231","Fetal-only birthweight_21NG","HYUmWJ","T","G",NA,-0.004,0.00284683009249616,0.16
+"330","rs577525","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,-0.005,0.00242226129002792,0.039
+"331","rs592483","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,0.015,0.00249380787425428,1.8e-09
+"332","rs6011457","Fetal-only birthweight_21NG","HYUmWJ","A","T",NA,-0.002,0.00213997744153774,0.35
+"333","rs6050446","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,0.002,0.00878947111697441,0.82
+"334","rs6235","Fetal-only birthweight_21NG","HYUmWJ","G","C",NA,0.008,0.00262425614790319,0.0023
+"335","rs6265","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,-0.008,0.00325565425012545,0.014
+"336","rs6443750","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,0,NA,0.98
+"337","rs6448587","Fetal-only birthweight_21NG","HYUmWJ","C","A",NA,0.007,0.0032058819279232,0.029
+"338","rs645040","Fetal-only birthweight_21NG","HYUmWJ","G","T",NA,0.01,0.00297003277649788,0.00076
+"339","rs6461115","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,-0.003,0.00271970069434317,0.27
+"340","rs6471941","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,0,NA,0.86
+"341","rs6500208","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,0.004,0.00319089843836205,0.21
+"342","rs6512302","Fetal-only birthweight_21NG","HYUmWJ","G","C",NA,-0.002,0.00352080754271069,0.57
+"343","rs6545714","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,0,NA,0.88
+"344","rs6556301","Fetal-only birthweight_21NG","HYUmWJ","T","G",NA,-0.004,0.00226197719491352,0.077
+"345","rs6561943","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,-0.004,0.00264183013884848,0.13
+"346","rs657452","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,0.004,0.00284683009249616,0.16
+"347","rs6587552","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,0.003,0.00277695667073488,0.28
+"348","rs6591407","Fetal-only birthweight_21NG","HYUmWJ","A","C",NA,0.006,0.00334666291740242,0.073
+"349","rs6593688","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,-0.005,0.00272974334789668,0.067
+"350","rs6595205","Fetal-only birthweight_21NG","HYUmWJ","C","G",NA,-0.003,0.0026079033476068,0.25
+"351","rs663129","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,-0.001,0.00358013553203844,0.78
+"352","rs6692586","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,0,NA,0.96
+"353","rs6712","Fetal-only birthweight_21NG","HYUmWJ","C","G",NA,-0.003,0.00348992484888398,0.39
+"354","rs6764533","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,-0.002,0.00334582370564121,0.55
+"355","rs6772756","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,0,NA,0.89
+"356","rs6785245","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,0,NA,0.99
+"357","rs6804842","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,-0.004,0.00238853756725648,0.094
+"358","rs6815910","Fetal-only birthweight_21NG","HYUmWJ","T","A",NA,0.001,0.00528769205469993,0.85
+"359","rs6841761","Fetal-only birthweight_21NG","HYUmWJ","G","T",NA,0.002,0.00334582370564121,0.55
+"360","rs685870","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,-0.008,0.00277955192417857,0.004
+"361","rs6985109","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,0,NA,0.89
+"362","rs7024334","Fetal-only birthweight_21NG","HYUmWJ","T","G",NA,0,NA,0.9
+"363","rs7025938","Fetal-only birthweight_21NG","HYUmWJ","G","C",NA,0,NA,0.87
+"364","rs7037266","Fetal-only birthweight_21NG","HYUmWJ","A","C",NA,-0.006,0.00249074734497132,0.016
+"365","rs705217","Fetal-only birthweight_21NG","HYUmWJ","C","T",0.15,-0.023,0.101078917845206,0.82
+"366","rs705704","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,0.006,0.00238839780552851,0.012
+"367","rs7076938","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,-0.034,0.00277871989876201,2e-34
+"368","rs7084454","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,-0.001,0.00259524236883452,0.7
+"369","rs709400","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,0.005,0.00262700130259936,0.057
+"370","rs7102454","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,0.015,0.00255097374978778,4.1e-09
+"371","rs7117238","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,0.011,0.0032012383179151,0.00059
+"372","rs7124681","Fetal-only birthweight_21NG","HYUmWJ","A","C",NA,-0.009,0.00248339387060587,0.00029
+"373","rs7138803","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,0.004,0.00233721371110162,0.087
+"374","rs7144011","Fetal-only birthweight_21NG","HYUmWJ","T","G",NA,0.002,0.00276824635214356,0.47
+"375","rs7148846","Fetal-only birthweight_21NG","HYUmWJ","G","T",NA,0,NA,0.91
+"376","rs7172627","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,0,NA,0.94
+"377","rs7196720","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,0,NA,0.9
+"378","rs7206608","Fetal-only birthweight_21NG","HYUmWJ","G","C",NA,-0.006,0.00276486180574579,0.03
+"379","rs7222349","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,0.006,0.00263917856513353,0.023
+"380","rs7239575","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,-0.001,0.00528769205469993,0.85
+"381","rs7318817","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,0.005,0.00266880818472629,0.061
+"382","rs7334078","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,-0.001,0.00227317588567649,0.66
+"383","rs7354849","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,0.016,0.00253127456628158,2.6e-10
+"384","rs7358465","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,-0.007,0.00266004397221593,0.0085
+"385","rs7488867","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,0.001,0.00415928339892655,0.81
+"386","rs7498665","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,0.004,0.00250282641070101,0.11
+"387","rs753381","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,0.015,0.00237738030035387,2.8e-10
+"388","rs7535528","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,-0.004,0.00257272185088607,0.12
+"389","rs754635","Fetal-only birthweight_21NG","HYUmWJ","C","G",NA,0.002,0.00427625643637869,0.64
+"390","rs7550711","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,0.005,0.00661887813390423,0.45
+"391","rs7551507","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,0.007,0.002382316582354,0.0033
+"392","rs7557796","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,0.002,0.00276824635214356,0.47
+"393","rs7563664","Fetal-only birthweight_21NG","HYUmWJ","T","G",NA,0.028,0.00408891095006946,7.5e-12
+"394","rs756717","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,-0.002,0.00276824635214356,0.47
+"395","rs7599312","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,-0.009,0.00275767706110907,0.0011
+"396","rs76094073","Fetal-only birthweight_21NG","HYUmWJ","G","C",NA,0.025,0.00369937060785282,1.4e-11
+"397","rs7626079","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,0.006,0.00241568329888955,0.013
+"398","rs7637852","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,-0.003,0.00327738083945273,0.36
+"399","rs7640424","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,-0.003,0.00228906440835686,0.19
+"400","rs765875","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,-0.004,0.00225430612016461,0.076
+"401","rs7683836","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,0.002,0.00227817341441598,0.38
+"402","rs7685048","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,0,NA,0.86
+"403","rs768840","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,-0.001,0.00313834420066129,0.75
+"404","rs769449","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,0,NA,0.92
+"405","rs7694732","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,0.004,0.00271041083976177,0.14
+"406","rs7703576","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,-0.004,0.00298339360993531,0.18
+"407","rs7704281","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,-0.006,0.00591003721716642,0.31
+"408","rs7715256","Fetal-only birthweight_21NG","HYUmWJ","G","T",NA,0.004,0.00241025577401062,0.097
+"409","rs7724675","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,-0.008,0.00291719857710539,0.0061
+"410","rs7730004","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,0.012,0.00254428863187075,2.4e-06
+"411","rs7730898","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,-0.005,0.00268934104682978,0.063
+"412","rs774246","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,0.001,0.00723043799418643,0.89
+"413","rs7761673","Fetal-only birthweight_21NG","HYUmWJ","A","T",NA,0.005,0.00295832406972485,0.091
+"414","rs7780752","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,0.014,0.00257148143044355,5.2e-08
+"415","rs7788008","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,0,NA,0.87
+"416","rs7811342","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,0.005,0.00425536698264329,0.24
+"417","rs7819514","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,-0.005,0.00280825618515244,0.075
+"418","rs7869771","Fetal-only birthweight_21NG","HYUmWJ","C","A",NA,-0.001,0.00207586519385839,0.63
+"419","rs7871866","Fetal-only birthweight_21NG","HYUmWJ","C","G",NA,0,NA,0.9
+"420","rs7899106","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,-0.001,0.00528769205469993,0.85
+"421","rs7903146","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,0.013,0.00273487051763305,2e-06
+"422","rs7925214","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,0.001,0.0043947355584872,0.82
+"423","rs7968682","Fetal-only birthweight_21NG","HYUmWJ","T","G",NA,-0.042,0.00245363733162741,1.1e-65
+"424","rs7970953","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,0.005,0.00269952185060633,0.064
+"425","rs7983065","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,0.006,0.00249074734497132,0.016
+"426","rs7998796","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,-0.003,0.00239317382877154,0.21
+"427","rs8036040","Fetal-only birthweight_21NG","HYUmWJ","C","A",NA,-0.004,0.00241025577401062,0.097
+"428","rs8047395","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,-0.004,0.00233721371110162,0.087
+"429","rs806600","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,-0.007,0.0023333512280346,0.0027
+"430","rs8071182","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,-0.002,0.00310874995489945,0.52
+"431","rs8090983","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,0.004,0.00264183013884848,0.13
+"432","rs8097672","Fetal-only birthweight_21NG","HYUmWJ","T","A",NA,-0.002,0.00427625643637869,0.64
+"433","rs8097783","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,0.009,0.0049848310011415,0.071
+"434","rs8123881","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,0,NA,0.99
+"435","rs8181823","Fetal-only birthweight_21NG","HYUmWJ","A","C",NA,-0.003,0.00271970069434317,0.27
+"436","rs818524","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,0.001,0.0027897209353691,0.72
+"437","rs8192675","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,0.011,0.00266230528323198,3.6e-05
+"438","rs825688","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,-0.002,0.0028316476609654,0.48
+"439","rs852056","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,0,NA,0.85
+"440","rs865809","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,0.009,0.00281720909374375,0.0014
+"441","rs872281","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,0,NA,0.97
+"442","rs876605","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,-0.004,0.00277868187028403,0.15
+"443","rs879620","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,-0.005,0.00263755102367329,0.058
+"444","rs889398","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,0.003,0.00239317382877154,0.21
+"445","rs895330","Fetal-only birthweight_21NG","HYUmWJ","G","C",NA,0,NA,1
+"446","rs901630","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,0.001,0.00201673752040205,0.62
+"447","rs902695","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,0.003,0.00213512256937212,0.16
+"448","rs9294260","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,0.005,0.00243457219824491,0.04
+"449","rs9300422","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,-0.008,0.00269565581640052,0.003
+"450","rs930295","Fetal-only birthweight_21NG","HYUmWJ","A","C",NA,0,NA,0.89
+"451","rs9304665","Fetal-only birthweight_21NG","HYUmWJ","T","A",NA,-0.003,0.00271970069434317,0.27
+"452","rs934224","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,-0.002,0.00289725399800773,0.49
+"453","rs9362662","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,-0.002,0.00242749783024558,0.41
+"454","rs9367368","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,-0.002,0.00242749783024558,0.41
+"455","rs9375702","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,0.016,0.0026012066106503,7.7e-10
+"456","rs9408882","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,0.001,0.00415928339892655,0.81
+"457","rs946824","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,0.009,0.00389950629984664,0.021
+"458","rs947612","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,0,NA,0.96
+"459","rs9522285","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,-0.004,0.00242465231732517,0.099
+"460","rs9538162","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,0.001,0.00375501369610689,0.79
+"461","rs9547153","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,-0.001,0.00313834420066129,0.75
+"462","rs9571687","Fetal-only birthweight_21NG","HYUmWJ","A","C",NA,-0.005,0.00267910379023604,0.062
+"463","rs9615905","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,-0.005,0.00235841081421549,0.034
+"464","rs962273","Fetal-only birthweight_21NG","HYUmWJ","T","C",NA,0.008,0.00269565581640052,0.003
+"465","rs9650755","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,0.003,0.00289454202306744,0.3
+"466","rs9688431","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,-0.002,0.00484891826018142,0.68
+"467","rs977747","Fetal-only birthweight_21NG","HYUmWJ","T","G",NA,0.001,0.00234660254559364,0.67
+"468","rs9783858","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,-0.007,0.00254750979720549,0.006
+"469","rs9806742","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,-0.009,0.00383708427303551,0.019
+"470","rs9816226","Fetal-only birthweight_21NG","HYUmWJ","A","T",NA,-0.009,0.00322787614231436,0.0053
+"471","rs9845966","Fetal-only birthweight_21NG","HYUmWJ","T","G",NA,-0.001,0.00227317588567649,0.66
+"472","rs987237","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,0,NA,0.9
+"473","rs9926784","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,-0.001,0.00662386696989458,0.88
+"474","rs9927848","Fetal-only birthweight_21NG","HYUmWJ","C","A",NA,0.004,0.00271041083976177,0.14
+"475","rs9951619","Fetal-only birthweight_21NG","HYUmWJ","T","G",NA,0,NA,0.98
+"476","rs998732","Fetal-only birthweight_21NG","HYUmWJ","G","A",NA,-0.001,0.00465762783805973,0.83
+"477","rs9989141","Fetal-only birthweight_21NG","HYUmWJ","C","T",NA,0.003,0.00307972206397111,0.33
+"478","rs999889","Fetal-only birthweight_21NG","HYUmWJ","A","G",NA,0,NA,0.89
+"479","rs10009336","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.1638,-0.014,0.0022,2.19999e-10
+"480","rs1012167","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.3742,0.0061,0.0017,0.000280001
+"481","rs10132280","body mass index || id:ieu-b-40","ieu-b-40","A","C",0.3017,-0.0223,0.0018,5.60015e-35
+"482","rs10169594","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.3596,0.0121,0.0018,1.99986e-11
+"483","rs10181515","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.2274,0.0056,0.002,0.00420001
+"484","rs10182181","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.4753,0.0325,0.0016,6.70039e-90
+"485","rs10192119","body mass index || id:ieu-b-40","ieu-b-40","G","T",0.1673,0.0166,0.0022,2.99985e-14
+"486","rs10197031","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.2834,0.0166,0.0019,1.9002e-18
+"487","rs10247983","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.0787,-0.0201,0.0033,1.7e-09
+"488","rs10265057","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.09127,-7e-04,0.0031,0.82
+"489","rs10408324","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.2744,-0.0124,0.0019,9.49948e-11
+"490","rs10478110","body mass index || id:ieu-b-40","ieu-b-40","C","A",0.4348,0.01,0.0017,9.59997e-09
+"491","rs1048932","body mass index || id:ieu-b-40","ieu-b-40","A","C",0.4162,-0.016,0.0017,3.80014e-22
+"492","rs10492229","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.2268,0.0142,0.0019,7.70016e-14
+"493","rs10510419","body mass index || id:ieu-b-40","ieu-b-40","T","G",0.1416,-0.0177,0.0023,2.19989e-14
+"494","rs10518694","body mass index || id:ieu-b-40","ieu-b-40","A","C",0.1424,0.0146,0.0025,3.29997e-09
+"495","rs1064213","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.492,0.012,0.0017,2.39994e-12
+"496","rs10733051","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.4802,-0.0097,0.0016,2.90001e-09
+"497","rs10742752","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.3841,-0.0124,0.0017,1.10002e-13
+"498","rs10747488","body mass index || id:ieu-b-40","ieu-b-40","C","A",0.2399,0.0123,0.002,1.2e-09
+"499","rs10750215","body mass index || id:ieu-b-40","ieu-b-40","T","G",0.3883,0.0108,0.0017,1.29999e-10
+"500","rs10768994","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.4337,-0.0114,0.0017,6.4003e-12
+"501","rs10795422","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.3095,-0.0139,0.0019,9.30037e-14
+"502","rs10811871","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.3829,-0.0108,0.0018,1.6e-09
+"503","rs10832778","body mass index || id:ieu-b-40","ieu-b-40","C","G",0.3778,-0.0125,0.0017,1.29987e-13
+"504","rs10858334","body mass index || id:ieu-b-40","ieu-b-40","G","C",0.1415,0.0143,0.0026,2.69998e-08
+"505","rs10867256","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.447,0.0118,0.0017,8.69961e-12
+"506","rs10878946","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.286,0.0141,0.0019,3.59998e-13
+"507","rs10887578","body mass index || id:ieu-b-40","ieu-b-40","G","C",0.5104,-0.0128,0.0017,1.59993e-13
+"508","rs10914462","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.4255,-0.0112,0.0017,1.5e-10
+"509","rs10915840","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.283,-0.0118,0.0019,1.29999e-09
+"510","rs10920678","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.4291,0.0155,0.0016,1.50003e-21
+"511","rs10938397","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.4317,0.0324,0.0016,3.40017e-86
+"512","rs10942267","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.3088,-0.0156,0.0019,3.90032e-17
+"513","rs10953740","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.4466,0.0153,0.0017,1e-18
+"514","rs10962550","body mass index || id:ieu-b-40","ieu-b-40","C","G",0.1801,0.0182,0.0022,6.20012e-16
+"515","rs10968114","body mass index || id:ieu-b-40","ieu-b-40","A","C",0.5319,0.0113,0.0017,6.09958e-11
+"516","rs10971709","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.2062,0.0132,0.0021,6.19998e-10
+"517","rs10984756","body mass index || id:ieu-b-40","ieu-b-40","G","C",0.1048,0.0174,0.0029,1.09999e-09
+"518","rs11030618","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.4321,-0.011,0.0017,2.39999e-10
+"519","rs11066188","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.4181,-0.012,0.0017,8.10028e-13
+"520","rs11084553","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.1518,-0.021,0.0024,1.80011e-18
+"521","rs11105839","body mass index || id:ieu-b-40","ieu-b-40","A","T",0.3799,-0.0109,0.0017,1.09999e-10
+"522","rs11115176","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.2399,-0.0121,0.0019,2e-10
+"523","rs11118308","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.4703,-0.0101,0.0016,4.79999e-10
+"524","rs1112613","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.1762,-0.0133,0.0023,3.40001e-09
+"525","rs11150911","body mass index || id:ieu-b-40","ieu-b-40","A","C",0.2809,0.0133,0.0018,4.70002e-13
+"526","rs11165643","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.4172,-0.0206,0.0017,1.39991e-35
+"527","rs11170468","body mass index || id:ieu-b-40","ieu-b-40","C","A",0.2326,-0.0123,0.0019,1.89998e-10
+"528","rs11173522","body mass index || id:ieu-b-40","ieu-b-40","A","C",0.2078,0.0128,0.0021,1.09999e-09
+"529","rs11185111","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.3042,-0.0129,0.0019,7.70016e-12
+"530","rs11251352","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.4012,-0.0109,0.0018,7.00003e-10
+"531","rs1144387","body mass index || id:ieu-b-40","ieu-b-40","G","C",0.4286,-0.0098,0.0017,1.6e-08
+"532","rs11496125","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.4212,0.0169,0.0017,2.99985e-22
+"533","rs11505821","body mass index || id:ieu-b-40","ieu-b-40","T","A",0.0601,0.0311,0.0035,2.70023e-19
+"534","rs11538","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.1805,0.0135,0.0023,3.29997e-09
+"535","rs1158805","body mass index || id:ieu-b-40","ieu-b-40","A","C",0.3766,-0.0137,0.0018,1.20005e-14
+"536","rs11609659","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.2371,-0.0154,0.002,2.19989e-14
+"537","rs11611246","body mass index || id:ieu-b-40","ieu-b-40","T","G",0.21,0.024,0.002,5.00035e-32
+"538","rs11615578","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.2474,0.013,0.002,8.10028e-11
+"539","rs11656076","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.2254,-0.0142,0.0021,5.60015e-12
+"540","rs11672660","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.2049,-0.034,0.0021,1.69981e-60
+"541","rs116964396","body mass index || id:ieu-b-40","ieu-b-40","A","C",0.03134,0.0025,0.0049,0.61
+"542","rs11713193","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.5073,0.0239,0.0017,2.39994e-44
+"543","rs11736228","body mass index || id:ieu-b-40","ieu-b-40","T","A",0.2587,-0.0139,0.002,4.10015e-12
+"544","rs11738695","body mass index || id:ieu-b-40","ieu-b-40","C","A",0.414,-0.0097,0.0017,2e-08
+"545","rs11739877","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.3882,-0.0117,0.0018,6.59933e-11
+"546","rs11781699","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.1896,0.0132,0.0021,3.09999e-10
+"547","rs11867479","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.3669,-0.0038,0.0017,0.0290001
+"548","rs1187352","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.3482,-0.0119,0.0018,6.00067e-11
+"549","rs11880870","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.4801,-0.0189,0.0017,1e-28
+"550","rs11908637","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.236,-0.012,0.0021,4.90004e-09
+"551","rs11945861","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.2369,-0.0148,0.002,5.00035e-13
+"552","rs11951673","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.3941,-0.0123,0.0017,1.10002e-13
+"553","rs12033257","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.3835,-0.0146,0.0018,2.39994e-15
+"554","rs12041258","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.2287,-0.0146,0.002,9.49948e-13
+"555","rs12044597","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.5029,0.0143,0.0016,1.69981e-18
+"556","rs12049202","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.203,0.024,0.0022,1e-28
+"557","rs12098284","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.1241,0.0178,0.0026,1.80011e-11
+"558","rs12150665","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.4058,-0.0162,0.0017,1.59993e-22
+"559","rs1218822","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.3337,-0.0168,0.0017,1.9002e-22
+"560","rs12299814","body mass index || id:ieu-b-40","ieu-b-40","A","C",0.2525,-0.0157,0.002,5.19996e-15
+"561","rs12328930","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.4235,0.0098,0.0017,1.79999e-08
+"562","rs12334877","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.198,-0.0144,0.0022,7.70016e-11
+"563","rs12364470","body mass index || id:ieu-b-40","ieu-b-40","G","T",0.1626,0.0178,0.0022,1.10002e-15
+"564","rs12369179","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.08782,-0.0359,0.0031,2.49977e-31
+"565","rs12416812","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.4912,-0.0111,0.0016,6.09958e-12
+"566","rs1241986","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.1521,0.0139,0.0024,1.09999e-08
+"567","rs12422552","body mass index || id:ieu-b-40","ieu-b-40","C","G",0.2663,-0.0134,0.002,1.59993e-11
+"568","rs12429545","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.1248,0.0316,0.0025,9.60064e-38
+"569","rs12448257","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.218,0.0184,0.002,8.10028e-20
+"570","rs12564992","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.1144,0.0196,0.0026,5.30029e-14
+"571","rs12593036","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.2993,-0.0154,0.0019,3.80014e-16
+"572","rs12602912","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.2048,0.0176,0.0021,9.8992e-18
+"573","rs1260326","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.4027,-0.0105,0.0017,3.89996e-10
+"574","rs12629015","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.1852,-0.0135,0.0023,2.1e-09
+"575","rs12656216","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.2214,0.0015,0.0021,0.49
+"576","rs1266874","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.3558,0.014,0.0018,9.79941e-15
+"577","rs12675063","body mass index || id:ieu-b-40","ieu-b-40","T","A",0.1131,0.0156,0.0026,1.29999e-09
+"578","rs1268065","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.5206,0.0102,0.0017,1e-09
+"579","rs12680842","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.3205,-0.0133,0.0018,4.40048e-14
+"580","rs12718572","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.4024,-0.0117,0.0018,2.99985e-11
+"581","rs12762034","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.07583,0.024,0.0032,7.29962e-14
+"582","rs12779328","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.2833,0.0105,0.0019,4.49997e-08
+"583","rs1285997","body mass index || id:ieu-b-40","ieu-b-40","C","G",0.2847,-0.0142,0.0019,1.20005e-13
+"584","rs12888545","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.2519,0.0136,0.002,9.09913e-12
+"585","rs12888955","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.3487,0.0178,0.0018,1.39991e-22
+"586","rs12914489","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.1103,0.0165,0.0026,3.79997e-10
+"587","rs12922346","body mass index || id:ieu-b-40","ieu-b-40","C","G",0.2657,0.0136,0.002,1e-11
+"588","rs12933482","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.1048,0.0186,0.0028,4.90004e-11
+"589","rs12936083","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.3267,0.0139,0.0019,4.10015e-13
+"590","rs12939549","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.4335,-0.018,0.0016,2.70023e-28
+"591","rs12981256","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.4675,-0.0142,0.0018,1.10002e-15
+"592","rs13021737","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.1681,-0.0574,0.0021,7.49894e-157
+"593","rs13047416","body mass index || id:ieu-b-40","ieu-b-40","G","C",0.3769,-0.0154,0.0018,2.19989e-17
+"594","rs13069244","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.07747,0.0187,0.0032,2.99999e-09
+"595","rs13107325","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.07373,0.047,0.0032,1.10002e-47
+"596","rs13110266","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.4065,-0.0117,0.0017,1.9002e-12
+"597","rs13147390","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.3569,0.0103,0.0018,1e-08
+"598","rs13174863","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.1548,0.0192,0.0023,2.90001e-16
+"599","rs13184896","body mass index || id:ieu-b-40","ieu-b-40","T","G",0.4346,-0.0133,0.0016,3.29989e-16
+"600","rs13191362","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.1198,-0.0236,0.0025,5.90065e-21
+"601","rs1320903","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.3174,0.0216,0.0018,9.20026e-32
+"602","rs1321432","body mass index || id:ieu-b-40","ieu-b-40","A","C",0.3679,-0.0201,0.0018,3.50026e-29
+"603","rs13240600","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.1552,-0.0204,0.0024,3.50026e-17
+"604","rs13250058","body mass index || id:ieu-b-40","ieu-b-40","G","T",0.3229,-0.0112,0.0018,2.90001e-10
+"605","rs13263601","body mass index || id:ieu-b-40","ieu-b-40","C","A",0.3478,0.0154,0.0018,2.19989e-17
+"606","rs1327259","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.3872,-0.0155,0.0018,1.69981e-18
+"607","rs1330052","body mass index || id:ieu-b-40","ieu-b-40","G","C",0.3504,0.0132,0.0018,1.50003e-13
+"608","rs13322435","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.4092,-0.0044,0.0018,0.0140001
+"609","rs13329567","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.2308,-0.0293,0.002,1e-50
+"610","rs1365466","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.2594,0.0137,0.0019,3.29989e-13
+"611","rs1371108","body mass index || id:ieu-b-40","ieu-b-40","A","C",0.3247,0.0119,0.0018,8.99912e-11
+"612","rs138289","body mass index || id:ieu-b-40","ieu-b-40","T","A",0.4829,-0.0103,0.0017,3.29997e-09
+"613","rs1409818","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.1156,0.0201,0.0029,2.49977e-12
+"614","rs1412235","body mass index || id:ieu-b-40","ieu-b-40","C","G",0.3175,0.0246,0.0017,6.00067e-45
+"615","rs1421334","body mass index || id:ieu-b-40","ieu-b-40","A","C",0.4569,0.0125,0.0018,1e-12
+"616","rs1430387","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.4295,-0.0114,0.0017,5.79963e-11
+"617","rs1431659","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.2656,0.0196,0.0019,6.00067e-24
+"618","rs1436344","body mass index || id:ieu-b-40","ieu-b-40","G","C",0.4078,-0.0141,0.0017,4.10015e-16
+"619","rs1445652","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.1855,0.0123,0.0022,4.30002e-08
+"620","rs1452075","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.2723,-0.0141,0.0018,1.29987e-14
+"621","rs1454687","body mass index || id:ieu-b-40","ieu-b-40","C","G",0.4773,0.0202,0.0017,5.19996e-32
+"622","rs1465900","body mass index || id:ieu-b-40","ieu-b-40","C","A",0.2188,-0.0125,0.002,4.79999e-10
+"623","rs1472169","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.3772,-0.0139,0.0018,2.80027e-15
+"624","rs1476322","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.431,-0.0101,0.0017,5e-09
+"625","rs1477199","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.1451,0.0228,0.0024,9.3994e-22
+"626","rs1492767","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.5043,-0.0094,0.0016,1e-08
+"627","rs1503526","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.4838,0.014,0.0017,5.50047e-17
+"628","rs1521527","body mass index || id:ieu-b-40","ieu-b-40","G","C",0.4676,0.0121,0.0017,3.10027e-12
+"629","rs1522569","body mass index || id:ieu-b-40","ieu-b-40","G","T",0.1819,-0.0164,0.0022,2.90001e-13
+"630","rs1528435","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.3669,-0.0164,0.0017,9.09913e-23
+"631","rs1535660","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.1446,0.0147,0.0025,5.19996e-09
+"632","rs1538247","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.3181,0.0108,0.0019,1e-08
+"633","rs156201","body mass index || id:ieu-b-40","ieu-b-40","G","C",0.2394,-0.0123,0.002,5.80003e-10
+"634","rs1624134","body mass index || id:ieu-b-40","ieu-b-40","C","G",0.4068,0.0101,0.0018,1.09999e-08
+"635","rs1681740","body mass index || id:ieu-b-40","ieu-b-40","C","A",0.3933,-0.0115,0.0018,1.09999e-10
+"636","rs16849710","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.485,0.0116,0.0018,6.00067e-11
+"637","rs16851483","body mass index || id:ieu-b-40","ieu-b-40","T","G",0.06928,0.0369,0.0035,3.19963e-26
+"638","rs16871902","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.4877,0.0125,0.0017,4.60045e-13
+"639","rs16903285","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.1407,0.0331,0.0026,7.59976e-38
+"640","rs17001561","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.1573,0.0151,0.0023,3.80014e-11
+"641","rs17014375","body mass index || id:ieu-b-40","ieu-b-40","G","T",0.1348,0.0172,0.0025,1.10002e-11
+"642","rs17033117","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.1872,0.0137,0.0022,8.9e-10
+"643","rs17113297","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.2082,0.0166,0.0021,2.09991e-15
+"644","rs17119937","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.06905,0.0212,0.0036,5.60003e-09
+"645","rs17203016","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.196,0.015,0.002,2.09991e-13
+"646","rs17207196","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.4118,-0.0221,0.0018,2.09991e-35
+"647","rs17238110","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.1634,-0.0353,0.005,1.99986e-12
+"648","rs17311369","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.3278,-0.0104,0.0019,3.09999e-08
+"649","rs17399237","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.4503,0.0129,0.0017,6.70039e-14
+"650","rs17405819","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.301,-0.0215,0.0018,4.30031e-33
+"651","rs17424296","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.3659,-0.0108,0.0018,2.39999e-09
+"652","rs17425707","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.1003,0.0167,0.0028,4.39997e-09
+"653","rs17446257","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.1292,0.0153,0.0026,2.90001e-09
+"654","rs17499593","body mass index || id:ieu-b-40","ieu-b-40","G","C",0.1897,0.0125,0.0022,1.09999e-08
+"655","rs17513613","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.3236,0.0186,0.0018,3.59998e-26
+"656","rs175165","body mass index || id:ieu-b-40","ieu-b-40","G","T",0.3941,-0.0103,0.0018,5.19996e-09
+"657","rs17535749","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.1023,0.015,0.0027,2.5e-08
+"658","rs17551974","body mass index || id:ieu-b-40","ieu-b-40","A","C",0.1782,-0.0141,0.0022,1.89998e-10
+"659","rs17636031","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.2701,0.016,0.0019,1.20005e-17
+"660","rs17663412","body mass index || id:ieu-b-40","ieu-b-40","A","C",0.1139,0.0157,0.0027,6.1e-09
+"661","rs17710386","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.3319,0.0126,0.0018,1e-12
+"662","rs17724992","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.2596,-0.0183,0.0019,1e-22
+"663","rs17789218","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.2392,0.013,0.0019,7.39946e-12
+"664","rs17806379","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.1789,-0.0258,0.0022,1.50003e-30
+"665","rs1784460","body mass index || id:ieu-b-40","ieu-b-40","A","T",0.4035,0.0132,0.0018,8.99912e-14
+"666","rs1830074","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.288,0.0115,0.0019,1.40001e-09
+"667","rs1836303","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.3873,0.0116,0.0018,5.30029e-11
+"668","rs1863652","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.3449,-0.0115,0.0018,1.40001e-10
+"669","rs1884389","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.4289,-0.0103,0.0017,4e-09
+"670","rs1885728","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.3213,-0.0108,0.0019,1e-08
+"671","rs1891216","body mass index || id:ieu-b-40","ieu-b-40","G","T",0.3759,0.0107,0.0018,2.39999e-09
+"672","rs1896767","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.4624,0.0109,0.0017,2.39999e-10
+"673","rs1927790","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.4109,0.0148,0.0016,1.80011e-19
+"674","rs1928295","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.4461,-0.0141,0.0016,5.40008e-18
+"675","rs1937683","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.3301,-0.0109,0.0018,3.2e-09
+"676","rs1948080","body mass index || id:ieu-b-40","ieu-b-40","G","T",0.3749,-0.0137,0.0018,1.10002e-14
+"677","rs1982441","body mass index || id:ieu-b-40","ieu-b-40","T","G",0.1381,0.0175,0.0026,7.00003e-12
+"678","rs1982725","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.4778,0.0097,0.0017,3.29997e-08
+"679","rs1993709","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.1823,-0.0331,0.0021,1.9002e-57
+"680","rs2007231","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.3613,0.0104,0.0018,5.19996e-09
+"681","rs200810","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.3716,-0.0136,0.0017,5.50047e-16
+"682","rs2009416","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.361,-0.0121,0.0018,1.10002e-11
+"683","rs2051559","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.1308,0.0176,0.0026,5.00035e-12
+"684","rs2065418","body mass index || id:ieu-b-40","ieu-b-40","G","T",0.3623,-0.0166,0.0018,3.59998e-20
+"685","rs208015","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.0784,0.0356,0.0034,1.39991e-25
+"686","rs2124499","body mass index || id:ieu-b-40","ieu-b-40","C","G",0.3718,-0.0123,0.0017,3.40017e-13
+"687","rs2131354","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.5015,-0.0049,0.0017,0.00430002
+"688","rs215634","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.3788,0.0152,0.0018,2.60016e-17
+"689","rs2162524","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.3321,0.0155,0.0018,4.10015e-17
+"690","rs2163188","body mass index || id:ieu-b-40","ieu-b-40","C","G",0.474,0.0131,0.0017,1.99986e-14
+"691","rs2174307","body mass index || id:ieu-b-40","ieu-b-40","C","G",0.4067,0.0121,0.0017,4.90004e-12
+"692","rs217671","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.2719,0.0144,0.0019,1.29987e-13
+"693","rs2228213","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.3481,-0.0139,0.0017,4.60045e-16
+"694","rs222857","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.4287,-0.0061,0.0017,0.000239999
+"695","rs2235564","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.3466,0.0131,0.0018,3.69999e-13
+"696","rs2246012","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.1628,0.0158,0.0022,3.10027e-13
+"697","rs2283093","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.2066,0.0127,0.0021,3.09999e-09
+"698","rs2284746","body mass index || id:ieu-b-40","ieu-b-40","C","G",0.4762,0.0104,0.0017,1.40001e-09
+"699","rs2285178","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.3109,0.0112,0.0019,9.40005e-09
+"700","rs2306537","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.3092,0.0133,0.0019,8.69961e-13
+"701","rs2307111","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.3962,-0.0265,0.0016,1.59993e-58
+"702","rs2317299","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.4403,0.0106,0.0017,1.29999e-09
+"703","rs2325036","body mass index || id:ieu-b-40","ieu-b-40","C","A",0.3845,-0.0181,0.0017,3.59998e-27
+"704","rs2357760","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.3246,-0.0145,0.0017,6.79986e-17
+"705","rs2361988","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.2539,-0.0155,0.002,5.19996e-15
+"706","rs2365389","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.4143,-0.0174,0.0017,1.29987e-25
+"707","rs2367112","body mass index || id:ieu-b-40","ieu-b-40","T","G",0.5081,0.0119,0.0016,2.29985e-13
+"708","rs2423668","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.4495,0.0105,0.0019,2.80001e-08
+"709","rs2425840","body mass index || id:ieu-b-40","ieu-b-40","C","A",0.4059,0.0119,0.0018,1.59993e-11
+"710","rs2479958","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.5075,-0.0154,0.0018,1.50003e-17
+"711","rs2481665","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.4408,-0.0161,0.0016,7.19946e-23
+"712","rs2543132","body mass index || id:ieu-b-40","ieu-b-40","G","C",0.1866,-0.0146,0.0022,5.00035e-11
+"713","rs2600226","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.3303,0.0116,0.0019,3.69999e-10
+"714","rs2605603","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.4887,-0.0103,0.0016,2.5e-10
+"715","rs2608703","body mass index || id:ieu-b-40","ieu-b-40","A","C",0.4546,0.0142,0.0017,1.9002e-16
+"716","rs262130","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.1969,0.0127,0.0023,1.79999e-08
+"717","rs2643452","body mass index || id:ieu-b-40","ieu-b-40","T","A",0.4552,-0.0136,0.0017,4.70002e-15
+"718","rs2693826","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.4421,-0.0137,0.0017,1.99986e-15
+"719","rs2694047","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.253,-0.0188,0.002,3.90032e-21
+"720","rs273504","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.4266,0.0153,0.0018,4.40048e-18
+"721","rs2744974","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.338,0.0249,0.0018,1.39991e-45
+"722","rs2791653","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.2423,0.0141,0.0019,1.29987e-13
+"723","rs2820311","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.3369,0.0235,0.0018,4.10015e-38
+"724","rs2832283","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.2208,0.0115,0.002,5.80003e-09
+"725","rs2836964","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.3576,-0.011,0.0018,1.29999e-09
+"726","rs28457693","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.09618,-1e-04,0.0029,0.96
+"727","rs2861683","body mass index || id:ieu-b-40","ieu-b-40","C","A",0.407,-0.0144,0.0017,1.29987e-16
+"728","rs2868975","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.178,-0.0143,0.0023,2.19999e-10
+"729","rs287104","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.3396,-0.0115,0.0017,4.40048e-11
+"730","rs2875762","body mass index || id:ieu-b-40","ieu-b-40","C","G",0.2473,0.0139,0.002,1.20005e-11
+"731","rs2907948","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.2427,-0.0141,0.0019,1.29987e-13
+"732","rs2931434","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.3168,-0.0104,0.0018,1.40001e-08
+"733","rs2943465","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.0556,-0.0248,0.0039,2e-10
+"734","rs294704","body mass index || id:ieu-b-40","ieu-b-40","G","T",0.2761,0.0113,0.0019,4e-09
+"735","rs3007105","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.4697,0.0142,0.0017,1.10002e-17
+"736","rs326896","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.3925,-0.0128,0.0018,2.80027e-13
+"737","rs331966","body mass index || id:ieu-b-40","ieu-b-40","C","A",0.3792,0.0112,0.0018,3.2e-10
+"738","rs33500","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.1918,0.0167,0.0022,4.30031e-14
+"739","rs339991","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.4369,-0.0124,0.0018,1.20005e-12
+"740","rs349088","body mass index || id:ieu-b-40","ieu-b-40","A","C",0.4976,-0.0128,0.0017,1.80011e-13
+"741","rs3731695","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.4418,-0.0116,0.0016,7.89951e-13
+"742","rs3732084","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.3861,-0.0107,0.0018,1.09999e-09
+"743","rs3736485","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.4557,0.0134,0.0016,2.49977e-16
+"744","rs3754963","body mass index || id:ieu-b-40","ieu-b-40","T","A",0.2574,-0.0123,0.002,3.29997e-10
+"745","rs3764835","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.1528,-0.0141,0.0024,3.09999e-09
+"746","rs3772882","body mass index || id:ieu-b-40","ieu-b-40","A","C",0.3661,0.0127,0.0018,6.59933e-13
+"747","rs3800229","body mass index || id:ieu-b-40","ieu-b-40","G","T",0.2877,-0.0175,0.0018,1.39991e-22
+"748","rs3800637","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.336,0.0115,0.0018,5.1e-10
+"749","rs3806315","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.4347,-0.0038,0.0017,0.0299999
+"750","rs3806572","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.2788,-0.0145,0.0019,1.59993e-14
+"751","rs3807645","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.221,-0.0166,0.0021,2.39994e-15
+"752","rs3814883","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.4764,0.0232,0.0017,1.10002e-40
+"753","rs3828783","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.1809,-0.0165,0.0021,5.60015e-15
+"754","rs3829849","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.3589,0.0098,0.0017,5.89997e-09
+"755","rs38314","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.4912,-0.012,0.0017,4.70002e-12
+"756","rs3844598","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.479,-0.0095,0.0017,3.79997e-08
+"757","rs3902951","body mass index || id:ieu-b-40","ieu-b-40","G","T",0.2455,0.0134,0.002,7.00003e-12
+"758","rs3904244","body mass index || id:ieu-b-40","ieu-b-40","A","T",0.1377,0.0155,0.0025,4.30002e-10
+"759","rs3935648","body mass index || id:ieu-b-40","ieu-b-40","G","C",0.2328,-0.0125,0.0022,6.80002e-09
+"760","rs3977755","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.2804,-0.0135,0.0019,5.90065e-13
+"761","rs40067","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.1713,-0.0266,0.0023,7.10068e-30
+"762","rs4012234","body mass index || id:ieu-b-40","ieu-b-40","T","G",0.4076,-0.0141,0.0018,9.8992e-16
+"763","rs4072917","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.4694,0.0115,0.0018,6.89922e-11
+"764","rs4148155","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.1127,-0.0188,0.0026,5.00035e-13
+"765","rs4148866","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.4068,0.0098,0.0018,4e-08
+"766","rs4237643","body mass index || id:ieu-b-40","ieu-b-40","T","G",0.3062,0.0223,0.0019,4.30031e-33
+"767","rs427943","body mass index || id:ieu-b-40","ieu-b-40","A","C",0.4331,-0.017,0.0017,7.29962e-23
+"768","rs429343","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.4187,0.015,0.0017,6.79986e-18
+"769","rs4307239","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.4578,0.0115,0.0017,3.90032e-11
+"770","rs4310573","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.2187,-0.0116,0.0021,3.50002e-08
+"771","rs4358081","body mass index || id:ieu-b-40","ieu-b-40","C","A",0.4631,0.0097,0.0017,1.5e-08
+"772","rs4430672","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.1996,0.0127,0.0022,3.89996e-09
+"773","rs4482463","body mass index || id:ieu-b-40","ieu-b-40","C","A",0.0787,0.0331,0.0033,2.80027e-23
+"774","rs4518345","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.2842,-0.0117,0.0019,1e-09
+"775","rs4556997","body mass index || id:ieu-b-40","ieu-b-40","A","C",0.1349,0.0197,0.0024,6.90081e-17
+"776","rs4589691","body mass index || id:ieu-b-40","ieu-b-40","G","C",0.1579,0.0141,0.0024,4.70002e-09
+"777","rs4639527","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.3012,0.0172,0.0019,3.29989e-20
+"778","rs4653017","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.3182,-0.0122,0.0018,4.49987e-11
+"779","rs4660443","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.2218,0.0164,0.0021,6.79986e-15
+"780","rs4671328","body mass index || id:ieu-b-40","ieu-b-40","G","T",0.5533,-0.0219,0.0017,2.19989e-36
+"781","rs4722398","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.1336,0.0158,0.0025,3.59998e-10
+"782","rs4740619","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.4521,-0.0186,0.0016,2.29985e-30
+"783","rs4757144","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.4122,-0.0169,0.0018,5.60015e-22
+"784","rs4783830","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.3074,-0.0105,0.0019,2.39999e-08
+"785","rs4786903","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.2632,-0.0125,0.002,3.50002e-10
+"786","rs4800191","body mass index || id:ieu-b-40","ieu-b-40","G","C",0.3631,-0.0103,0.0017,2.5e-09
+"787","rs4813619","body mass index || id:ieu-b-40","ieu-b-40","G","T",0.4899,0.0108,0.0018,2.30001e-09
+"788","rs4818225","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.3394,-0.0117,0.0018,2.30001e-10
+"789","rs4820408","body mass index || id:ieu-b-40","ieu-b-40","T","G",0.408,0.0151,0.0017,2.09991e-19
+"790","rs4842491","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.2862,-0.0098,0.0018,4e-08
+"791","rs4851029","body mass index || id:ieu-b-40","ieu-b-40","T","G",0.4753,-0.0121,0.0017,1.69981e-12
+"792","rs4858193","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.2779,-0.0129,0.0019,1.59993e-11
+"793","rs486359","body mass index || id:ieu-b-40","ieu-b-40","C","G",0.4853,0.0112,0.0017,1.59993e-11
+"794","rs4864201","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.3531,0.0141,0.0017,1.50003e-16
+"795","rs4880341","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.4394,0.0118,0.0017,1.10002e-11
+"796","rs4906908","body mass index || id:ieu-b-40","ieu-b-40","T","G",0.4747,-0.0103,0.0017,2.5e-09
+"797","rs491711","body mass index || id:ieu-b-40","ieu-b-40","C","A",0.316,-0.0115,0.0019,1.09999e-09
+"798","rs4925109","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.3196,-0.0071,0.0019,0.00017
+"799","rs4929923","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.3624,-0.0181,0.0017,7.19946e-27
+"800","rs4936175","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.5555,-0.0122,0.0017,1.39991e-12
+"801","rs4937870","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.3172,-0.0109,0.0019,8.79995e-09
+"802","rs4954638","body mass index || id:ieu-b-40","ieu-b-40","C","A",0.2492,-0.0118,0.002,2.90001e-09
+"803","rs4981693","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.229,-0.0206,0.002,6.90081e-24
+"804","rs4986044","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.4687,-0.0164,0.0016,3.29989e-23
+"805","rs538579","body mass index || id:ieu-b-40","ieu-b-40","C","G",0.3228,0.0137,0.0019,1.29987e-13
+"806","rs543874","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.1952,0.0475,0.002,1.1995e-122
+"807","rs559231","body mass index || id:ieu-b-40","ieu-b-40","T","G",0.3956,0.0135,0.0018,2.39994e-14
+"808","rs577525","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.4324,-0.0166,0.0017,9.70063e-22
+"809","rs592483","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.4284,0.0147,0.0017,1.99986e-18
+"810","rs6011457","body mass index || id:ieu-b-40","ieu-b-40","A","T",0.4975,-0.0116,0.0017,2.70023e-11
+"811","rs6050446","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.02999,-0.0343,0.0047,4.40048e-13
+"812","rs6235","body mass index || id:ieu-b-40","ieu-b-40","G","C",0.2702,0.0175,0.0019,1.50003e-19
+"813","rs6265","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.1951,-0.0412,0.0021,1e-86
+"814","rs6443750","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.1932,-0.0148,0.0021,3.19963e-12
+"815","rs6448587","body mass index || id:ieu-b-40","ieu-b-40","C","A",0.1891,-0.0167,0.0023,2.29985e-13
+"816","rs645040","body mass index || id:ieu-b-40","ieu-b-40","G","T",0.2238,-0.0171,0.002,2.49977e-18
+"817","rs6461115","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.2285,-0.0144,0.0019,1.20005e-13
+"818","rs6471941","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.1684,0.0156,0.0021,3.10027e-13
+"819","rs6500208","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.2006,0.014,0.002,4.10015e-12
+"820","rs6512302","body mass index || id:ieu-b-40","ieu-b-40","G","C",0.2489,-0.0142,0.002,2.09991e-12
+"821","rs6545714","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.3861,0.0191,0.0017,9.09913e-31
+"822","rs6556301","body mass index || id:ieu-b-40","ieu-b-40","T","G",0.3596,-0.0111,0.0018,4.09996e-10
+"823","rs6561943","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.2595,0.0119,0.0019,4.20001e-10
+"824","rs657452","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.3784,0.0188,0.0017,7.19946e-29
+"825","rs6587552","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.2409,0.0173,0.002,1.59993e-17
+"826","rs6591407","body mass index || id:ieu-b-40","ieu-b-40","A","C",0.1861,-0.0118,0.0021,1.89998e-08
+"827","rs6593688","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.3733,0.0137,0.0018,8.60003e-15
+"828","rs6595205","body mass index || id:ieu-b-40","ieu-b-40","C","G",0.4695,0.0114,0.0016,1.99986e-12
+"829","rs663129","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.2301,0.0545,0.0019,1.59956e-178
+"830","rs6692586","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.168,0.0192,0.0023,1.10002e-16
+"831","rs6712","body mass index || id:ieu-b-40","ieu-b-40","C","G",0.1368,0.0138,0.0025,4.39997e-08
+"832","rs6764533","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.359,0.0116,0.0018,1.40001e-10
+"833","rs6772756","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.3372,-0.0104,0.0019,4e-08
+"834","rs6785245","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.3969,0.0132,0.0017,4.00037e-14
+"835","rs6804842","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.428,-0.0156,0.0017,3.59998e-21
+"836","rs6815910","body mass index || id:ieu-b-40","ieu-b-40","T","A",0.4565,0.0128,0.0017,1.39991e-13
+"837","rs6841761","body mass index || id:ieu-b-40","ieu-b-40","G","T",0.4748,0.0131,0.0016,6.4003e-16
+"838","rs685870","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.2965,-0.012,0.0019,2.39999e-10
+"839","rs6985109","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.4662,0.0177,0.0017,1.50003e-26
+"840","rs7024334","body mass index || id:ieu-b-40","ieu-b-40","T","G",0.2258,0.0138,0.002,3.10027e-12
+"841","rs7025938","body mass index || id:ieu-b-40","ieu-b-40","G","C",0.3187,0.0166,0.0019,3.69999e-19
+"842","rs7037266","body mass index || id:ieu-b-40","ieu-b-40","A","C",0.3739,-0.0112,0.0018,3.50002e-10
+"843","rs705217","body mass index || id:ieu-b-40","ieu-b-40","C","A",0.3652,-0.0102,0.0018,9.29994e-09
+"844","rs705704","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.3304,-0.0131,0.0018,1.9002e-13
+"845","rs7076938","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.268,0,0.0019,0.98
+"846","rs7084454","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.335,0.0193,0.0019,4.00037e-25
+"847","rs709400","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.3818,-0.015,0.0017,4.60045e-19
+"848","rs7102454","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.3435,0.0158,0.0018,2.39994e-18
+"849","rs7117238","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.168,-0.0131,0.0022,2.5e-09
+"850","rs7124681","body mass index || id:ieu-b-40","ieu-b-40","A","C",0.4133,0.0263,0.0016,3.19963e-58
+"851","rs7138803","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.3772,0.03,0.0017,2.29985e-71
+"852","rs7144011","body mass index || id:ieu-b-40","ieu-b-40","T","G",0.2136,0.0282,0.002,5.19996e-47
+"853","rs7148846","body mass index || id:ieu-b-40","ieu-b-40","G","T",0.1896,0.0124,0.0022,2.19999e-08
+"854","rs7172627","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.5281,-0.0117,0.0017,1.10002e-11
+"855","rs7196720","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.4932,0.0129,0.0017,7.29962e-14
+"856","rs7206608","body mass index || id:ieu-b-40","ieu-b-40","G","C",0.3146,0.0132,0.0019,1.29987e-12
+"857","rs7222349","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.3441,0.0115,0.0018,3.29997e-10
+"858","rs7239575","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.4832,-0.0202,0.0017,7.39946e-32
+"859","rs7318817","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.3929,0.0155,0.0018,2.70023e-18
+"860","rs7334078","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.2882,-0.0121,0.0019,2.19999e-10
+"861","rs7354849","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.4692,0.0075,0.0017,1.5e-05
+"862","rs7358465","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.3219,-0.0103,0.0019,2.99999e-08
+"863","rs7488867","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.2639,-0.0204,0.002,8.4004e-24
+"864","rs7498665","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.4038,0.0271,0.0017,5.60015e-60
+"865","rs753381","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.4529,0.0037,0.0016,0.0230001
+"866","rs7535528","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.3741,-0.0152,0.0018,1.39991e-16
+"867","rs754635","body mass index || id:ieu-b-40","ieu-b-40","C","G",0.1127,-0.0198,0.0027,2.19989e-13
+"868","rs7550711","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.03058,0.0649,0.005,3.19963e-38
+"869","rs7551507","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.4367,0.0184,0.0016,9.30037e-30
+"870","rs7557796","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.3476,0.016,0.0018,2.29985e-19
+"871","rs7563664","body mass index || id:ieu-b-40","ieu-b-40","T","G",0.1065,0.0011,0.0028,0.7
+"872","rs756717","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.3973,-0.0148,0.0017,5.40008e-18
+"873","rs7599312","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.2652,-0.0186,0.0019,6.90081e-24
+"874","rs76094073","body mass index || id:ieu-b-40","ieu-b-40","G","C",0.1229,-0.0015,0.0026,0.56
+"875","rs7626079","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.3434,0.011,0.0018,1.6e-09
+"876","rs7637852","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.3049,0.0139,0.0019,1.69981e-13
+"877","rs7640424","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.2969,-0.0136,0.0018,2.29985e-14
+"878","rs765875","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.4808,-0.0121,0.0017,2.99985e-12
+"879","rs7683836","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.4595,0.0114,0.0017,6.29941e-11
+"880","rs7685048","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.4654,-0.0101,0.0017,4.09996e-09
+"881","rs768840","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.4183,0.0114,0.0018,2e-10
+"882","rs769449","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.1161,-0.0254,0.0027,2.29985e-20
+"883","rs7694732","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.4378,-0.0099,0.0017,8.70001e-09
+"884","rs7703576","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.2885,0.0103,0.0019,4.79999e-08
+"885","rs7704281","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.04531,0.0271,0.0041,6.4998e-11
+"886","rs7715256","body mass index || id:ieu-b-40","ieu-b-40","G","T",0.4219,0.0166,0.0016,2.19989e-24
+"887","rs7724675","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.2238,-0.0119,0.0021,9.49992e-09
+"888","rs7730004","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.3307,-0.0148,0.0018,9.09913e-16
+"889","rs7730898","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.271,-0.0168,0.0018,4.49987e-20
+"890","rs774246","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.1444,0.0153,0.0025,5.39995e-10
+"891","rs7761673","body mass index || id:ieu-b-40","ieu-b-40","A","T",0.2058,-0.0126,0.0021,1.89998e-09
+"892","rs7780752","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.36,0.0139,0.0018,1e-14
+"893","rs7788008","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.4445,-0.0157,0.0017,1.10002e-19
+"894","rs7811342","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.1058,-0.0197,0.0029,1.10002e-11
+"895","rs7819514","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.3216,-0.0107,0.0018,5.69994e-09
+"896","rs7869771","body mass index || id:ieu-b-40","ieu-b-40","C","A",0.2647,-0.014,0.0019,4.90004e-13
+"897","rs7871866","body mass index || id:ieu-b-40","ieu-b-40","C","G",0.1531,0.0187,0.0024,2.29985e-14
+"898","rs7899106","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.04777,0.0331,0.0037,1e-18
+"899","rs7903146","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.2912,-0.0181,0.0018,1.29987e-23
+"900","rs7925214","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.4867,-0.0147,0.0018,4.40048e-17
+"901","rs7968682","body mass index || id:ieu-b-40","ieu-b-40","T","G",0.5187,-0.0046,0.0016,0.00530005
+"902","rs7970953","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.29,0.0135,0.0018,9.79941e-14
+"903","rs7983065","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.4503,-0.0148,0.0017,8.9002e-18
+"904","rs7998796","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.3373,0.0105,0.0018,1.09999e-08
+"905","rs8036040","body mass index || id:ieu-b-40","ieu-b-40","C","A",0.5068,-0.0109,0.0017,2.69998e-10
+"906","rs8047395","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.4939,-0.0642,0.0017,0
+"907","rs806600","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.475,-0.0095,0.0017,3.29997e-08
+"908","rs8071182","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.1735,0.0133,0.0022,2.1e-09
+"909","rs8090983","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.3314,0.0118,0.0018,2e-10
+"910","rs8097672","body mass index || id:ieu-b-40","ieu-b-40","T","A",0.1528,0.02,0.0025,8.4004e-16
+"911","rs8097783","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.07554,-0.0389,0.0031,7.19946e-36
+"912","rs8123881","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.1299,0.0196,0.0024,4.40048e-16
+"913","rs8181823","body mass index || id:ieu-b-40","ieu-b-40","A","C",0.2386,-0.0127,0.002,4.09996e-10
+"914","rs818524","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.3061,-0.0106,0.0019,3.40001e-08
+"915","rs8192675","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.2888,0.0152,0.0018,1.39991e-17
+"916","rs825688","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.456,-0.0095,0.0017,4.70002e-08
+"917","rs852056","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.2416,0.0128,0.002,1.79999e-10
+"918","rs865809","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.2322,0.0127,0.002,5.39995e-10
+"919","rs872281","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.1728,-0.0151,0.0023,4.70002e-11
+"920","rs876605","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.2648,0.0108,0.002,3.40001e-08
+"921","rs879620","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.3821,-0.0231,0.0018,5.30029e-38
+"922","rs889398","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.4247,-0.0196,0.0016,1.29987e-32
+"923","rs895330","body mass index || id:ieu-b-40","ieu-b-40","G","C",0.1924,-0.0201,0.0023,5.50047e-19
+"924","rs901630","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.3973,-0.0146,0.0017,1.9002e-18
+"925","rs902695","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.5202,0.0103,0.0017,2.19999e-09
+"926","rs9294260","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.4731,0.0147,0.0016,1.80011e-19
+"927","rs9300422","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.3097,0.0103,0.0018,4e-09
+"928","rs930295","body mass index || id:ieu-b-40","ieu-b-40","A","C",0.1583,0.0211,0.0023,1e-19
+"929","rs9304665","body mass index || id:ieu-b-40","ieu-b-40","T","A",0.2367,-0.0229,0.002,2.90001e-29
+"930","rs934224","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.2601,-0.0107,0.002,4.70002e-08
+"931","rs9362662","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.5201,-0.0112,0.0017,1.2e-10
+"932","rs9367368","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.3033,-0.0121,0.0018,1e-11
+"933","rs9375702","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.295,0.0115,0.0019,7.90005e-10
+"934","rs9408882","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.4594,-0.0093,0.0016,1.29999e-08
+"935","rs946824","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.141,0.0206,0.0026,1.10002e-15
+"936","rs947612","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.2484,0.0116,0.002,5.60003e-09
+"937","rs9522285","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.4143,0.0127,0.0017,2.49977e-13
+"938","rs9538162","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.4138,-0.0156,0.0018,4.79954e-19
+"939","rs9547153","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.3839,0.0098,0.0017,8.70001e-09
+"940","rs9571687","body mass index || id:ieu-b-40","ieu-b-40","A","C",0.329,-0.0129,0.0018,2.80027e-12
+"941","rs9615905","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.45,0.011,0.0017,2.69998e-10
+"942","rs962273","body mass index || id:ieu-b-40","ieu-b-40","T","C",0.2943,-0.0137,0.0019,2.60016e-13
+"943","rs9650755","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.2664,0.0154,0.002,2.80027e-15
+"944","rs9688431","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.06034,-0.0231,0.0035,2.39994e-11
+"945","rs977747","body mass index || id:ieu-b-40","ieu-b-40","T","G",0.4051,0.0169,0.0017,1.29987e-24
+"946","rs9783858","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.4809,-0.0091,0.0017,3.29997e-08
+"947","rs9806742","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.1174,-0.0208,0.0026,1.39991e-15
+"948","rs9816226","body mass index || id:ieu-b-40","ieu-b-40","A","T",0.1801,-0.0323,0.0021,1.59993e-52
+"949","rs9845966","body mass index || id:ieu-b-40","ieu-b-40","T","G",0.4521,0.0105,0.0017,2.5e-10
+"950","rs987237","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.1803,0.0409,0.0021,9.30037e-84
+"951","rs9926784","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.1822,-0.0258,0.0021,9.8992e-35
+"952","rs9927848","body mass index || id:ieu-b-40","ieu-b-40","C","A",0.2674,0.0122,0.002,6.4e-10
+"953","rs9951619","body mass index || id:ieu-b-40","ieu-b-40","T","G",0.2357,-0.0156,0.002,1.39991e-15
+"954","rs998732","body mass index || id:ieu-b-40","ieu-b-40","G","A",0.1578,-0.0171,0.0022,1.99986e-14
+"955","rs9989141","body mass index || id:ieu-b-40","ieu-b-40","C","T",0.3613,-0.0162,0.0017,3.59998e-21
+"956","rs999889","body mass index || id:ieu-b-40","ieu-b-40","A","G",0.2818,-0.0108,0.0019,1.40001e-08

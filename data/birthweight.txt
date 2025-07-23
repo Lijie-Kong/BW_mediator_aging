@@ -1,0 +1,2 @@
+The GWAS data for birthweight in the main analysis can be obtained at http://egg-consortium.org/birth-weight-2019.html.
+The GWAS data for birthweight in the replication analysis can be obtained at https://www.decode.com/summarydata/.

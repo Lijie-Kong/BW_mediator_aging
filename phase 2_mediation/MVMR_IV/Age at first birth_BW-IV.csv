@@ -1,0 +1,327 @@
+"","SNP","exposure","id.exposure","effect_allele.exposure","other_allele.exposure","eaf.exposure","beta.exposure","se.exposure","pval.exposure"
+"1","rs1012167","Birthweight","FSaCRY","T","C",0.599567,-0.024145,0.002661,1.2e-19
+"2","rs10181515","Birthweight","FSaCRY","C","T",0.775444,-0.021433,0.003048,2.13e-12
+"3","rs10221267","Birthweight","FSaCRY","C","T",0.488394,-0.016717,0.002558,6.52e-11
+"4","rs10265057","Birthweight","FSaCRY","A","G",0.908483,-0.027313,0.004498,1.3e-09
+"5","rs10283100","Birthweight","FSaCRY","A","G",0.054129,-0.041928,0.005836,7.01e-13
+"6","rs10437653","Birthweight","FSaCRY","A","C",0.509553,0.009914,0.002587,0.000128
+"7","rs10445366","Birthweight","FSaCRY","C","G",0.169725,-0.004914,0.008502,0.563299
+"8","rs10495563","Birthweight","FSaCRY","G","A",0.335993,-0.022148,0.002693,2.06e-16
+"9","rs10786831","Birthweight","FSaCRY","A","G",0.401255,-0.002235,0.002636,0.396466
+"10","rs10872678","Birthweight","FSaCRY","T","C",0.723816,0.031699,0.002848,9.78e-29
+"11","rs10883846","Birthweight","FSaCRY","C","T",0.614989,0.016841,0.002618,1.3e-10
+"12","rs10895278","Birthweight","FSaCRY","T","C",0.662303,-0.01089,0.002727,6.56e-05
+"13","rs10913200","Birthweight","FSaCRY","G","A",0.972158,0.051218,0.008047,2.02e-10
+"14","rs10935733","Birthweight","FSaCRY","T","C",0.399388,0.019369,0.002641,2.33e-13
+"15","rs10941692","Birthweight","FSaCRY","T","C",0.793358,0.002818,0.003236,0.383881
+"16","rs10962552","Birthweight","FSaCRY","C","T",0.836123,0.003893,0.00349,0.264599
+"17","rs10985827","Birthweight","FSaCRY","T","G",0.859061,-0.029972,0.003703,6.1e-16
+"18","rs11042596","Birthweight","FSaCRY","T","G",0.336246,0.026856,0.002777,4.33e-22
+"19","rs11051061","Birthweight","FSaCRY","G","A",0.733633,-0.011344,0.002923,0.000105
+"20","rs11081529","Birthweight","FSaCRY","T","C",0.706106,0.00962,0.002849,0.000738
+"21","rs11082304","Birthweight","FSaCRY","G","T",0.491864,-0.015966,0.002554,4.22e-10
+"22","rs1112718","Birthweight","FSaCRY","A","G",0.595901,-0.025684,0.00259,3.78e-23
+"23","rs11167753","Birthweight","FSaCRY","T","C",0.719707,-0.001234,0.00286,0.666283
+"24","rs112139215","Birthweight","FSaCRY","C","A",0.93248,-0.047472,0.005142,2.81e-20
+"25","rs112282597","Birthweight","FSaCRY","G","A",0.249772,0.003465,0.005876,0.555422
+"26","rs112512729","Birthweight","FSaCRY","T","G",0.930409,-0.007618,0.005159,0.139739
+"27","rs1129156","Birthweight","FSaCRY","T","C",0.268561,0.017352,0.002909,2.53e-09
+"28","rs113247159","Birthweight","FSaCRY","T","C",0.713296,-0.005051,0.00307,0.099861
+"29","rs11641308","Birthweight","FSaCRY","T","C",0.35039,0.00687,0.002752,0.012577
+"30","rs116807401","Birthweight","FSaCRY","T","C",0.982436,-0.076602,0.010437,2.23e-13
+"31","rs11698914","Birthweight","FSaCRY","C","G",0.233612,0.031861,0.003107,1.21e-24
+"32","rs11708067","Birthweight","FSaCRY","A","G",0.76245,-0.040866,0.002989,1.59e-42
+"33","rs11711420","Birthweight","FSaCRY","T","G",0.74671,0.018654,0.002964,3.22e-10
+"34","rs11867479","Birthweight","FSaCRY","C","T",0.64661,-0.017213,0.002664,1.08e-10
+"35","rs11887646","Birthweight","FSaCRY","A","G",0.765255,-0.005307,0.00311,0.087874
+"36","rs11915934","Birthweight","FSaCRY","A","G",0.175911,-4.8e-05,0.003404,0.988639
+"37","rs11983722","Birthweight","FSaCRY","A","T",0.937628,0.031888,0.005377,3.1e-09
+"38","rs12401656","Birthweight","FSaCRY","G","A",0.865112,0.025183,0.003795,3.36e-11
+"39","rs12407439","Birthweight","FSaCRY","G","A",0.164018,0.001293,0.007343,0.86021
+"40","rs12461110","Birthweight","FSaCRY","G","A",0.642006,-0.005983,0.002716,0.02762
+"41","rs12815613","Birthweight","FSaCRY","A","G",0.682613,-0.00296,0.002735,0.279104
+"42","rs13257363","Birthweight","FSaCRY","G","A",0.590761,0.01757,0.002618,2.01e-11
+"43","rs13266210","Birthweight","FSaCRY","A","G",0.786195,0.0268,0.003142,1.54e-17
+"44","rs13271368","Birthweight","FSaCRY","C","T",0.761298,0.020223,0.003022,2.3e-11
+"45","rs13319205","Birthweight","FSaCRY","T","A",0.710299,-0.008176,0.002865,0.004326
+"46","rs13413037","Birthweight","FSaCRY","G","A",0.501708,0.004946,0.005109,0.332986
+"47","rs134594","Birthweight","FSaCRY","C","T",0.350594,0.016799,0.002709,5.76e-10
+"48","rs138715366","Birthweight","FSaCRY","C","T",0.991197,0.239889,0.014538,4.04e-61
+"49","rs1411424","Birthweight","FSaCRY","G","A",0.477135,-0.019892,0.002587,1.54e-14
+"50","rs142800469","Birthweight","FSaCRY","T","C",0.382542,0.010873,0.005239,0.037969
+"51","rs1430901","Birthweight","FSaCRY","A","G",0.553565,0.000867,0.002593,0.738035
+"52","rs147110934","Birthweight","FSaCRY","G","T",0.975416,0.05233,0.008669,1.62e-09
+"53","rs1482852","Birthweight","FSaCRY","A","G",0.598574,0.050395,0.002618,1.58e-82
+"54","rs1590949","Birthweight","FSaCRY","C","G",0.585301,-0.007037,0.002618,0.007197
+"55","rs1702877","Birthweight","FSaCRY","C","T",0.663824,-0.006996,0.002721,0.010162
+"56","rs17033114","Birthweight","FSaCRY","T","C",0.940036,0.01571,0.005898,0.007746
+"57","rs17034876","Birthweight","FSaCRY","C","T",0.299629,-0.042243,0.002925,3.11e-47
+"58","rs17367504","Birthweight","FSaCRY","A","G",0.839471,-0.011543,0.003453,0.000833
+"59","rs17391694","Birthweight","FSaCRY","C","T",0.86531,-0.008911,0.00373,0.016923
+"60","rs1818782","Birthweight","FSaCRY","A","C",0.35132,-0.014776,0.002743,7.37e-08
+"61","rs1859100","Birthweight","FSaCRY","T","G",0.404654,0.001619,0.00264,0.539803
+"62","rs1981627","Birthweight","FSaCRY","A","G",0.415155,-0.017083,0.002629,8.36e-11
+"63","rs2045457","Birthweight","FSaCRY","G","A",0.311648,0.016194,0.002786,6.32e-09
+"64","rs2069278","Birthweight","FSaCRY","T","C",0.680532,-0.009173,0.002758,0.000885
+"65","rs220193","Birthweight","FSaCRY","A","G",0.225732,0.020584,0.003116,4.07e-11
+"66","rs222857","Birthweight","FSaCRY","C","T",0.424408,-0.026478,0.002579,1.06e-24
+"67","rs2229742","Birthweight","FSaCRY","G","C",0.880836,0.027215,0.004175,7.35e-11
+"68","rs2237467","Birthweight","FSaCRY","G","A",0.779162,-0.018178,0.003112,5.34e-09
+"69","rs2280235","Birthweight","FSaCRY","A","G",0.741043,-0.018251,0.002957,6.9e-10
+"70","rs2282978","Birthweight","FSaCRY","T","C",0.673948,-0.018251,0.002709,1.66e-11
+"71","rs2306547","Birthweight","FSaCRY","C","T",0.534191,0.018719,0.002582,4.35e-13
+"72","rs2530597","Birthweight","FSaCRY","C","G",0.620132,-0.005,0.00266,0.060123
+"73","rs2551347","Birthweight","FSaCRY","C","T",0.250548,-0.02446,0.002971,1.93e-16
+"74","rs2779165","Birthweight","FSaCRY","G","C",0.18416,0.022108,0.003394,7.59e-11
+"75","rs28365970","Birthweight","FSaCRY","C","A",0.74158,0.019868,0.002948,1.65e-11
+"76","rs28457693","Birthweight","FSaCRY","A","G",0.890725,-0.044196,0.004212,9.89e-26
+"77","rs28505901","Birthweight","FSaCRY","A","G",0.248632,0.024438,0.003085,2.46e-15
+"78","rs2928148","Birthweight","FSaCRY","G","A",0.473869,-0.006118,0.00258,0.017757
+"79","rs2934844","Birthweight","FSaCRY","A","T",0.32829,-0.020752,0.002816,1.8e-13
+"80","rs2946179","Birthweight","FSaCRY","T","C",0.266507,-0.019781,0.002912,1.14e-11
+"81","rs3184504","Birthweight","FSaCRY","T","C",0.479244,-0.022966,0.002554,2.57e-19
+"82","rs33920398","Birthweight","FSaCRY","T","C",0.71992,0.001348,0.002903,0.642333
+"83","rs339969","Birthweight","FSaCRY","C","A",0.380652,-0.016841,0.002651,2.18e-10
+"84","rs34471628","Birthweight","FSaCRY","A","G",0.96178,0.017639,0.006791,0.009408
+"85","rs34776209","Birthweight","FSaCRY","C","T",0.755328,0.023223,0.002991,8.53e-15
+"86","rs35261542","Birthweight","FSaCRY","C","A",0.733023,0.040621,0.002875,2.77e-45
+"87","rs359271","Birthweight","FSaCRY","C","T",0.560677,-0.004625,0.005099,0.36438
+"88","rs3784789","Birthweight","FSaCRY","C","G",0.340599,0.003873,0.002705,0.152143
+"89","rs3806315","Birthweight","FSaCRY","G","A",0.409033,-0.017678,0.002653,2.78e-11
+"90","rs3918226","Birthweight","FSaCRY","C","T",0.91946,0.01487,0.004793,0.001929
+"91","rs40434","Birthweight","FSaCRY","A","G",0.609243,-0.016702,0.00265,3e-10
+"92","rs41311445","Birthweight","FSaCRY","A","C",0.903353,0.032564,0.004469,3.33e-13
+"93","rs41355649","Birthweight","FSaCRY","G","A",0.934063,0.034243,0.00531,1.17e-10
+"94","rs4144829","Birthweight","FSaCRY","C","T",0.267142,0.035507,0.002915,4.32e-34
+"95","rs4244533","Birthweight","FSaCRY","G","A",0.19336,0.008332,0.003264,0.010711
+"96","rs4350272","Birthweight","FSaCRY","A","G",0.269233,0.016999,0.002879,3.64e-09
+"97","rs4443016","Birthweight","FSaCRY","C","G",0.499298,-0.000995,0.002596,0.701504
+"98","rs4444073","Birthweight","FSaCRY","A","C",0.520477,0.020182,0.002551,2.69e-15
+"99","rs45446698","Birthweight","FSaCRY","T","G",0.958636,-0.024795,0.006602,0.000174
+"100","rs4579095","Birthweight","FSaCRY","A","G",0.598019,-0.002661,0.002671,0.319097
+"101","rs4719648","Birthweight","FSaCRY","T","C",0.423355,-0.019079,0.002606,2.57e-13
+"102","rs4932373","Birthweight","FSaCRY","A","C",0.679704,0.020084,0.002752,3.04e-13
+"103","rs4953353","Birthweight","FSaCRY","G","T",0.631578,0.017903,0.0027,3.45e-11
+"104","rs5030317","Birthweight","FSaCRY","C","G",0.732702,0.017273,0.002902,2.71e-09
+"105","rs516246","Birthweight","FSaCRY","C","T",0.506098,0.017505,0.002566,9.34e-12
+"106","rs590076","Birthweight","FSaCRY","G","A",0.6593,0.003241,0.002714,0.23241
+"107","rs60222682","Birthweight","FSaCRY","C","T",0.808118,9e-04,0.003313,0.785964
+"108","rs6026449","Birthweight","FSaCRY","T","C",0.372918,-0.016962,0.002679,2.49e-10
+"109","rs6040076","Birthweight","FSaCRY","G","C",0.500098,-0.019018,0.002623,4.35e-13
+"110","rs61750814","Birthweight","FSaCRY","T","C",0.850696,-0.011095,0.003598,0.002051
+"111","rs61830764","Birthweight","FSaCRY","G","A",0.623067,-0.016623,0.002727,1.12e-09
+"112","rs62261746","Birthweight","FSaCRY","C","G",0.692715,0.005394,0.002791,0.053292
+"113","rs62496903","Birthweight","FSaCRY","C","T",0.917392,-0.032797,0.004775,6.74e-12
+"114","rs6467157","Birthweight","FSaCRY","T","C",0.712892,0.019506,0.002887,1.47e-11
+"115","rs6533183","Birthweight","FSaCRY","C","T",0.352446,0.021786,0.002696,6.78e-16
+"116","rs6569647","Birthweight","FSaCRY","T","C",0.801856,0.020035,0.003238,6.31e-10
+"117","rs6574018","Birthweight","FSaCRY","G","T",0.648925,-0.001459,0.002741,0.594501
+"118","rs6575803","Birthweight","FSaCRY","C","T",0.895535,0.031625,0.004454,1.29e-12
+"119","rs6585429","Birthweight","FSaCRY","A","G",0.18122,-0.003337,0.003416,0.328658
+"120","rs667515","Birthweight","FSaCRY","G","C",0.61794,0.01845,0.002704,9.32e-12
+"121","rs6677536","Birthweight","FSaCRY","A","C",0.603549,0.013166,0.00517,0.010897
+"122","rs6845999","Birthweight","FSaCRY","C","T",0.56879,-0.026255,0.002565,1.5e-24
+"123","rs6908444","Birthweight","FSaCRY","G","A",0.360097,0.004058,0.002717,0.135269
+"124","rs6930558","Birthweight","FSaCRY","G","T",0.252922,-0.021812,0.002996,3.44e-13
+"125","rs693691","Birthweight","FSaCRY","T","C",0.125297,0.002314,0.003909,0.553894
+"126","rs6995390","Birthweight","FSaCRY","A","T",0.837064,-0.006146,0.003494,0.078539
+"127","rs7076938","Birthweight","FSaCRY","C","T",0.264688,-0.032051,0.002898,2.14e-28
+"128","rs708122","Birthweight","FSaCRY","C","A",0.68102,0.016508,0.002765,2.45e-09
+"129","rs7223535","Birthweight","FSaCRY","G","A",0.732138,0.02138,0.00291,2.12e-13
+"130","rs72656010","Birthweight","FSaCRY","T","C",0.868303,0.028319,0.003825,1.39e-13
+"131","rs72704712","Birthweight","FSaCRY","T","G",0.833122,-0.00475,0.00346,0.169778
+"132","rs72760655","Birthweight","FSaCRY","C","A",0.681143,0.00714,0.002778,0.010175
+"133","rs72779695","Birthweight","FSaCRY","C","T",0.884166,-0.008789,0.004065,0.030609
+"134","rs73143584","Birthweight","FSaCRY","G","A",0.889782,-0.028776,0.004278,1.8e-11
+"135","rs732563","Birthweight","FSaCRY","T","C",0.496105,-0.017423,0.002572,1.29e-11
+"136","rs73354194","Birthweight","FSaCRY","T","C",0.974784,-0.060799,0.008927,1.01e-11
+"137","rs7359501","Birthweight","FSaCRY","C","T",0.604176,-0.00396,0.002628,0.131756
+"138","rs7402983","Birthweight","FSaCRY","A","C",0.405324,0.024135,0.002685,2.63e-19
+"139","rs75104038","Birthweight","FSaCRY","G","A",0.940326,-0.044913,0.00552,4.28e-16
+"140","rs7516843","Birthweight","FSaCRY","A","G",0.687657,-0.00677,0.002773,0.014649
+"141","rs753381","Birthweight","FSaCRY","T","C",0.450563,0.01512,0.002557,3.43e-09
+"142","rs75844534","Birthweight","FSaCRY","C","A",0.876497,-0.02593,0.003941,4.9e-11
+"143","rs76094073","Birthweight","FSaCRY","C","G",0.87877,-0.026513,0.003933,1.63e-11
+"144","rs76895963","Birthweight","FSaCRY","T","G",0.97881,-0.076305,0.010414,2.45e-13
+"145","rs7744700","Birthweight","FSaCRY","T","A",0.710579,0.01985,0.002945,1.64e-11
+"146","rs7819593","Birthweight","FSaCRY","T","C",0.757083,-0.02178,0.003025,6.22e-13
+"147","rs7854962","Birthweight","FSaCRY","C","G",0.784812,0.021679,0.003184,1.02e-11
+"148","rs7968682","Birthweight","FSaCRY","G","T",0.48633,0.041831,0.002557,4.24e-60
+"149","rs80153284","Birthweight","FSaCRY","C","A",0.985573,-0.006253,0.011178,0.575912
+"150","rs80278614","Birthweight","FSaCRY","G","A",0.945468,-0.040367,0.005872,6.45e-12
+"151","rs8030494","Birthweight","FSaCRY","C","A",0.397955,0.001473,0.002648,0.578118
+"152","rs8106042","Birthweight","FSaCRY","C","G",0.718496,-0.020444,0.002909,2.17e-12
+"153","rs854037","Birthweight","FSaCRY","A","G",0.814165,0.026507,0.003297,9.41e-16
+"154","rs905938","Birthweight","FSaCRY","T","C",0.738356,-0.026053,0.0029,2.77e-19
+"155","rs9318511","Birthweight","FSaCRY","A","C",0.126856,-0.026864,0.003902,5.98e-12
+"156","rs9366778","Birthweight","FSaCRY","G","A",0.62614,0.018043,0.00271,2.86e-11
+"157","rs9379084","Birthweight","FSaCRY","G","A",0.882647,0.021801,0.004118,1.22e-07
+"158","rs9401333","Birthweight","FSaCRY","C","A",0.599152,-0.003856,0.005403,0.47544
+"159","rs9540715","Birthweight","FSaCRY","A","C",0.461122,0.006985,0.005331,0.190088
+"160","rs9549046","Birthweight","FSaCRY","A","G",0.117807,0.029115,0.004062,7.97e-13
+"161","rs9645500","Birthweight","FSaCRY","T","G",0.305613,-0.024297,0.002768,1.75e-18
+"162","rs9818010","Birthweight","FSaCRY","G","T",0.720523,-0.003188,0.002861,0.265071
+"163","rs9838987","Birthweight","FSaCRY","G","A",0.450103,-0.001963,0.005309,0.711583
+"164","rs1012167","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","T","C",NA,0.011,0.0093,0.2362
+"165","rs10181515","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","C","T",NA,0.0033,0.0109,0.757699
+"166","rs10221267","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","C","T",NA,0.0098,0.0092,0.2868
+"167","rs10265057","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","A","G",NA,0.0014,0.0155,0.9298
+"168","rs10283100","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","A","G",NA,0.0059,0.0202,0.7712
+"169","rs10437653","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","A","C",NA,0.0135,0.0094,0.1509
+"170","rs10445366","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","C","G",NA,-0.0886,0.0136,6.68652e-11
+"171","rs10495563","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","G","A",NA,-0.0032,0.0097,0.7396
+"172","rs10786831","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","A","G",NA,-0.0519,0.0092,1.67598e-08
+"173","rs10872678","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","T","C",NA,-0.0182,0.01,0.0699697
+"174","rs10883846","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","C","T",NA,0.0184,0.0095,0.0525303
+"175","rs10895278","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","T","C",NA,-0.0204,0.0096,0.0334503
+"176","rs10913200","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","G","A",NA,0.0998,0.0315,0.00151098
+"177","rs10935733","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","T","C",NA,0.0057,0.0097,0.5583
+"178","rs10941692","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","T","C",NA,-0.0702,0.0114,8.84403e-10
+"179","rs10962552","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","C","T",NA,0.0707,0.0128,3.11803e-08
+"180","rs10985827","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","T","G",NA,0.0071,0.0133,0.5909
+"181","rs11042596","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","T","G",NA,0.0015,0.0102,0.8865
+"182","rs11051061","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","G","A",NA,-0.0104,0.0103,0.3103
+"183","rs11081529","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","T","C",NA,0.0595,0.0099,1.81301e-09
+"184","rs11082304","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","G","T",NA,1e-04,0.0094,0.9914
+"185","rs1112718","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","A","G",NA,0.0115,0.0094,0.2198
+"186","rs11167753","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","T","C",NA,0.0574,0.01,1.04201e-08
+"187","rs112139215","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","C","A",NA,-0.0178,0.0184,0.3333
+"188","rs112282597","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","G","A",NA,0.0631,0.0112,1.57199e-08
+"189","rs112512729","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","T","G",NA,-0.0965,0.0175,3.503e-08
+"190","rs1129156","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","T","C",NA,-0.0193,0.0105,0.0653793
+"191","rs113247159","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","T","C",NA,-0.0641,0.0115,2.67997e-08
+"192","rs11641308","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","T","C",NA,-0.0235,0.0102,0.0213599
+"193","rs116807401","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","T","C",NA,-0.0178,0.0392,0.649901
+"194","rs11698914","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","C","G",NA,-0.0255,0.0113,0.0245601
+"195","rs11708067","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","A","G",NA,0.0041,0.0108,0.7026
+"196","rs11711420","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","T","G",NA,0.0042,0.0107,0.6968
+"197","rs11867479","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","C","T",NA,-0.009,0.0096,0.3486
+"198","rs11887646","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","A","G",NA,-0.0707,0.0112,2.249e-10
+"199","rs11915934","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","A","G",NA,0.073,0.0122,2.25201e-09
+"200","rs11983722","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","A","T",NA,-0.0039,0.0184,0.8336
+"201","rs12401656","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","G","A",NA,-0.0058,0.0141,0.6814
+"202","rs12407439","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","G","A",NA,0.0754,0.0138,4.36697e-08
+"203","rs12461110","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","G","A",NA,-0.0223,0.0095,0.01854
+"204","rs12815613","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","A","G",NA,-0.0564,0.0097,5.74804e-09
+"205","rs13257363","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","G","A",NA,-0.0362,0.0097,0.0001884
+"206","rs13266210","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","A","G",NA,-0.0057,0.0115,0.6214
+"207","rs13271368","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","C","T",NA,0.002,0.0113,0.8577
+"208","rs13319205","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","T","A",NA,0.0646,0.0106,9.8519e-10
+"209","rs13413037","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","G","A",NA,-0.0577,0.0097,2.298e-09
+"210","rs134594","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","C","T",NA,0.0057,0.0095,0.5461
+"211","rs138715366","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","C","T",NA,0.0025,0.0544,0.9639
+"212","rs1411424","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","G","A",NA,0.0052,0.0092,0.567
+"213","rs142800469","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","T","C",NA,0.0562,0.0099,1.305e-08
+"214","rs1430901","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","A","G",NA,-0.0562,0.0093,1.33101e-09
+"215","rs147110934","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","G","T",NA,0.0496,0.0324,0.1257
+"216","rs1482852","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","A","G",NA,0.0065,0.0093,0.4853
+"217","rs1590949","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","C","G",NA,-0.0583,0.0095,8.23702e-10
+"218","rs1702877","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","C","T",NA,-0.0602,0.0098,8.22394e-10
+"219","rs17033114","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","T","C",NA,-0.0294,0.0212,0.1669
+"220","rs17034876","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","C","T",NA,-0.0063,0.0102,0.5383
+"221","rs17367504","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","A","G",NA,0.0069,0.0124,0.5755
+"222","rs17391694","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","C","T",NA,0.083,0.0135,8.14798e-10
+"223","rs1818782","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","A","C",NA,0.0016,0.0101,0.8698
+"224","rs1859100","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","T","G",NA,0.0539,0.0094,1.078e-08
+"225","rs1981627","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","A","G",NA,-0.0397,0.0094,2.524e-05
+"226","rs2045457","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","G","A",NA,0.0229,0.0097,0.0181602
+"227","rs2069278","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","T","C",NA,0.0576,0.0097,3.13098e-09
+"228","rs220193","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","A","G",NA,-0.023,0.0118,0.0519996
+"229","rs222857","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","C","T",NA,-0.0055,0.0093,0.5582
+"230","rs2229742","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","G","C",NA,0.0041,0.0151,0.7862
+"231","rs2237467","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","G","A",NA,-0.0111,0.0109,0.3079
+"232","rs2280235","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","A","G",NA,0.0018,0.0104,0.8637
+"233","rs2282978","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","T","C",NA,-0.0189,0.0097,0.0522096
+"234","rs2306547","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","C","T",NA,0.0311,0.0091,0.000603004
+"235","rs2530597","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","C","G",NA,0.0549,0.0097,1.70298e-08
+"236","rs2551347","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","C","T",NA,-0.0225,0.0107,0.0357701
+"237","rs2779165","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","G","C",NA,0.0235,0.0123,0.0562406
+"238","rs28365970","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","C","A",NA,-0.0089,0.0105,0.3935
+"239","rs28457693","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","A","G",NA,-0.0113,0.0145,0.4371
+"240","rs28505901","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","A","G",NA,-0.0129,0.0125,0.3013
+"241","rs2928148","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","G","A",NA,-0.0081,0.009,0.3731
+"242","rs2934844","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","A","T",NA,0.0022,0.0105,0.8312
+"243","rs2946179","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","T","C",NA,9e-04,0.0105,0.932
+"244","rs3184504","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","T","C",NA,-0.0101,0.0092,0.2709
+"245","rs33920398","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","T","C",NA,0.0573,0.0104,3.926e-08
+"246","rs339969","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","C","A",NA,0.0084,0.0095,0.3763
+"247","rs34471628","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","A","G",NA,-0.0119,0.0237,0.6162
+"248","rs34776209","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","C","T",NA,0.0099,0.0109,0.363
+"249","rs35261542","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","C","A",NA,-0.026,0.0105,0.0131
+"250","rs359271","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","C","T",NA,-0.0622,0.0098,1.882e-10
+"251","rs3784789","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","C","G",NA,0.0115,0.0098,0.2387
+"252","rs3806315","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","G","A",NA,4e-04,0.0097,0.9663
+"253","rs3918226","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","C","T",NA,0.0384,0.0176,0.0286497
+"254","rs40434","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","A","G",NA,-0.0041,0.0095,0.665001
+"255","rs41311445","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","A","C",NA,0.0293,0.0165,0.0765103
+"256","rs41355649","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","G","A",NA,0.0109,0.0201,0.5876
+"257","rs4144829","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","C","T",NA,0.0239,0.0105,0.0224001
+"258","rs4244533","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","G","A",NA,0.0719,0.0119,1.32999e-09
+"259","rs4350272","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","A","G",NA,0.01,0.0103,0.3276
+"260","rs4443016","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","C","G",NA,-0.0706,0.0095,1.01789e-13
+"261","rs4444073","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","A","C",NA,0.001,0.0091,0.9099
+"262","rs45446698","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","T","G",NA,-0.0481,0.0232,0.0382701
+"263","rs4579095","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","A","G",NA,0.0038,0.0093,0.684699
+"264","rs4719648","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","T","C",NA,0.0226,0.0096,0.0188499
+"265","rs4932373","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","A","C",NA,-0.024,0.0102,0.0188599
+"266","rs4953353","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","G","T",NA,0.0091,0.0094,0.3336
+"267","rs5030317","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","C","G",NA,0.0251,0.0102,0.01414
+"268","rs516246","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","C","T",NA,-0.0047,0.0092,0.611699
+"269","rs590076","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","G","A",NA,0.0553,0.0095,5.78096e-09
+"270","rs60222682","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","C","T",NA,0.0646,0.0117,3.50598e-08
+"271","rs6026449","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","T","C",NA,-0.0213,0.0098,0.0297598
+"272","rs6040076","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","G","C",NA,-0.0134,0.0097,0.1649
+"273","rs61750814","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","T","C",NA,0.0796,0.0129,6.32106e-10
+"274","rs61830764","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","G","A",NA,0.0088,0.0102,0.3837
+"275","rs62261746","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","C","G",NA,-0.0576,0.0104,2.85397e-08
+"276","rs62496903","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","C","T",NA,0.0326,0.0172,0.0577604
+"277","rs6467157","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","T","C",NA,-0.0045,0.0103,0.658901
+"278","rs6533183","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","C","T",NA,0.0086,0.0097,0.3763
+"279","rs6569647","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","T","C",NA,0.0049,0.0114,0.6648
+"280","rs6574018","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","G","T",NA,-0.0556,0.01,2.42003e-08
+"281","rs6575803","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","C","T",NA,0.0156,0.0156,0.3173
+"282","rs6585429","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","A","G",NA,-0.084,0.0124,1.08293e-11
+"283","rs667515","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","G","C",NA,-0.0272,0.0099,0.00615304
+"284","rs6677536","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","A","C",NA,0.0553,0.0101,3.84503e-08
+"285","rs6845999","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","C","T",NA,-0.0184,0.0091,0.0437804
+"286","rs6908444","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","G","A",NA,0.0558,0.0102,4.51004e-08
+"287","rs6930558","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","G","T",NA,-0.001,0.0105,0.9246
+"288","rs693691","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","T","C",NA,0.077,0.0135,1.262e-08
+"289","rs6995390","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","A","T",NA,-0.0049,0.0122,0.6887
+"290","rs7076938","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","C","T",NA,-0.0097,0.0104,0.3499
+"291","rs708122","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","C","A",NA,0.0198,0.0099,0.0459505
+"292","rs7223535","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","G","A",NA,0.016,0.0105,0.1304
+"293","rs72656010","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","T","C",NA,0.0167,0.0139,0.2298
+"294","rs72704712","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","T","G",NA,0.0879,0.0133,4.55827e-11
+"295","rs72760655","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","C","A",NA,-0.0087,0.0102,0.3928
+"296","rs72779695","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","C","T",NA,0.0849,0.0145,4.87203e-09
+"297","rs73143584","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","G","A",NA,-0.0293,0.0154,0.0573099
+"298","rs732563","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","T","C",NA,-8e-04,0.009,0.9302
+"299","rs73354194","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","T","C",NA,-0.0541,0.0348,0.1195
+"300","rs7359501","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","C","T",NA,-0.0565,0.0094,1.81698e-09
+"301","rs7402983","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","A","C",NA,0.0374,0.0099,0.000162401
+"302","rs75104038","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","G","A",NA,0.0309,0.0205,0.1328
+"303","rs7516843","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","A","G",NA,-0.0611,0.0097,3.11803e-10
+"304","rs753381","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","T","C",NA,-0.0077,0.0092,0.4021
+"305","rs75844534","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","C","A",NA,-0.0268,0.0144,0.0630202
+"306","rs76094073","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","C","G",NA,-0.003,0.014,0.8311
+"307","rs76895963","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","T","G",NA,0.0222,0.039,0.5683
+"308","rs7744700","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","T","A",NA,-0.0065,0.0105,0.5376
+"309","rs7819593","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","T","C",NA,-0.0096,0.0107,0.3672
+"310","rs7854962","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","C","G",NA,0.0087,0.0117,0.4545
+"311","rs7968682","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","G","T",NA,0.0362,0.0091,7.57199e-05
+"312","rs80153284","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","C","A",NA,-0.2314,0.0411,1.737e-08
+"313","rs80278614","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","G","A",NA,0.0216,0.0204,0.2909
+"314","rs8030494","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","C","A",NA,-0.0545,0.0096,1.302e-08
+"315","rs8106042","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","C","G",NA,-0.003,0.011,0.785199
+"316","rs854037","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","A","G",NA,0.0194,0.0115,0.0924805
+"317","rs905938","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","T","C",NA,0.0237,0.0103,0.0207601
+"318","rs9318511","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","A","C",NA,0.0049,0.0148,0.7405
+"319","rs9366778","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","G","A",NA,0.0083,0.0101,0.4096
+"320","rs9379084","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","G","A",NA,0.023,0.0153,0.1336
+"321","rs9401333","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","C","A",NA,-0.0705,0.0101,3.23594e-12
+"322","rs9540715","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","A","C",NA,0.0588,0.01,4.73696e-09
+"323","rs9549046","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","A","G",NA,0.0208,0.0144,0.1486
+"324","rs9645500","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","T","G",NA,-0.0113,0.0098,0.2504
+"325","rs9818010","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","G","T",NA,-0.063,0.0102,5.626e-10
+"326","rs9838987","Age at first birth || id:ebi-a-GCST90000050","ebi-a-GCST90000050","G","A",NA,-0.1175,0.0098,5.54753e-33

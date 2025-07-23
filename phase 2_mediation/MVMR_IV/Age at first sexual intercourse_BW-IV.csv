@@ -1,0 +1,491 @@
+"","SNP","exposure","id.exposure","effect_allele.exposure","other_allele.exposure","eaf.exposure","beta.exposure","se.exposure","pval.exposure"
+"1","rs10104523","Birthweight","BW6awl","T","C",0.474313,0.003156,0.002578,0.220822
+"2","rs1012167","Birthweight","BW6awl","T","C",0.599567,-0.024145,0.002661,1.2e-19
+"3","rs10181515","Birthweight","BW6awl","C","T",0.775444,-0.021433,0.003048,2.13e-12
+"4","rs10221267","Birthweight","BW6awl","C","T",0.488394,-0.016717,0.002558,6.52e-11
+"5","rs10265057","Birthweight","BW6awl","A","G",0.908483,-0.027313,0.004498,1.3e-09
+"6","rs10283100","Birthweight","BW6awl","A","G",0.054129,-0.041928,0.005836,7.01e-13
+"7","rs10469020","Birthweight","BW6awl","A","T",0.918386,-0.000974,0.00471,0.836082
+"8","rs10495563","Birthweight","BW6awl","G","A",0.335993,-0.022148,0.002693,2.06e-16
+"9","rs10516875","Birthweight","BW6awl","T","G",0.768982,-0.001533,0.003057,0.615977
+"10","rs10871582","Birthweight","BW6awl","G","T",0.659602,0.00324,0.002716,0.232988
+"11","rs10880086","Birthweight","BW6awl","G","A",0.788697,-0.004216,0.003163,0.182567
+"12","rs10913200","Birthweight","BW6awl","G","A",0.972158,0.051218,0.008047,2.02e-10
+"13","rs10922907","Birthweight","BW6awl","A","T",0.459918,0.00104,0.002598,0.689055
+"14","rs10935733","Birthweight","BW6awl","T","C",0.399388,0.019369,0.002641,2.33e-13
+"15","rs10985827","Birthweight","BW6awl","T","G",0.859061,-0.029972,0.003703,6.1e-16
+"16","rs11042596","Birthweight","BW6awl","T","G",0.336246,0.026856,0.002777,4.33e-22
+"17","rs11082304","Birthweight","BW6awl","G","T",0.491864,-0.015966,0.002554,4.22e-10
+"18","rs1112718","Birthweight","BW6awl","A","G",0.595901,-0.025684,0.00259,3.78e-23
+"19","rs112139215","Birthweight","BW6awl","C","A",0.93248,-0.047472,0.005142,2.81e-20
+"20","rs11240331","Birthweight","BW6awl","C","T",0.741462,-0.001091,0.002957,0.712102
+"21","rs112523595","Birthweight","BW6awl","C","T",0.624733,-0.004826,0.005296,0.362156
+"22","rs1129156","Birthweight","BW6awl","T","C",0.268561,0.017352,0.002909,2.53e-09
+"23","rs113247159","Birthweight","BW6awl","T","C",0.713296,-0.005051,0.00307,0.099861
+"24","rs113338260","Birthweight","BW6awl","T","C",0.789207,0.002724,0.003222,0.397798
+"25","rs1156981","Birthweight","BW6awl","A","G",0.097754,0.002988,0.004333,0.490488
+"26","rs11678980","Birthweight","BW6awl","G","A",0.541653,0.00115,0.002702,0.670433
+"27","rs116807401","Birthweight","BW6awl","T","C",0.982436,-0.076602,0.010437,2.23e-13
+"28","rs11688027","Birthweight","BW6awl","A","G",0.926629,-0.00675,0.005065,0.182551
+"29","rs11698914","Birthweight","BW6awl","C","G",0.233612,0.031861,0.003107,1.21e-24
+"30","rs11708067","Birthweight","BW6awl","A","G",0.76245,-0.040866,0.002989,1.59e-42
+"31","rs11711420","Birthweight","BW6awl","T","G",0.74671,0.018654,0.002964,3.22e-10
+"32","rs11729080","Birthweight","BW6awl","G","A",0.83259,-0.00056,0.003453,0.871053
+"33","rs117831144","Birthweight","BW6awl","C","T",0.970421,0.000488,0.008315,0.953132
+"34","rs11866420","Birthweight","BW6awl","C","G",0.412995,-0.002984,0.002631,0.2568
+"35","rs11867479","Birthweight","BW6awl","C","T",0.64661,-0.017213,0.002664,1.08e-10
+"36","rs11983722","Birthweight","BW6awl","A","T",0.937628,0.031888,0.005377,3.1e-09
+"37","rs12049116","Birthweight","BW6awl","C","T",0.226596,0.004427,0.003092,0.152172
+"38","rs12147463","Birthweight","BW6awl","G","A",0.809467,-0.001318,0.003304,0.689965
+"39","rs12203592","Birthweight","BW6awl","C","T",0.806554,0.006369,0.00337,0.058802
+"40","rs12204714","Birthweight","BW6awl","C","T",0.366947,-0.006398,0.002679,0.01695
+"41","rs12244388","Birthweight","BW6awl","G","A",0.662106,-0.011226,0.002689,3.01e-05
+"42","rs1226414","Birthweight","BW6awl","A","T",0.495689,-0.001264,0.002572,0.622983
+"43","rs12376530","Birthweight","BW6awl","A","C",0.739105,-0.000789,0.002963,0.790049
+"44","rs12461110","Birthweight","BW6awl","G","A",0.642006,-0.005983,0.002716,0.02762
+"45","rs12463727","Birthweight","BW6awl","G","A",0.475446,0.00274,0.002572,0.286883
+"46","rs12511982","Birthweight","BW6awl","G","A",0.450321,0.006545,0.002616,0.01236
+"47","rs12523097","Birthweight","BW6awl","T","C",0.705482,0.001286,0.002848,0.651623
+"48","rs12523398","Birthweight","BW6awl","T","A",0.820779,-0.000273,0.003432,0.936602
+"49","rs12554512","Birthweight","BW6awl","T","C",0.585784,-0.006869,0.002615,0.008637
+"50","rs12653396","Birthweight","BW6awl","T","A",0.433301,0.005322,0.002626,0.042682
+"51","rs12714592","Birthweight","BW6awl","A","C",0.723183,-0.001764,0.002869,0.538695
+"52","rs12714702","Birthweight","BW6awl","A","G",0.160127,0.003022,0.003512,0.389464
+"53","rs12757779","Birthweight","BW6awl","G","A",0.77721,0.010408,0.003091,0.000763
+"54","rs12878359","Birthweight","BW6awl","C","A",0.535156,0.000546,0.005191,0.91621
+"55","rs12907546","Birthweight","BW6awl","G","A",0.789798,0.008148,0.003161,0.009974
+"56","rs13175535","Birthweight","BW6awl","G","A",0.70487,0.009633,0.002888,0.000855
+"57","rs13178956","Birthweight","BW6awl","A","T",0.742926,0.003246,0.002941,0.269592
+"58","rs1320138","Birthweight","BW6awl","T","C",0.425426,9.2e-05,0.002601,0.971893
+"59","rs13257363","Birthweight","BW6awl","G","A",0.590761,0.01757,0.002618,2.01e-11
+"60","rs13266210","Birthweight","BW6awl","A","G",0.786195,0.0268,0.003142,1.54e-17
+"61","rs13271368","Birthweight","BW6awl","C","T",0.761298,0.020223,0.003022,2.3e-11
+"62","rs13307225","Birthweight","BW6awl","G","A",0.109934,0.002192,0.004281,0.608676
+"63","rs13394795","Birthweight","BW6awl","T","C",0.760343,0.001953,0.003027,0.518868
+"64","rs134594","Birthweight","BW6awl","C","T",0.350594,0.016799,0.002709,5.76e-10
+"65","rs1368546","Birthweight","BW6awl","T","C",0.445705,-0.003642,0.002591,0.159754
+"66","rs138715366","Birthweight","BW6awl","C","T",0.991197,0.239889,0.014538,4.04e-61
+"67","rs1392816","Birthweight","BW6awl","C","T",0.61604,0.008305,0.002672,0.00189
+"68","rs1411424","Birthweight","BW6awl","G","A",0.477135,-0.019892,0.002587,1.54e-14
+"69","rs141547796","Birthweight","BW6awl","G","A",0.912012,-0.011538,0.004571,0.011606
+"70","rs147110934","Birthweight","BW6awl","G","T",0.975416,0.05233,0.008669,1.62e-09
+"71","rs147633738","Birthweight","BW6awl","C","T",0.936571,0.006131,0.0054,0.256134
+"72","rs1482852","Birthweight","BW6awl","A","G",0.598574,0.050395,0.002618,1.58e-82
+"73","rs1585634","Birthweight","BW6awl","G","C",0.199092,-0.001819,0.003301,0.581696
+"74","rs1609598","Birthweight","BW6awl","C","T",0.645968,-0.002511,0.002752,0.361604
+"75","rs17033114","Birthweight","BW6awl","T","C",0.940036,0.01571,0.005898,0.007746
+"76","rs17034876","Birthweight","BW6awl","C","T",0.299629,-0.042243,0.002925,3.11e-47
+"77","rs17367504","Birthweight","BW6awl","A","G",0.839471,-0.011543,0.003453,0.000833
+"78","rs1866710","Birthweight","BW6awl","A","G",0.288036,0.00515,0.002848,0.070556
+"79","rs186723454","Birthweight","BW6awl","G","A",0.175727,0.000547,0.007099,0.938561
+"80","rs191242857","Birthweight","BW6awl","A","G",0.246637,-0.001326,0.006223,0.831254
+"81","rs1925686","Birthweight","BW6awl","G","A",0.613445,0.003991,0.002635,0.129917
+"82","rs1931263","Birthweight","BW6awl","G","T",0.512918,-0.004211,0.002575,0.102021
+"83","rs1962545","Birthweight","BW6awl","T","C",0.485534,-0.003101,0.002589,0.230893
+"84","rs1981627","Birthweight","BW6awl","A","G",0.415155,-0.017083,0.002629,8.36e-11
+"85","rs1991651","Birthweight","BW6awl","C","G",0.387007,0.001638,0.002623,0.532407
+"86","rs1995181","Birthweight","BW6awl","T","A",0.536657,0.001802,0.002599,0.488174
+"87","rs2045457","Birthweight","BW6awl","G","A",0.311648,0.016194,0.002786,6.32e-09
+"88","rs2084572","Birthweight","BW6awl","A","G",0.553544,-0.000554,0.002591,0.830704
+"89","rs2091377","Birthweight","BW6awl","C","T",0.620087,0.002496,0.00265,0.34622
+"90","rs2093623","Birthweight","BW6awl","G","A",0.508936,0.000393,0.002605,0.879921
+"91","rs2130894","Birthweight","BW6awl","C","T",0.719551,-0.002735,0.003053,0.370281
+"92","rs2188151","Birthweight","BW6awl","G","T",0.581746,-0.000887,0.002616,0.734677
+"93","rs220193","Birthweight","BW6awl","A","G",0.225732,0.020584,0.003116,4.07e-11
+"94","rs222857","Birthweight","BW6awl","C","T",0.424408,-0.026478,0.002579,1.06e-24
+"95","rs2229742","Birthweight","BW6awl","G","C",0.880836,0.027215,0.004175,7.35e-11
+"96","rs2237467","Birthweight","BW6awl","G","A",0.779162,-0.018178,0.003112,5.34e-09
+"97","rs2279574","Birthweight","BW6awl","C","A",0.453319,0.004218,0.002583,0.102409
+"98","rs2280235","Birthweight","BW6awl","A","G",0.741043,-0.018251,0.002957,6.9e-10
+"99","rs2282978","Birthweight","BW6awl","T","C",0.673948,-0.018251,0.002709,1.66e-11
+"100","rs2306547","Birthweight","BW6awl","C","T",0.534191,0.018719,0.002582,4.35e-13
+"101","rs2306700","Birthweight","BW6awl","C","T",0.864261,-0.022762,0.003782,1.81e-09
+"102","rs2406374","Birthweight","BW6awl","C","T",0.689714,0.003616,0.002781,0.193506
+"103","rs2551347","Birthweight","BW6awl","C","T",0.250548,-0.02446,0.002971,1.93e-16
+"104","rs2612030","Birthweight","BW6awl","T","C",0.157422,-0.006298,0.003542,0.075384
+"105","rs2779165","Birthweight","BW6awl","G","C",0.18416,0.022108,0.003394,7.59e-11
+"106","rs28365970","Birthweight","BW6awl","C","A",0.74158,0.019868,0.002948,1.65e-11
+"107","rs28406364","Birthweight","BW6awl","C","T",0.621278,0.005107,0.002664,0.055274
+"108","rs28457693","Birthweight","BW6awl","A","G",0.890725,-0.044196,0.004212,9.89e-26
+"109","rs28505901","Birthweight","BW6awl","A","G",0.248632,0.024438,0.003085,2.46e-15
+"110","rs28929474","Birthweight","BW6awl","C","T",0.979904,0.018928,0.009352,0.042997
+"111","rs2928148","Birthweight","BW6awl","G","A",0.473869,-0.006118,0.00258,0.017757
+"112","rs2934844","Birthweight","BW6awl","A","T",0.32829,-0.020752,0.002816,1.8e-13
+"113","rs2946179","Birthweight","BW6awl","T","C",0.266507,-0.019781,0.002912,1.14e-11
+"114","rs3007104","Birthweight","BW6awl","G","A",0.578982,-0.003839,0.002614,0.14198
+"115","rs3184504","Birthweight","BW6awl","T","C",0.479244,-0.022966,0.002554,2.57e-19
+"116","rs339969","Birthweight","BW6awl","C","A",0.380652,-0.016841,0.002651,2.18e-10
+"117","rs341521","Birthweight","BW6awl","G","A",0.295686,-0.000981,0.002833,0.729078
+"118","rs34155040","Birthweight","BW6awl","T","C",0.427577,-0.003464,0.005063,0.493878
+"119","rs3447","Birthweight","BW6awl","C","G",0.850561,-0.002704,0.00368,0.462548
+"120","rs34517439","Birthweight","BW6awl","C","A",0.879013,-0.012352,0.004024,0.002152
+"121","rs34606772","Birthweight","BW6awl","C","T",0.581493,-0.00051,0.002637,0.846617
+"122","rs34776209","Birthweight","BW6awl","C","T",0.755328,0.023223,0.002991,8.53e-15
+"123","rs34804222","Birthweight","BW6awl","A","G",0.594854,0.002102,0.002613,0.421052
+"124","rs34811474","Birthweight","BW6awl","G","A",0.773269,-0.00372,0.003155,0.238342
+"125","rs35261542","Birthweight","BW6awl","C","A",0.733023,0.040621,0.002875,2.77e-45
+"126","rs359271","Birthweight","BW6awl","C","T",0.560677,-0.004625,0.005099,0.36438
+"127","rs3806315","Birthweight","BW6awl","G","A",0.409033,-0.017678,0.002653,2.78e-11
+"128","rs3896224","Birthweight","BW6awl","A","G",0.582333,-0.000655,0.00263,0.803274
+"129","rs3918226","Birthweight","BW6awl","C","T",0.91946,0.01487,0.004793,0.001929
+"130","rs40434","Birthweight","BW6awl","A","G",0.609243,-0.016702,0.00265,3e-10
+"131","rs410520","Birthweight","BW6awl","C","T",0.455216,-0.002553,0.002595,0.325296
+"132","rs41311445","Birthweight","BW6awl","A","C",0.903353,0.032564,0.004469,3.33e-13
+"133","rs41355649","Birthweight","BW6awl","G","A",0.934063,0.034243,0.00531,1.17e-10
+"134","rs4144829","Birthweight","BW6awl","C","T",0.267142,0.035507,0.002915,4.32e-34
+"135","rs4350272","Birthweight","BW6awl","A","G",0.269233,0.016999,0.002879,3.64e-09
+"136","rs435538","Birthweight","BW6awl","C","G",0.768414,0.001259,0.003082,0.682881
+"137","rs4439537","Birthweight","BW6awl","T","C",0.477472,0.00153,0.002588,0.554347
+"138","rs4444073","Birthweight","BW6awl","A","C",0.520477,0.020182,0.002551,2.69e-15
+"139","rs4569188","Birthweight","BW6awl","G","A",0.337983,0.002767,0.002724,0.309708
+"140","rs4579095","Birthweight","BW6awl","A","G",0.598019,-0.002661,0.002671,0.319097
+"141","rs4709807","Birthweight","BW6awl","T","C",0.241542,-0.003434,0.003031,0.257211
+"142","rs4719648","Birthweight","BW6awl","T","C",0.423355,-0.019079,0.002606,2.57e-13
+"143","rs4728298","Birthweight","BW6awl","A","T",0.184703,0.004159,0.006725,0.536307
+"144","rs4800204","Birthweight","BW6awl","C","T",0.433742,0.001484,0.002616,0.570622
+"145","rs4868800","Birthweight","BW6awl","G","T",0.419011,-0.00379,0.002665,0.154989
+"146","rs4932373","Birthweight","BW6awl","A","C",0.679704,0.020084,0.002752,3.04e-13
+"147","rs4953353","Birthweight","BW6awl","G","T",0.631578,0.017903,0.0027,3.45e-11
+"148","rs4961705","Birthweight","BW6awl","G","C",0.65421,-0.003404,0.002737,0.213689
+"149","rs5030317","Birthweight","BW6awl","C","G",0.732702,0.017273,0.002902,2.71e-09
+"150","rs516246","Birthweight","BW6awl","C","T",0.506098,0.017505,0.002566,9.34e-12
+"151","rs56306056","Birthweight","BW6awl","G","A",0.78744,0.003798,0.00314,0.226458
+"152","rs590414","Birthweight","BW6awl","A","T",0.500347,-0.001443,0.002608,0.580155
+"153","rs592278","Birthweight","BW6awl","A","G",0.413394,-0.006448,0.005305,0.224171
+"154","rs6026449","Birthweight","BW6awl","T","C",0.372918,-0.016962,0.002679,2.49e-10
+"155","rs6040076","Birthweight","BW6awl","G","C",0.500098,-0.019018,0.002623,4.35e-13
+"156","rs6467157","Birthweight","BW6awl","T","C",0.712892,0.019506,0.002887,1.47e-11
+"157","rs6504551","Birthweight","BW6awl","G","T",0.266519,0.009253,0.005727,0.10616
+"158","rs6517512","Birthweight","BW6awl","A","G",0.043271,0.003173,0.006423,0.621353
+"159","rs6564268","Birthweight","BW6awl","C","G",0.944578,0.002445,0.005652,0.665318
+"160","rs6569647","Birthweight","BW6awl","T","C",0.801856,0.020035,0.003238,6.31e-10
+"161","rs667515","Birthweight","BW6awl","G","C",0.61794,0.01845,0.002704,9.32e-12
+"162","rs6719762","Birthweight","BW6awl","T","C",0.522952,0.000745,0.002587,0.77333
+"163","rs6747099","Birthweight","BW6awl","G","C",0.533236,0.000998,0.002636,0.704838
+"164","rs67723420","Birthweight","BW6awl","T","A",0.627737,0.002597,0.002673,0.33124
+"165","rs6845999","Birthweight","BW6awl","C","T",0.56879,-0.026255,0.002565,1.5e-24
+"166","rs6930558","Birthweight","BW6awl","G","T",0.252922,-0.021812,0.002996,3.44e-13
+"167","rs6978112","Birthweight","BW6awl","C","T",0.589686,0.007708,0.002623,0.003304
+"168","rs6995390","Birthweight","BW6awl","A","T",0.837064,-0.006146,0.003494,0.078539
+"169","rs7008955","Birthweight","BW6awl","T","G",0.475918,-0.001488,0.002589,0.56558
+"170","rs702","Birthweight","BW6awl","A","T",0.156487,-0.00493,0.003551,0.164977
+"171","rs7076938","Birthweight","BW6awl","C","T",0.264688,-0.032051,0.002898,2.14e-28
+"172","rs7079070","Birthweight","BW6awl","G","A",0.551909,-0.000768,0.002631,0.770371
+"173","rs708122","Birthweight","BW6awl","C","A",0.68102,0.016508,0.002765,2.45e-09
+"174","rs7091634","Birthweight","BW6awl","G","A",0.36152,-0.003972,0.005472,0.467926
+"175","rs7110863","Birthweight","BW6awl","A","G",0.601437,-0.001942,0.002638,0.461632
+"176","rs714393","Birthweight","BW6awl","C","T",0.546032,0.003187,0.002592,0.218816
+"177","rs7151954","Birthweight","BW6awl","A","G",0.797682,-0.002639,0.003192,0.408264
+"178","rs7152323","Birthweight","BW6awl","A","G",0.586569,0.003752,0.002613,0.150993
+"179","rs7167444","Birthweight","BW6awl","G","T",0.745413,0.002062,0.003026,0.4957
+"180","rs7188873","Birthweight","BW6awl","A","G",0.381053,-0.001441,0.002678,0.590622
+"181","rs7201310","Birthweight","BW6awl","C","A",0.312766,-0.001243,0.002826,0.660034
+"182","rs7223535","Birthweight","BW6awl","G","A",0.732138,0.02138,0.00291,2.12e-13
+"183","rs7236339","Birthweight","BW6awl","G","A",0.774502,0.004875,0.003118,0.117958
+"184","rs72656010","Birthweight","BW6awl","T","C",0.868303,0.028319,0.003825,1.39e-13
+"185","rs72674824","Birthweight","BW6awl","T","C",0.753535,0.00088,0.003006,0.769857
+"186","rs72760655","Birthweight","BW6awl","C","A",0.681143,0.00714,0.002778,0.010175
+"187","rs72887338","Birthweight","BW6awl","T","C",0.618405,-0.002986,0.002653,0.260417
+"188","rs73143584","Birthweight","BW6awl","G","A",0.889782,-0.028776,0.004278,1.8e-11
+"189","rs732563","Birthweight","BW6awl","T","C",0.496105,-0.017423,0.002572,1.29e-11
+"190","rs73354194","Birthweight","BW6awl","T","C",0.974784,-0.060799,0.008927,1.01e-11
+"191","rs7402983","Birthweight","BW6awl","A","C",0.405324,0.024135,0.002685,2.63e-19
+"192","rs7452074","Birthweight","BW6awl","C","A",0.448117,-0.007088,0.005616,0.20689
+"193","rs74737734","Birthweight","BW6awl","A","T",0.972813,0.010716,0.008318,0.197591
+"194","rs7476","Birthweight","BW6awl","A","C",0.692807,0.002483,0.002824,0.379189
+"195","rs7503604","Birthweight","BW6awl","C","A",0.492165,0.006844,0.00271,0.011562
+"196","rs75104038","Birthweight","BW6awl","G","A",0.940326,-0.044913,0.00552,4.28e-16
+"197","rs7525548","Birthweight","BW6awl","A","T",0.441745,0.006373,0.002564,0.01297
+"198","rs753381","Birthweight","BW6awl","T","C",0.450563,0.01512,0.002557,3.43e-09
+"199","rs7566527","Birthweight","BW6awl","C","T",0.602978,-0.005495,0.002624,0.036233
+"200","rs7575189","Birthweight","BW6awl","G","A",0.415139,-0.001035,0.002611,0.691979
+"201","rs76094073","Birthweight","BW6awl","C","G",0.87877,-0.026513,0.003933,1.63e-11
+"202","rs7618715","Birthweight","BW6awl","G","A",0.583421,-0.000879,0.002619,0.73702
+"203","rs763053","Birthweight","BW6awl","T","C",0.76775,0.00215,0.003086,0.486057
+"204","rs76513770","Birthweight","BW6awl","T","C",0.87263,0.008696,0.003859,0.024266
+"205","rs766406","Birthweight","BW6awl","G","T",0.362979,0.007928,0.002671,0.003011
+"206","rs7671317","Birthweight","BW6awl","G","T",0.319374,-5.7e-05,0.002784,0.983617
+"207","rs76895963","Birthweight","BW6awl","T","G",0.97881,-0.076305,0.010414,2.45e-13
+"208","rs7704530","Birthweight","BW6awl","G","A",0.270792,0.003862,0.002904,0.183609
+"209","rs7744700","Birthweight","BW6awl","T","A",0.710579,0.01985,0.002945,1.64e-11
+"210","rs7783012","Birthweight","BW6awl","G","A",0.415929,0.003464,0.002621,0.186355
+"211","rs7785195","Birthweight","BW6awl","G","A",0.341469,0.002274,0.002714,0.402103
+"212","rs7804551","Birthweight","BW6awl","A","G",0.843503,-0.002475,0.00354,0.484491
+"213","rs7815125","Birthweight","BW6awl","T","A",0.172188,-0.001902,0.003415,0.577676
+"214","rs7819593","Birthweight","BW6awl","T","C",0.757083,-0.02178,0.003025,6.22e-13
+"215","rs7824756","Birthweight","BW6awl","C","T",0.259595,0.009492,0.005836,0.10385
+"216","rs783544","Birthweight","BW6awl","A","C",0.250058,-9.6e-05,0.002966,0.974092
+"217","rs7854962","Birthweight","BW6awl","C","G",0.784812,0.021679,0.003184,1.02e-11
+"218","rs7903146","Birthweight","BW6awl","C","T",0.715098,-0.011396,0.002817,5.27e-05
+"219","rs7909331","Birthweight","BW6awl","A","G",0.836712,-0.004625,0.003476,0.183362
+"220","rs79269403","Birthweight","BW6awl","G","A",0.771965,0.000618,0.003088,0.841298
+"221","rs7927195","Birthweight","BW6awl","A","G",0.382675,-0.003809,0.002647,0.15019
+"222","rs7942078","Birthweight","BW6awl","A","T",0.656572,-0.002873,0.002708,0.288719
+"223","rs7955865","Birthweight","BW6awl","T","A",0.614754,-0.002768,0.005509,0.615373
+"224","rs7968682","Birthweight","BW6awl","G","T",0.48633,0.041831,0.002557,4.24e-60
+"225","rs7972441","Birthweight","BW6awl","A","C",0.616677,0.00235,0.005349,0.660439
+"226","rs80278614","Birthweight","BW6awl","G","A",0.945468,-0.040367,0.005872,6.45e-12
+"227","rs803679","Birthweight","BW6awl","G","A",0.208123,-0.006831,0.003159,0.03061
+"228","rs807478","Birthweight","BW6awl","A","G",0.500583,0.004695,0.002595,0.070463
+"229","rs809955","Birthweight","BW6awl","G","A",0.635577,-0.002849,0.002677,0.287135
+"230","rs8106042","Birthweight","BW6awl","C","G",0.718496,-0.020444,0.002909,2.17e-12
+"231","rs8180995","Birthweight","BW6awl","A","G",0.535228,0.004355,0.002581,0.091577
+"232","rs838042","Birthweight","BW6awl","G","A",0.316543,-0.000508,0.002773,0.854609
+"233","rs854037","Birthweight","BW6awl","A","G",0.814165,0.026507,0.003297,9.41e-16
+"234","rs905938","Birthweight","BW6awl","T","C",0.738356,-0.026053,0.0029,2.77e-19
+"235","rs9318511","Birthweight","BW6awl","A","C",0.126856,-0.026864,0.003902,5.98e-12
+"236","rs9366778","Birthweight","BW6awl","G","A",0.62614,0.018043,0.00271,2.86e-11
+"237","rs9514600","Birthweight","BW6awl","C","G",0.494917,-0.004902,0.002585,0.057956
+"238","rs9536994","Birthweight","BW6awl","C","A",0.349542,0.006333,0.005219,0.224937
+"239","rs9538248","Birthweight","BW6awl","C","A",0.681103,-0.000312,0.002759,0.909867
+"240","rs9549046","Birthweight","BW6awl","A","G",0.117807,0.029115,0.004062,7.97e-13
+"241","rs9581878","Birthweight","BW6awl","A","T",0.146076,0.006477,0.007159,0.3656
+"242","rs9645500","Birthweight","BW6awl","T","G",0.305613,-0.024297,0.002768,1.75e-18
+"243","rs9809849","Birthweight","BW6awl","G","A",0.581209,0.000218,0.002633,0.93396
+"244","rs9923553","Birthweight","BW6awl","A","G",0.714234,0.002184,0.002842,0.442179
+"245","rs993700","Birthweight","BW6awl","T","C",0.22539,-0.000625,0.003076,0.83896
+"246","rs10104523","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","T","C",NA,0.0123,0.0021,6.69993e-10
+"247","rs1012167","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","T","C",NA,0.0013,0.0021,0.52
+"248","rs10181515","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","C","T",NA,0.0028,0.0025,0.28
+"249","rs10221267","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","C","T",NA,-0.0031,0.0021,0.13
+"250","rs10265057","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","A","G",NA,-2e-04,0.0036,0.99
+"251","rs10283100","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","A","G",NA,-0.0037,0.0045,0.41
+"252","rs10469020","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","A","T",NA,-0.0217,0.0038,1.5e-08
+"253","rs10495563","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","G","A",NA,0.0034,0.0022,0.0860003
+"254","rs10516875","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","T","G",NA,0.0148,0.0024,6.59994e-10
+"255","rs10871582","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","G","T",NA,0.0153,0.0022,1.29987e-12
+"256","rs10880086","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","G","A",NA,-0.016,0.0025,1.29999e-10
+"257","rs10913200","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","G","A",NA,0.0216,0.0062,0.000409996
+"258","rs10922907","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","A","T",NA,-0.0211,0.0021,2.09991e-24
+"259","rs10935733","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","T","C",NA,6e-04,0.0021,0.8
+"260","rs10985827","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","T","G",NA,-0.0031,0.003,0.3
+"261","rs11042596","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","T","G",NA,5e-04,0.0022,0.74
+"262","rs11082304","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","G","T",NA,-5e-04,0.0021,0.79
+"263","rs1112718","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","A","G",NA,0.0011,0.0021,0.5
+"264","rs112139215","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","C","A",NA,0.0024,0.0041,0.52
+"265","rs11240331","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","C","T",NA,-0.014,0.0024,2.19999e-09
+"266","rs112523595","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","C","T",NA,0.024,0.0022,1.20005e-28
+"267","rs1129156","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","T","C",NA,-5e-04,0.0024,0.85
+"268","rs113247159","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","T","C",NA,-0.0156,0.0024,1.09999e-10
+"269","rs113338260","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","T","C",NA,0.0149,0.0025,2.19999e-09
+"270","rs1156981","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","A","G",NA,0.0207,0.0035,1.6e-09
+"271","rs11678980","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","G","A",NA,0.012,0.0021,1.2e-08
+"272","rs116807401","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","T","C",NA,0.0018,0.0079,0.83
+"273","rs11688027","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","A","G",NA,-0.0224,0.004,1.40001e-08
+"274","rs11698914","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","C","G",NA,-0.0064,0.0025,0.0109999
+"275","rs11708067","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","A","G",NA,-0.001,0.0024,0.7
+"276","rs11711420","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","T","G",NA,1e-04,0.0024,0.94
+"277","rs11729080","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","G","A",NA,-0.0222,0.0027,4.10015e-16
+"278","rs117831144","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","C","T",NA,0.0356,0.0064,3.40001e-08
+"279","rs11866420","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","C","G",NA,0.0168,0.0021,7.59976e-16
+"280","rs11867479","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","C","T",NA,7e-04,0.0022,0.87
+"281","rs11983722","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","A","T",NA,0.0028,0.0042,0.48
+"282","rs12049116","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","C","T",NA,-0.0151,0.0025,1.89998e-09
+"283","rs12147463","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","G","A",NA,0.0202,0.0026,3.59998e-14
+"284","rs12203592","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","C","T",NA,-0.014,0.0026,3.59998e-08
+"285","rs12204714","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","C","T",NA,-0.0275,0.0021,8.30042e-38
+"286","rs12244388","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","G","A",NA,0.0136,0.0022,5.80003e-10
+"287","rs1226414","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","A","T",NA,-0.0144,0.0021,2.29985e-12
+"288","rs12376530","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","A","C",NA,0.0145,0.0024,7.90005e-10
+"289","rs12461110","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","G","A",NA,-4e-04,0.0022,0.93
+"290","rs12463727","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","G","A",NA,-0.0141,0.0021,5.90065e-12
+"291","rs12511982","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","G","A",NA,-0.0115,0.0021,1.6e-08
+"292","rs12523097","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","T","C",NA,0.0138,0.0023,1.2e-09
+"293","rs12523398","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","T","A",NA,-0.0219,0.0027,1.10002e-15
+"294","rs12554512","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","T","C",NA,-0.0126,0.0021,1.2e-09
+"295","rs12653396","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","T","A",NA,0.0199,0.0021,1.99986e-21
+"296","rs12714592","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","A","C",NA,0.0217,0.0023,1.10002e-20
+"297","rs12714702","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","A","G",NA,0.0242,0.0028,1.39991e-17
+"298","rs12757779","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","G","A",NA,-0.0134,0.0025,3.69999e-08
+"299","rs12878359","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","C","A",NA,0.0134,0.0021,5.30005e-10
+"300","rs12907546","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","G","A",NA,0.0227,0.0025,2.09991e-19
+"301","rs13175535","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","G","A",NA,-0.0125,0.0023,4.39997e-08
+"302","rs13178956","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","A","T",NA,0.0164,0.0024,4.19952e-12
+"303","rs1320138","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","T","C",NA,-0.0148,0.0021,1.9002e-12
+"304","rs13257363","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","G","A",NA,-0.0045,0.0021,0.0359998
+"305","rs13266210","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","A","G",NA,0.0015,0.0025,0.5
+"306","rs13271368","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","C","T",NA,0.0018,0.0025,0.450001
+"307","rs13307225","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","G","A",NA,-0.0218,0.0034,4.70002e-11
+"308","rs13394795","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","T","C",NA,-0.0134,0.0024,2.90001e-08
+"309","rs134594","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","C","T",NA,0.0048,0.0022,0.0219999
+"310","rs1368546","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","T","C",NA,-0.0165,0.0021,2.49977e-15
+"311","rs138715366","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","C","T",NA,0.0174,0.0111,0.0990011
+"312","rs1392816","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","C","T",NA,-0.017,0.0021,6.20012e-16
+"313","rs1411424","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","G","A",NA,0.0024,0.0021,0.24
+"314","rs141547796","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","G","A",NA,-0.0324,0.0038,1.39991e-17
+"315","rs147110934","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","G","T",NA,0.01,0.0067,0.13
+"316","rs147633738","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","C","T",NA,0.0242,0.0042,8.10009e-09
+"317","rs1482852","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","A","G",NA,0.006,0.0021,0.00490004
+"318","rs1585634","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","G","C",NA,0.0146,0.0026,1.29999e-08
+"319","rs1609598","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","C","T",NA,0.0122,0.0022,3.29997e-08
+"320","rs17033114","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","T","C",NA,-0.0081,0.0045,0.0700003
+"321","rs17034876","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","C","T",NA,-0.0017,0.0023,0.450001
+"322","rs17367504","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","A","G",NA,0.0023,0.0028,0.5
+"323","rs1866710","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","A","G",NA,-0.0148,0.0023,2.30001e-10
+"324","rs186723454","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","G","A",NA,-0.0183,0.0029,5.10035e-11
+"325","rs191242857","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","A","G",NA,0.0125,0.0022,1.40001e-08
+"326","rs1925686","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","G","A",NA,-0.0123,0.0021,7.29995e-09
+"327","rs1931263","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","G","T",NA,0.0117,0.0021,1.7e-08
+"328","rs1962545","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","T","C",NA,0.0124,0.0021,4.20001e-10
+"329","rs1981627","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","A","G",NA,-0.0049,0.0021,0.017
+"330","rs1991651","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","C","G",NA,-0.0182,0.0021,1.69981e-17
+"331","rs1995181","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","T","A",NA,0.0121,0.0021,4.49997e-09
+"332","rs2045457","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","G","A",NA,-6e-04,0.0023,0.83
+"333","rs2084572","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","A","G",NA,-0.014,0.0021,3.50026e-11
+"334","rs2091377","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","C","T",NA,-0.0118,0.0021,3.09999e-08
+"335","rs2093623","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","G","A",NA,-0.0139,0.0021,4.49987e-11
+"336","rs2130894","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","C","T",NA,-0.0131,0.0024,1.7e-08
+"337","rs2188151","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","G","T",NA,0.021,0.0021,2.09991e-24
+"338","rs220193","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","A","G",NA,-0.008,0.0025,0.00129999
+"339","rs222857","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","C","T",NA,-9e-04,0.0021,0.7
+"340","rs2229742","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","G","C",NA,-0.0094,0.0034,0.00569994
+"341","rs2237467","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","G","A",NA,-0.0034,0.0025,0.16
+"342","rs2279574","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","C","A",NA,-0.0119,0.0021,2.59998e-08
+"343","rs2280235","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","A","G",NA,0.0031,0.0024,0.18
+"344","rs2282978","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","T","C",NA,-1e-04,0.0022,0.91
+"345","rs2306547","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","C","T",NA,0.002,0.0021,0.44
+"346","rs2306700","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","C","T",NA,-0.0041,0.003,0.19
+"347","rs2406374","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","C","T",NA,-0.0139,0.0022,4.30002e-10
+"348","rs2551347","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","C","T",NA,-0.0041,0.0024,0.0690001
+"349","rs2612030","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","T","C",NA,-0.024,0.0028,1.20005e-17
+"350","rs2779165","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","G","C",NA,0.0071,0.0027,0.00929994
+"351","rs28365970","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","C","A",NA,-0.0039,0.0024,0.1
+"352","rs28406364","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","C","T",NA,0.0165,0.0021,8.10028e-15
+"353","rs28457693","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","A","G",NA,6e-04,0.0033,0.94
+"354","rs28505901","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","A","G",NA,0.0059,0.0024,0.0290001
+"355","rs28929474","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","C","T",NA,-0.0416,0.0074,1.2e-08
+"356","rs2928148","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","G","A",NA,0.0028,0.0021,0.2
+"357","rs2934844","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","A","T",NA,-0.0034,0.0022,0.14
+"358","rs2946179","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","T","C",NA,0.0032,0.0023,0.23
+"359","rs3007104","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","G","A",NA,0.0148,0.0021,1.50003e-12
+"360","rs3184504","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","T","C",NA,-0.0039,0.0021,0.0439997
+"361","rs339969","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","C","A",NA,0.0021,0.0021,0.4
+"362","rs341521","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","G","A",NA,0.0159,0.0023,8.99912e-13
+"363","rs34155040","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","T","C",NA,0.0142,0.0021,1.80011e-11
+"364","rs3447","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","C","G",NA,-0.0177,0.0029,3.69999e-09
+"365","rs34517439","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","C","A",NA,0.0195,0.0032,8.19993e-10
+"366","rs34606772","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","C","T",NA,0.0118,0.0021,1.6e-08
+"367","rs34776209","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","C","T",NA,0.0045,0.0024,0.0569994
+"368","rs34804222","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","A","G",NA,-0.0151,0.0021,1.9002e-13
+"369","rs34811474","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","G","A",NA,-0.0155,0.0024,1.29999e-10
+"370","rs35261542","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","C","A",NA,-0.0021,0.0024,0.26
+"371","rs359271","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","C","T",NA,-0.0181,0.0021,4.10015e-18
+"372","rs3806315","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","G","A",NA,-0.0038,0.0021,0.0769999
+"373","rs3896224","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","A","G",NA,-0.0198,0.0021,2.70023e-21
+"374","rs3918226","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","C","T",NA,0.0018,0.0038,0.54
+"375","rs40434","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","A","G",NA,-0.002,0.0021,0.35
+"376","rs410520","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","C","T",NA,-0.0113,0.0021,4.60002e-08
+"377","rs41311445","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","A","C",NA,0.0053,0.0035,0.11
+"378","rs41355649","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","G","A",NA,-0.0086,0.0041,0.025
+"379","rs4144829","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","C","T",NA,0.0088,0.0024,0.00012
+"380","rs4350272","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","A","G",NA,0.0023,0.0023,0.33
+"381","rs435538","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","C","G",NA,0.017,0.0024,2.49977e-12
+"382","rs4439537","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","T","C",NA,-0.0132,0.0021,1.09999e-10
+"383","rs4444073","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","A","C",NA,9e-04,0.0021,0.46
+"384","rs4569188","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","G","A",NA,0.0135,0.0022,1.29999e-09
+"385","rs4579095","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","A","G",NA,-0.0024,0.0021,0.27
+"386","rs4709807","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","T","C",NA,0.0138,0.0024,1e-08
+"387","rs4719648","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","T","C",NA,0.0031,0.0021,0.15
+"388","rs4728298","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","A","T",NA,-0.0219,0.0029,2.09991e-14
+"389","rs4800204","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","C","T",NA,0.0125,0.0021,4.60002e-09
+"390","rs4868800","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","G","T",NA,-0.0128,0.0021,8.19993e-10
+"391","rs4932373","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","A","C",NA,-0.0119,0.0022,2.99999e-08
+"392","rs4953353","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","G","T",NA,0.0027,0.0022,0.24
+"393","rs4961705","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","G","C",NA,-0.013,0.0022,4.20001e-09
+"394","rs5030317","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","C","G",NA,2e-04,0.0023,0.92
+"395","rs516246","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","C","T",NA,2e-04,0.0021,0.99
+"396","rs56306056","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","G","A",NA,-0.0157,0.0025,4.09996e-10
+"397","rs590414","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","A","T",NA,-0.0135,0.0021,1.7e-10
+"398","rs592278","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","A","G",NA,-0.0125,0.0021,3.40001e-09
+"399","rs6026449","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","T","C",NA,-0.0049,0.0021,0.0239999
+"400","rs6040076","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","G","C",NA,-0.0019,0.0021,0.39
+"401","rs6467157","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","T","C",NA,-0.0024,0.0023,0.29
+"402","rs6504551","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","G","T",NA,-0.0149,0.0023,1.09999e-10
+"403","rs6517512","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","A","G",NA,0.0275,0.005,3.2e-08
+"404","rs6564268","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","C","G",NA,-0.0266,0.0045,5.49997e-09
+"405","rs6569647","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","T","C",NA,0.0051,0.0026,0.0530005
+"406","rs667515","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","G","C",NA,0.0017,0.0021,0.35
+"407","rs6719762","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","T","C",NA,0.0221,0.0021,7.19946e-27
+"408","rs6747099","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","G","C",NA,-0.0123,0.0021,4.90004e-09
+"409","rs67723420","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","T","A",NA,-0.0146,0.0021,1.29987e-11
+"410","rs6845999","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","C","T",NA,-0.008,0.0021,6.29999e-05
+"411","rs6930558","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","G","T",NA,-0.0023,0.0024,0.35
+"412","rs6978112","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","C","T",NA,0.0158,0.0021,2.70023e-14
+"413","rs6995390","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","A","T",NA,0.002,0.0028,0.43
+"414","rs7008955","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","T","G",NA,-0.0116,0.0021,3.40001e-08
+"415","rs702","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","A","T",NA,-0.0181,0.0028,2.80001e-10
+"416","rs7076938","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","C","T",NA,-0.001,0.0023,0.68
+"417","rs7079070","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","G","A",NA,0.0165,0.0021,1.20005e-15
+"418","rs708122","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","C","A",NA,0.0026,0.0022,0.21
+"419","rs7091634","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","G","A",NA,0.0125,0.0021,3.79997e-09
+"420","rs7110863","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","A","G",NA,0.0154,0.0021,5.00035e-13
+"421","rs714393","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","C","T",NA,-0.0126,0.0021,1.5e-09
+"422","rs7151954","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","A","G",NA,0.0208,0.0026,4.00037e-16
+"423","rs7152323","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","A","G",NA,0.0156,0.0021,3.10027e-13
+"424","rs7167444","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","G","T",NA,0.0138,0.0024,8.10009e-09
+"425","rs7188873","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","A","G",NA,0.0146,0.0021,5.79963e-12
+"426","rs7201310","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","C","A",NA,-0.0121,0.0023,2.69998e-08
+"427","rs7223535","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","G","A",NA,0.0026,0.0023,0.21
+"428","rs7236339","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","G","A",NA,0.0201,0.0025,3.90032e-16
+"429","rs72656010","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","T","C",NA,-0.0025,0.0031,0.35
+"430","rs72674824","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","T","C",NA,-0.0137,0.0024,3.40001e-08
+"431","rs72760655","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","C","A",NA,-6e-04,0.0022,0.81
+"432","rs72887338","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","T","C",NA,0.0163,0.0021,1.59993e-14
+"433","rs73143584","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","G","A",NA,-0.0052,0.0033,0.13
+"434","rs732563","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","T","C",NA,0.0018,0.0021,0.46
+"435","rs73354194","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","T","C",NA,-0.0017,0.0068,0.77
+"436","rs7402983","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","A","C",NA,0.0087,0.0021,3.59998e-05
+"437","rs7452074","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","C","A",NA,-0.0128,0.0021,4.90004e-10
+"438","rs74737734","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","A","T",NA,-0.0353,0.0064,2.69998e-08
+"439","rs7476","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","A","C",NA,0.014,0.0022,5.60003e-10
+"440","rs7503604","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","C","A",NA,-0.0129,0.0021,6.1e-10
+"441","rs75104038","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","G","A",NA,0.0112,0.0043,0.0064
+"442","rs7525548","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","A","T",NA,-0.0145,0.0021,2.90001e-12
+"443","rs753381","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","T","C",NA,-0.0037,0.0021,0.0649995
+"444","rs7566527","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","C","T",NA,-0.0137,0.0021,3.80014e-11
+"445","rs7575189","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","G","A",NA,-0.0164,0.0021,1.9002e-15
+"446","rs76094073","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","C","G",NA,-5e-04,0.0032,0.89
+"447","rs7618715","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","G","A",NA,-0.0126,0.0021,1.89998e-09
+"448","rs763053","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","T","C",NA,-0.0163,0.0025,4.90004e-11
+"449","rs76513770","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","T","C",NA,-0.024,0.0031,4.90004e-15
+"450","rs766406","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","G","T",NA,-0.0135,0.0021,5.19996e-10
+"451","rs7671317","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","G","T",NA,-0.0122,0.0022,3.50002e-08
+"452","rs76895963","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","T","G",NA,-0.0035,0.008,0.75
+"453","rs7704530","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","G","A",NA,0.0128,0.0023,2.90001e-08
+"454","rs7744700","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","T","A",NA,-0.0026,0.0023,0.25
+"455","rs7783012","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","G","A",NA,0.0196,0.0021,1.39991e-20
+"456","rs7785195","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","G","A",NA,-0.0142,0.0022,9.49948e-11
+"457","rs7804551","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","A","G",NA,-0.0226,0.0029,2.90001e-15
+"458","rs7815125","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","T","A",NA,-0.0179,0.0027,3.29989e-11
+"459","rs7819593","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","T","C",NA,0.0011,0.0024,0.630001
+"460","rs7824756","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","C","T",NA,-0.0155,0.0023,2.80027e-11
+"461","rs783544","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","A","C",NA,-0.0148,0.0024,3.50002e-10
+"462","rs7854962","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","C","G",NA,0.0017,0.0025,0.51
+"463","rs7903146","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","C","T",NA,3e-04,0.0023,0.86
+"464","rs7909331","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","A","G",NA,0.0156,0.0028,2.90001e-08
+"465","rs79269403","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","G","A",NA,-0.0206,0.0025,3.10027e-17
+"466","rs7927195","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","A","G",NA,0.0152,0.0021,4.90004e-13
+"467","rs7942078","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","A","T",NA,-0.0161,0.0022,6.59933e-14
+"468","rs7955865","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","T","A",NA,-0.0134,0.0022,8.40001e-10
+"469","rs7968682","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","G","T",NA,0.0065,0.0021,0.00109999
+"470","rs7972441","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","A","C",NA,-0.0149,0.0022,1.10002e-11
+"471","rs80278614","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","G","A",NA,6e-04,0.0048,0.9
+"472","rs803679","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","G","A",NA,-0.0175,0.0025,6.79986e-12
+"473","rs807478","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","A","G",NA,-0.0122,0.0021,1.89998e-09
+"474","rs809955","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","G","A",NA,-0.0157,0.0021,1e-13
+"475","rs8106042","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","C","G",NA,-0.0016,0.0023,0.52
+"476","rs8180995","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","A","G",NA,-0.0122,0.0021,8.9e-10
+"477","rs838042","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","G","A",NA,-0.0162,0.0022,3.90032e-13
+"478","rs854037","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","A","G",NA,0.0049,0.0026,0.0580003
+"479","rs905938","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","T","C",NA,-7e-04,0.0023,0.67
+"480","rs9318511","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","A","C",NA,0.0027,0.0031,0.37
+"481","rs9366778","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","G","A",NA,-0.0021,0.0022,0.34
+"482","rs9514600","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","C","G",NA,0.0114,0.0021,2.39999e-08
+"483","rs9536994","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","C","A",NA,0.0125,0.0022,4.20001e-09
+"484","rs9538248","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","C","A",NA,0.0159,0.0022,2.99985e-13
+"485","rs9549046","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","A","G",NA,0.0103,0.0033,0.00179999
+"486","rs9581878","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","A","T",NA,0.0199,0.003,1.5e-10
+"487","rs9645500","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","T","G",NA,4e-04,0.0022,0.92
+"488","rs9809849","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","G","A",NA,0.014,0.0021,1.80011e-11
+"489","rs9923553","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","A","G",NA,0.0139,0.0023,3.79997e-10
+"490","rs993700","Age at first sexual intercourse || id:ebi-a-GCST90000047","ebi-a-GCST90000047","T","C",NA,-0.0157,0.0025,2.90001e-10
